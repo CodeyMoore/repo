@@ -1,0 +1,136 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://github.com/sukarodo/Undecimus_assets//master/Banners/RepoHeader.png",
+	"tabs": [
+	{
+	"tabname": "Details",
+	"views": [
+    {
+	"title":"Title or basic description goes here",
+	"useBoldText":true,
+	"useBottomMargin":false,
+	"class":"DepictionSubheaderView"
+	},
+	{
+	"markdown": "A second thing or subtititle goes here",
+	"useSpacing": true,
+	"class": "DepictionMarkdownView"
+	},
+	{
+	"spacing": 8,
+	"class": "DepictionSpacerView"
+	},
+	{
+	"itemCornerRadius": 6,
+	"itemSize": "{160, 275.41333333333336}",
+	"screenshots": [
+	{
+	"accessibilityText": "Screenshot",
+	"url": "https://github.com/sukarodo/Undecimus_assets/blob/master/Screenshots/screenshot.png?raw=true"
+	},
+	{
+	"accessibilityText": "Screenshot",
+	"url": "https://github.com/sukarodo/Undecimus_assets/blob/master/Screenshots/screenshot2.png?raw=true"
+	}
+	],
+	"class": "DepictionScreenshotsView"
+	},
+	{
+	"markdown": "Other thing goes here",
+	"useSpacing": true,
+	"class": "DepictionMarkdownView"
+	},
+	{
+	"spacing": 8,
+	"class": "DepictionSpacerView"
+	},
+    {
+	"title":"# Other Features:<br/>* Add unsupported repositories<br/>* E-Mail and share your tweak lists easily<br/>* Auto-Respring after installation<br/>* Add multiple repositories at once",
+	"useBoldText":true,
+	"useBottomMargin":false,
+	"class":"DepictionMarkdownView"
+	},
+    {
+	"title":"More Features Coming Soon",
+	"useBoldText":true,
+	"useBottomMargin":false,
+	"class":"DepictionSubheaderView"
+	},
+	{
+	"class": "DepictionSeparatorView"
+	},
+	{
+	"title": "Latest Version",
+	"class": "DepictionHeaderView"
+	},
+	{
+	"title": "Version",
+	"text": "0.0.0",
+	"class": "DepictionTableTextView"
+	},
+	{
+	"title": "Released",
+	"text": "2019-01-01",
+	"class": "DepictionTableTextView"
+	},
+	{
+	"title": "Price",
+	"text": "Free",
+	"class": "DepictionTableTextView"
+	},
+	{
+	"spacing": 8,
+	"class": "DepictionSpacerView"
+	},
+	{
+	"title": "Developer",
+	"text": "Developer",
+	"class": "DepictionTableTextView"
+	},
+	{
+	"title": "Contact Support",
+	"action": "depiction-https://oceantweak.tk/repo/depictions/SupportDepiction.json",
+	"class": "DepictionTableButtonView"
+	},
+	{
+	"spacing": 8,
+	"class": "DepictionSpacerView"
+	},
+	{
+	"markdown": "<small style=\"color: #aaa; font-size: 8pt;\">© Developer name. Hosted by Undecimus Repository.</small><style>body { text-align: center; }</style>",
+	"useRawFormat": true,
+	"class": "DepictionMarkdownView"
+	}
+	],
+	"class": "DepictionStackView"
+	},
+	{
+	"tabname": "Changelog",
+	"views": [
+	{
+	"title": "Version 0.0.1",
+	"useBoldText": true,
+	"useBottomMargin": true,
+	"class": "DepictionSubheaderView"
+	},
+	{
+	"markdown": "* Developer stuff that he or she chaged.",
+	"useSpacing": false,
+	"class": "DepictionMarkdownView"
+	},
+	{
+	"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-01-01</small>",
+	"useRawFormat": true,
+	"class": "DepictionMarkdownView"
+	},
+	{
+	"markdown": "<small style=\"color: #aaa; font-size: 8pt;\">© Developer name. Hosted by Undecimus Repository.</small><style>body { text-align: center; }</style>",
+	"useRawFormat": true,
+	"class": "DepictionMarkdownView"
+	}
+	],
+	"class": "DepictionStackView"
+	}
+	],
+	"class": "DepictionTabView"
+	}
