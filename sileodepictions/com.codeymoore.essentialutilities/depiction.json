@@ -18,26 +18,9 @@
 					"markdown": "## Description\nA preference bundle with UICache, Restart SpringBoard, Restart Backboardd, Restart mediaserverd and callservicesd commands"
 				},
 				{
-					"itemCornerRadius": 6,
-					"itemSize": "{160, 275.41333333333336}",
-					"screenshots": [
-				{
-					"accessibilityText": "Screenshot",
-					"url": "https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/Screenshots/EssentialUtilities1.jpeg?raw=true"
-				},
-				],
-					"class": "DepictionScreenshotsView"
-				},
-				{
 					"class": "DepictionImageView",
 					"URL": "https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/Screenshots/EssentialUtilities1.jpeg",
-					"width": 1125,
-					"height": 2436,
-					"cornerRadius": 10,
-					"alignment": 1
-				},
-				],
-					"class": "DepictionScreenshotsView"
+					"width": "1125", "height": "2436", "cornerRadius": "10", "alignment": "1"
 				},
 				{
 					"class": "DepictionSeparatorView"
