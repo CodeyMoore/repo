@@ -18,8 +18,8 @@
 					"markdown": "## Description\nXanify is a work-in-progress Spotify tweak.<br/> More features will be added over time"
 				},
 				{
-					"itemCornerRadius": 20,
-					"itemSize": "{120, 285}",
+					"itemCornerRadius": 5,
+					"itemSize": "{130, 285}",
 					"screenshots": [
 				{
 					"accessibilityText": "Screenshot",

@@ -18,8 +18,8 @@
 					"markdown": "## Description\nA preference bundle with UICache, Restart SpringBoard, Restart Backboardd, Restart mediaserverd and callservicesd commands"
 				},
 				{
-					"itemCornerRadius": 20,
-					"itemSize": "{120, 285}",
+					"itemCornerRadius": 5,
+					"itemSize": "{130, 285}",
 					"screenshots": [
 				{
 					"accessibilityText": "Screenshot",
