@@ -4,7 +4,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://codeymoore.github.io/repo/assets/Banners/RepoHeader.png",
+        "url": "https://codeymoore.github.io/repo/assets/Banners/XanifyHeader.png",
         "title": "Xanify",
         "package": "com.codeymoore.xanify",
         "hideShadow": false
