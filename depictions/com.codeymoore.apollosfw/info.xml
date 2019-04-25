@@ -12,7 +12,7 @@
 		<package>Cydia Substrate/Substitute</package>
 		<package>Apollo (From AppStore)</package>
 	</dependencies>
-	<shortDescription>Makes Apollo safe for work</shortDescription>
+	<shortDescription>Makes Apollo safe for work ;)</shortDescription>
 	<descriptionlist>
 		<description>Makes all content on Apollo safe for work ;)<br/>and disables jailbreak detection</description>
 	</descriptionlist>
