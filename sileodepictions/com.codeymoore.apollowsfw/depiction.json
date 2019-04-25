@@ -1,17 +1,21 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://codeymoore.github.io/repo/assets/Banners/RepoHeader.png",
-	"tintColor": "#ffae8e",
+	"tintColor": ,
 	"tabs": [
 		{
 			"tabname": "Details",
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## ApollowSFW\nMakes Apollo safe for work ;)"
+					"markdown": "# ApollowSFW\nMakes Apollo safe for work ;)"
 				},
 				{
 					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Description\n A simple tweak that removes the NSFW blur and disables jailbreak detection"
 				},
 				{
 					"title": "Latest Version",
@@ -24,7 +28,7 @@
 				},
 				{
 					"title": "Released",
-					"text": "2019/04/25",
+					"text": "25th April 2019",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -43,13 +47,10 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
+					"title": "Need Support? DM me on Twitter",
+					"action": "https://twitter.com/CodeyMooreDev",
+					"class": "DepictionTableButtonView"
 				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
 			],
 			"class": "DepictionStackView"
 		},
@@ -63,12 +64,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Intial Release and Arm64e (A12/A12x) Support",
+					"markdown": "Arm64e (A12/A12x) Support",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/25</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 25th April 2019</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}

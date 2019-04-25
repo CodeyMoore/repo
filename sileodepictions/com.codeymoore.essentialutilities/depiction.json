@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://codeymoore.github.io/repo/assets/Banners/RepoHeader.png",
-	"tintColor": "#ffae8e",
+	"tintColor": ,
 	"tabs": [
 		{
 			"tabname": "Details",
@@ -24,9 +24,6 @@
 				{
 					"accessibilityText": "Screenshot",
 					"url": "https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/Images/EssentialUtilities1.jpeg"
-				},
-				{
-					"class": "DepictionSeparatorView"
 				},
 				],
 					"class": "DepictionScreenshotsView"
@@ -61,13 +58,10 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
+					"title": "Need Support? DM me on Twitter",
+					"action": "https://twitter.com/CodeyMooreDev",
+					"class": "DepictionTableButtonView"
 				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
 			],
 			"class": "DepictionStackView"
 		},

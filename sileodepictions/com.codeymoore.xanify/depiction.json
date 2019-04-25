@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://codeymoore.github.io/repo/assets/Banners/RepoHeader.png",
-	"tintColor": "#ffae8e",
+	"tintColor": ,
 	"tabs": [
 		{
 			"tabname": "Details",
