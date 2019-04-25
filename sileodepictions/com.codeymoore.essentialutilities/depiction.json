@@ -91,7 +91,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Arm64e (A12/A12x) Support\n Updated the preference bundle in the settings app (Cephei)\n Added Restart Backboardd\n Updated names (restart)" ,
+					"markdown": "Arm64e (A12/A12x) Support.\n\u000A Updated the preference bundle in the settings app (Cephei).\n\u000A Added Restart Backboardd.\n\u000A Updated names (restart).",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -102,7 +102,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "No changes to any code itself" "RIP X and Peep",
+					"markdown": "No changes to any code itself.\n\u000A RIP X and Peep.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -113,7 +113,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Added Restart mediaserverd and callservicesd" "Fixed some spacing issues in the preference bundle" "Finally added a preference bundle icon",
+					"markdown": "Added Restart mediaserverd and callservicesd.\n\u000A Fixed some spacing issues in the preference bundle.\n\u000A Finally added a preference bundle icon.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -124,7 +124,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Removed the reboot button" "Fixed some spacing issues in the preference bundle" "Fixed the Twitter button (it now takes you to my dev account)" "Added a new contact me button",
+					"markdown": "Removed the reboot button.\n\u000A Fixed some spacing issues in the preference bundle.\n\u000A Fixed the Twitter button (it now takes you to my dev account).\n\u000A Added a new contact me button.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
