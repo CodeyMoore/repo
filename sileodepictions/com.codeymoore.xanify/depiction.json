@@ -88,129 +88,29 @@
 	"tabname": "Changelog",
 	"views": [
 	{
-		"title": " 1.3-1",
-		"useBoldText": true,
-		"useBottomMargin": true,
-		"class": "DepictionSubheaderView"
+	"title": "Version 1.3-1",
+	"useBoldText": true,
+	"useBottomMargin": true,
+	"class": "DepictionSubheaderView"
 	},
 	{
-		"markdown": "Arm64e (A12/A12x) Support.<br/> Fixed Genius/BehindTheLyrics hiding option.<br/> Added artwork next to songs in playlist",
-		"useSpacing": false,
-		"class": "DepictionMarkdownView"
+	"markdown": "Arm64e (A12/A12x) Support.<br/> Fixed Genius/BehindTheLyrics hiding option.<br/> Added artwork next to songs in playlist.",
+	"useSpacing": false,
+	"class": "DepictionMarkdownView"
 	},
 	{
-		"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/24</small>",
-		"useRawFormat": true,
-		"class": "DepictionMarkdownView"
-	}
-	{
-		"spacing": 8,
-		"class": "DepictionSpacerView"
+	"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-01-01</small>",
+	"useRawFormat": true,
+	"class": "DepictionMarkdownView"
 	},
 	{
-		"title": "1.3",
-		"useBoldText": true,
-		"useBottomMargin": true,
-		"class": "DepictionSubheaderView"
-	},
-	{
-		"markdown": "Tweak has been moved back into the Settings app.<br/>Hiding the device picker works in the new UI.<br/>Fixed the fullscreen album art for the new UI.<br/>Not sure if the hide Genius/BehindTheLyrics option works (at the moment).<br/>Removed the Landscape rotation",
-		"useSpacing": false,
-		"class": "DepictionMarkdownView"
-	},
-	{
-		"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
-		"useRawFormat": true,
-		"class": "DepictionMarkdownView"
-	}
-	{
-		"spacing": 8,
-		"class": "DepictionSpacerView"
-	},
-	{
-		"title": "1.2",
-		"useBoldText": true,
-		"useBottomMargin": true,
-		"class": "DepictionSubheaderView"
-	},
-	{
-		"markdown": "Fixed the option to hide Genius/BehindTheLyrics.<br/>Hiding the device picker doesnt currently work in the new UI.<br/>Updated the preference bundle in the settings app (Cephei)",
-		"useSpacing": false,
-		"class": "DepictionMarkdownView"
-	},
-	{
-		"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
-		"useRawFormat": true,
-		"class": "DepictionMarkdownView"
-	}
-	{
-		"spacing": 8,
-		"class": "DepictionSpacerView"
-	},
-	{
-		"title": "1.1",
-		"useBoldText": true,
-		"useBottomMargin": true,
-		"class": "DepictionSubheaderView"
-	},
-	{
-		"markdown": "Update to make everything work",
-		"useSpacing": false,
-		"class": "DepictionMarkdownView"
-	},
-	{
-		"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
-		"useRawFormat": true,
-		"class": "DepictionMarkdownView"
-	}
-	{
-		"spacing": 8,
-		"class": "DepictionSpacerView"
-	},
-	{
-		"title": "1.0B-3",
-		"useBoldText": true,
-		"useBottomMargin": true,
-		"class": "DepictionSubheaderView"
-	},
-	{
-		"markdown": "Tweak has moved inside the Spotify app (except for Followers/Following spoofer)<br/>Added an option to spoof Followers/Following count.<br/>Pitch black now playing view.<br/>Landscape rotation for iPhone/iPod.<br/>(Kinda pointless) Anti-Jailbreak detection.<br/>Updated method for hiding the status bar",
-		"useSpacing": false,
-		"class": "DepictionMarkdownView"
-	},
-	{
-		"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
-		"useRawFormat": true,
-		"class": "DepictionMarkdownView"
-	}
-	{
-		"spacing": 8,
-		"class": "DepictionSpacerView"
-	},
-	{
-		"title": "1.0B-1",
-		"useBoldText": true,
-		"useBottomMargin": true,
-		"class": "DepictionSubheaderView"
-	},
-	{
-		"markdown": "Intial Release",
-		"useSpacing": false,
-		"class": "DepictionMarkdownView"
-	},
-	{
-		"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
-		"useRawFormat": true,
-		"class": "DepictionMarkdownView"
-	}
-	{
-	"markdown": "<small style=\"color: #aaa; font-size: 8pt;\">© Codey Moore</small><style>body { text-align: center; }</style>",
+	"markdown": "<small style=\"color: #aaa; font-size: 8pt;\">© Codey Moore.</small><style>body { text-align: center; }</style>",
 	"useRawFormat": true,
 	"class": "DepictionMarkdownView"
 	}
-],
-"class": "DepictionStackView"
-}
-],
-"class": "DepictionTabView"
-}
+	],
+	"class": "DepictionStackView"
+	}
+	],
+	"class": "DepictionTabView"
+	}
