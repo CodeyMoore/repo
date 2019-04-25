@@ -91,7 +91,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Arm64e (A12/A12x) Support" "Updated the preference bundle in the settings app (Cephei)" "Added Restart Backboardd" "Updated names (restart)" ,
+					"markdown": "Arm64e (A12/A12x) Support\n Updated the preference bundle in the settings app (Cephei)\n Added Restart Backboardd\n Updated names (restart)" ,
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
