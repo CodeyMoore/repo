@@ -7,8 +7,9 @@
         "url": "https://codeymoore.github.io/repo/assets/Banners/RepoHeader.png",
         "title": "Xanify",
         "package": "com.codeymoore.xanify",
-        "hideShadow": false,
-        
+        "hideShadow": false
+    },
+    {
         "url": "https://codeymoore.github.io/repo/assets/Banners/RepoHeader.png",
         "title": "Essential Utilities",
         "package": "com.codeymoore.essentialutilities",
