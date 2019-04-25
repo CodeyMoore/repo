@@ -13,7 +13,7 @@
 	</dependencies>
 	<shortDescription>Disable Genius/BehindTheLyrics feature</shortDescription>
 	<descriptionlist>
-		<description>This is a component from Xanify<br/>Einstein aims to disable the Genius/BehindTheLyrics feature from Spotify.></description>
+		<description>This is a component from Xanify<br/>Einstein aims to disable the Genius/BehindTheLyrics feature from Spotify.</description>
 	</descriptionlist>
 	<changelog>
 		<change>Updated to work on latest version of Spotify</change>
