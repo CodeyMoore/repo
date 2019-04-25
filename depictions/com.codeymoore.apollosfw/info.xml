@@ -1,0 +1,25 @@
+<package>
+	<id>com.codeymoore.apollosfw</id>
+	<name>ApolloSFW</name>
+	<version>1.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Cydia Substrate/Substitute</package>
+		<package>Apollo (From AppStore)</package>
+	</dependencies>
+	<shortDescription>Makes Apollo safe for work</shortDescription>
+	<descriptionlist>
+		<description>Makes all content on Apollo safe for work ;)<br/>and disables jailbreak detection</description>
+	</descriptionlist>
+	<changelog>
+		<change>Intial Release</change>
+		<change>Arm64e (A12/A12x) support should be added</change>
+	</changelog>
+	<links>
+	</links>
+</package>

@@ -1,3 +1,76 @@
+Package: com.codeymoore.apollosfw
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.codeymoore.apollosfw_1.0-1_iphoneos-arm.deb
+Size: 2462
+MD5sum: 9ef8237f487bc559f7fc769f13902c93
+SHA1: bfa2f4ecd47c3caa125b5221aa54f5b45ad2d7bc
+SHA256: 3deaf8a3d1a06b3321b4130e2cd716c0bff4b9032defb9c18697ef5b004faf6b
+Section: Tweaks
+Description: Makes Apollo safe for work ;)
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.apollosfw
+Name: ApolloSFW
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.apollosfw/depiction.json
+
+Package: com.codeymoore.einstein
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.codeymoore.einstein_1.1_iphoneos-arm.deb
+Size: 3002
+MD5sum: 033d230f820991b6428426e00f4e4d21
+SHA1: ef7e1b267d0c6c12314864adf46a51852f724452
+SHA256: f47876ce99f29bdfefc3a84f0b208a478057a4135ebd0a5446fc4ff1e50d4bc2
+Section: Tweaks
+Description: Disables the Genius feature in Spotify.
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.einstein
+Name: Einstein
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.einstein/depiction.json
+
+Package: com.codeymoore.essentialutilities
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 224
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.codeymoore.essentialutilities_1.4_iphoneos-arm.deb
+Size: 52008
+MD5sum: c981efdbed9e507eb28be6ec950db0df
+SHA1: ca15b1ac9cb7e55f804c17c9bedc3cf4c790df6e
+SHA256: 56ae98f71a0ffeef406da52b7d6f69ce0e64d3834d2a34bfb1df4a9d26a56534
+Section: Utilities
+Description: Preference bundle with essential commands
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.essentialutilities
+Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/EU@2x.png
+Name: Essential Utilities
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
+
+Package: com.codeymoore.optussportnojb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.codeymoore.optussportnojb_1.0_iphoneos-arm.deb
+Size: 3530
+MD5sum: b74b12c6c994d09bec8b664c3747553b
+SHA1: 3daa11caf06512221a727ad96c7dcbb3fb8c1726
+SHA256: f140de01b0e2b4864e1754aa73186ae10ec4b8b0a9ef0f97bb5b3aee9543711b
+Section: Tweaks
+Description: Disables Jailbreak Detection. Nice try Optus ;)
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.optussportnojb
+Name: OptusSportNoJB
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.optussportnojb/depiction.json
+
 Package: com.codeymoore.xanify
 Version: 1.3-1
 Architecture: iphoneos-arm

@@ -1,0 +1,24 @@
+<package>
+	<id>com.codeymoore.essentialutilities</id>
+	<name>Essential Utilities</name>
+	<version>1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Cydia Substrate/Substitute</package>
+		<package>Cephei</package>
+	</dependencies>
+	<shortDescription>A preference bundle with essential commands</shortDescription>
+	<descriptionlist>
+		<description>Preference bundle with UICache, Restart SpringBoard, Restart Backboardd, Restart mediaserverd and callservicesd commands</description>
+	</descriptionlist>
+	<changelog>
+		<change>Arm64e (A12/A12x) support should be added (iirc, Cephei doesnt currently support Arm64e)</change>
+	</changelog>
+	<links>
+	</links>
+</package>

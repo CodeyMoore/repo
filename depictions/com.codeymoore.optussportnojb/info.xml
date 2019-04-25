@@ -1,0 +1,24 @@
+<package>
+	<id>com.codeymoore.optussportnojb</id>
+	<name>OptusSportNoJB</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Cydia Substrate/Substitute</package>
+	</dependencies>
+	<shortDescription>Disables Jailbreak Detection</shortDescription>
+	<descriptionlist>
+		<description>Disables Jailbreak Detection<br/>Nice try Optus ;)</description>
+	</descriptionlist>
+	<changelog>
+		<change>Intial Release</change>
+		<change>Arm64e (A12/A12x) support should be added</change>
+	</changelog>
+	<links>
+	</links>
+</package>

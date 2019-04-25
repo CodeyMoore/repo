@@ -1,0 +1,39 @@
+<changelog>
+	<changes>
+		<version>1.4-1</version>
+		<change>Arm64e (A12/A12x) support should be added (iirc, Cephei doesnt currently support Arm64e)</change>
+	</changes>
+	<changes>
+		<version>1.4</version>
+		<change>Updated the preference bundle in the settings app (Cephei)</change>
+		<change>Added "Restart Backboardd"</change>
+		<change>Updated names ("restart")</change>
+	</changes>
+	<changes>
+		<version>1.3</version>
+		<change>No changes to any code itself</change>
+		<change>RIP X and Peep</change>
+	</changes>
+	<changes>
+		<version>1.2</version>
+		<change>Reboot button most likely wont be added in</change>
+		<change>Added Restart mediaserverd and callservicesd</change>
+		<change>Fixed some spacing issues in the preference bundle</change>
+		<change>Finally added a preference bundle icon</change>
+	</changes>
+	<changes>
+		<version>1.1</version>
+		<change>Removed the reboot button</change>
+		<change>Fixed some spacing issues in the preference bundle</change>
+		<change>Fixed the Twitter button (it now takes you to my dev account)</change>
+		<change>Added a new contact me button</change>
+	</changes>
+	<changes>
+		<version>1.0-11</version>
+		<change>Working on fixing reboot not working properly on all iOS versions</change>
+	</changes>
+	<changes>
+		<version>1.0-10</version>
+		<change>Intial Release</change>
+	</changes>
+</changelog>
