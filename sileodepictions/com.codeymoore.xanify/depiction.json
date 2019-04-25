@@ -5,20 +5,10 @@
 	{
 	"tabname": "Details",
 	"views": [
-    {
-	"title":"Xanify",
+  	{
+	"title":"Xanify - A small collection of Spotify tweaks",
 	"useBoldText":true,
-	"useBottomMargin":false,
-	"class":"DepictionSubheaderView"
-	},
-	{
-	"markdown": "A small collection of Spotify tweaks",
-	"useSpacing": true,
-	"class": "DepictionMarkdownView"
-	},
-	{
-	"spacing": 8,
-	"class": "DepictionSpacerView"
+	"class": "DepictionHeaderView"
 	},
 	{
 	"itemCornerRadius": 6,
@@ -32,7 +22,7 @@
 	"class": "DepictionScreenshotsView"
 	},
 	{
-	"markdown": "Other thing goes here",
+	"markdown": "Xanify is a work-in-progress Spotify tweak.<br/> More features will be added over time",
 	"useSpacing": true,
 	"class": "DepictionMarkdownView"
 	},
