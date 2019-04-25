@@ -18,7 +18,6 @@
 		<description>A work-in-progress Spotify tweak</description>
 	</descriptionlist>
 	<changelog>
-		<change>1.3-1</change>
 		<change>Arm64e (A12/A12x) support should be added (iirc, Cephei doesnt currently support Arm64e)</change>
 		<change>Fixed Genius/BehindTheLyrics hiding option</change>
 		<change>Added artwork nect to songs in playlist option</change>
