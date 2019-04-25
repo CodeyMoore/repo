@@ -1,8 +1,6 @@
 #!/bin/bash
 
 echo
-echo "Cleaning up quickly..."
-echo "--------------------------"
 
 ./clean.sh
 
@@ -10,10 +8,10 @@ echo
 echo "Rebuilding package list..."
 echo "--------------------------"
 
-rm Packages*
-./dpkg-scanpackages -m ./debs/ /dev/null > Packages
-bzip2 Packages
-./dpkg-scanpackages -m ./debs/ /dev/null > Packages
+#./dpkg-scanpackages.pl -m ./debs /dev/null > Packages
+dpkg-scanpackages -m ./debs /dev/null > Packages
+rm -f Packages.bz2
+bzip2 -k Packages
 
 echo "--------------------------"
 echo "Done."
