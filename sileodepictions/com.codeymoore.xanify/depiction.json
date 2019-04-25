@@ -1,107 +1,92 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://codeymoore.github.io/repo/assets/Banners/RepoHeader.png",
+	"tintColor": "#ffae8e",
 	"tabs": [
-	{
-	"tabname": "Details",
-	"views": [
-  	{
-	"title":"Xanify<br/> - A small collection of Spotify tweaks",
-	"useBoldText":true,
-	"useBottomMargin":false,
-	"class": "DepictionHeaderView"
-	},
-	{
-	"itemCornerRadius": 6,
-	"itemSize": "{160, 275.41333333333336}",
-	"screenshots": [
-	{
-	"accessibilityText": "Screenshot",
-	"url": "https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.xanify/Images/Xanify1.jpeg"
-	},
-	],
-	"class": "DepictionScreenshotsView"
-	},
-	{
-	"markdown": "Xanify is a work-in-progress Spotify tweak.<br/> More features will be added over time",
-	"useSpacing": true,
-	"class": "DepictionMarkdownView"
-	},
-	{
-	"class": "DepictionSeparatorView"
-	},
-	{
-	"title": "Latest Version",
-	"class": "DepictionHeaderView"
-	},
-	{
-	"title": "Version",
-	"text": "1.3-1",
-	"class": "DepictionTableTextView"
-	},
-	{
-	"title": "Released",
-	"text": "2019/04/24",
-	"class": "DepictionTableTextView"
-	},
-	{
-	"title": "Price",
-	"text": "Free",
-	"class": "DepictionTableTextView"
-	},
-	{
-	"spacing": 8,
-	"class": "DepictionSpacerView"
-	},
-	{
-	"title": "Developer",
-	"text": "Codey Moore",
-	"class": "DepictionTableTextView"
-	},
-	{
-	"title": "Need Support? DM me on Twitter",
-	"action": "https://twitter.com/CodeyMooreDev",
-	"class": "DepictionTableButtonView"
-	},
-	{
-	"spacing": 8,
-	"class": "DepictionSpacerView"
-	},
-	{
-	"markdown": "<small style=\"color: #aaa; font-size: 8pt;\">© Codey Moore</small><style>body { text-align: center; }</style>",
-	"useRawFormat": true,
-	"class": "DepictionMarkdownView"
-	}
-	],
-	"class": "DepictionStackView"
-	},
-	{
-	"tabname": "Changelog",
-	"views": [
-	{
-	"title": "Version 1.3-1",
-	"useBoldText": true,
-	"useBottomMargin": true,
-	"class": "DepictionSubheaderView"
-	},
-	{
-	"markdown": "Arm64e (A12/A12x) Support.<br/> Fixed Genius/BehindTheLyrics hiding option.<br/> Added artwork next to songs in playlist.",
-	"useSpacing": false,
-	"class": "DepictionMarkdownView"
-	},
-	{
-	"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 24/04/2019</small>",
-	"useRawFormat": true,
-	"class": "DepictionMarkdownView"
-	},
-	{
-	"markdown": "<small style=\"color: #aaa; font-size: 8pt;\">© Codey Moore</small><style>body { text-align: center; }</style>",
-	"useRawFormat": true,
-	"class": "DepictionMarkdownView"
-	}
-	],
-	"class": "DepictionStackView"
-	}
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "#Xanify\n - A small collection of Spotify tweaks"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Description\nXanify is a work-in-progress Spotify tweak.<br/> More features will be added over time"
+				},
+				{
+					"itemCornerRadius": 10,
+					"itemSize": "{160, 245}",
+					"screenshots": [
+				{
+					"accessibilityText": "Screenshot",
+					"url": "https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.xanify/Images/Xanify1.jpeg"
+				},
+				],
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.3-1",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "24/04/2019",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Codey Moore",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Website",
+					"action": "https://codeymoore.github.io/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Need Support? DM me on Twitter",
+					"action": "https://twitter.com/CodeyMooreDev",
+					"class": "DepictionTableButtonView"
+				},
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.3-1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Arm64e (A12/A12x) Support.<br/> Fixed Genius/BehindTheLyrics hiding option.<br/> Added artwork next to songs in playlist.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/24</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
 	],
 	"class": "DepictionTabView"
-	}
+}
