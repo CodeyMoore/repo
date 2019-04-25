@@ -7,8 +7,8 @@
 			"tabname": "Details",
 			"views": [
 				{
-					"class": "DepictionMarkdownView",
-					"markdown": "##Xanify\n A small collection of Spotify tweaks"
+					"title": "Xanify\n A small collection of Spotify tweaks",
+					"class": "DepictionHeaderView"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,7 +19,7 @@
 				},
 				{
 					"itemCornerRadius": 10,
-					"itemSize": "{160, 245}",
+					"itemSize": "{160, 285}",
 					"screenshots": [
 				{
 					"accessibilityText": "Screenshot",
