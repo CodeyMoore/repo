@@ -25,6 +25,9 @@
 					"accessibilityText": "Screenshot",
 					"url": "https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/Images/EssentialUtilities1.jpeg"
 				},
+				{
+					"class": "DepictionSeparatorView"
+				},
 				],
 					"class": "DepictionScreenshotsView"
 				},

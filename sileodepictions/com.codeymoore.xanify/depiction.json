@@ -25,11 +25,11 @@
 					"accessibilityText": "Screenshot",
 					"url": "https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.xanify/Images/Xanify1.jpeg"
 				},
-				],
-					"class": "DepictionScreenshotsView"
-				},
 				{
 					"class": "DepictionSeparatorView"
+				},
+				],
+					"class": "DepictionScreenshotsView"
 				},
 				{
 					"title": "Latest Version",
