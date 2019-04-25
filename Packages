@@ -6,14 +6,14 @@ Installed-Size: 340
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Conflicts: com.hackyouriphone.xanify
 Filename: ./debs/com.codeymoore.xanify_1.3-1_iphoneos-arm.deb
-Size: 48206
-MD5sum: c2d00ce6bd5b57e0245807b801636753
-SHA1: 10f8992dac3e50fce2e23fe640a3c0e91209cd7b
-SHA256: 5685b69a53d206d95dc9286fb1f0c1a391a76c85f35e5b8a0bfdc17832e36e48
+Size: 48202
+MD5sum: 47093ab313c140b118354d7e9be5ea88
+SHA1: fde7e3571f0b50c9053f24d825587436b3f0e7c7
+SHA256: 88b7ca28fb31916f7531229d9984d2db531fb47e0952d6dfe9600e2366a45199
 Section: Tweaks
 Description: Small collection of Spotify tweaks.
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.xanify
 Name: Xanify
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/?p=com.codeymoore.xanify/depiction.json
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.xanify/depiction.json
 
