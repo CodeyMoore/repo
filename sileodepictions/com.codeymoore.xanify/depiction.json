@@ -68,7 +68,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Arm64e (A12/A12x) Support,\nFixed Genius/BehindTheLyrics hiding option,\nAdded artwork next to songs in playlist",
+					"markdown": "Arm64e (A12/A12x) Support.\nFixed Genius/BehindTheLyrics hiding option.\nAdded artwork next to songs in playlist.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -84,7 +84,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Tweak has been moved back into the Settings app.\n\u000A Hiding the device picker works in the new UI.\n\u000A Fixed the fullscreen album art for the new UI.\n\u000A Not sure if the hide Genius/BehindTheLyrics option works (at the moment).\n\u000A Removed the Landscape rotation",
+					"markdown": "Tweak has been moved back into the Settings app.\nHiding the device picker works in the new UI.\nFixed the fullscreen album art for the new UI.\nNot sure if the hide Genius/BehindTheLyrics option works (at the moment).\nRemoved the Landscape rotation",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -95,7 +95,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Fixed the option to hide Genius/BehindTheLyrics.\n\u000A Hiding the device picker doesnt currently work in the new UI.\n\u000A Updated the preference bundle in the settings app (Cephei)",
+					"markdown": "Fixed the option to hide Genius/BehindTheLyrics.\nHiding the device picker doesnt currently work in the new UI.\nUpdated the preference bundle in the settings app (Cephei)",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -117,7 +117,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Tweak has moved inside the Spotify app (except for Followers/Following spoofer).\n\u000A Added an option to spoof Followers/Following count.\n\u000A Pitch black now playing view,.\n\u000A Landscape rotation for iPhone/iPod.\n\u000A (Kinda pointless) Anti-Jailbreak detection.\n\u000A Updated method for hiding the status bar",
+					"markdown": "Tweak has moved inside the Spotify app (except for Followers/Following spoofer). Added an option to spoof Followers/Following count.\nPitch black now playing view.\nLandscape rotation for iPhone/iPod.\n(Kinda pointless) Anti-Jailbreak detection.\nUpdated method for hiding the status bar",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
