@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "#Xanify\n - A small collection of Spotify tweaks"
+					"markdown": "##Xanify\n A small collection of Spotify tweaks"
 				},
 				{
 					"class": "DepictionSeparatorView"
