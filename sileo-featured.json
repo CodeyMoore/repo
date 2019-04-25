@@ -9,5 +9,11 @@
         "package": "com.codeymoore.xanify",
         "hideShadow": false
     }
+    {
+        "url": "https://codeymoore.github.io/repo/assets/Banners/RepoHeader.png",
+        "title": "Essential Utilities",
+        "package": "com.codeymoore.essentialutilities",
+        "hideShadow": false
+    }
   ]
 }
