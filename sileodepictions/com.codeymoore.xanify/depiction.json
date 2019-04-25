@@ -1,136 +1,80 @@
 {
-	"minVersion": "10.0.0",
-	"headerImage": "https://github.com/sukarodo/Undecimus_assets//master/Banners/RepoHeader.png",
+	"minVersion": "0.1",
+	"headerImage": "https://sukarodo.me/assets/Insidious/repository/Banners/RepoHeader.png",
+	"tintColor": "#ffae8e",
 	"tabs": [
-	{
-	"tabname": "Details",
-	"views": [
-    {
-	"title":"Xanify",
-	"useBoldText":true,
-	"useBottomMargin":false,
-	"class":"DepictionSubheaderView"
-	},
-	{
-	"markdown": "A Small Collection of Spotify Tweaks",
-	"useSpacing": true,
-	"class": "DepictionMarkdownView"
-	},
-	{
-	"spacing": 8,
-	"class": "DepictionSpacerView"
-	},
-	{
-	"itemCornerRadius": 6,
-	"itemSize": "{160, 275.41333333333336}",
-	"screenshots": [
-	{
-	"accessibilityText": "Screenshot",
-	"url": "https://github.com/sukarodo/Undecimus_assets/blob/master/Screenshots/screenshot.png?raw=true"
-	},
-	{
-	"accessibilityText": "Screenshot",
-	"url": "https://github.com/sukarodo/Undecimus_assets/blob/master/Screenshots/screenshot2.png?raw=true"
-	}
-	],
-	"class": "DepictionScreenshotsView"
-	},
-	{
-	"markdown": "Is this the tweak feature description?",
-	"useSpacing": true,
-	"class": "DepictionMarkdownView"
-	},
-	{
-	"spacing": 8,
-	"class": "DepictionSpacerView"
-	},
-    {
-	"title":"# Other Features:<br/>* Add unsupported repositories<br/>* E-Mail and share your tweak lists easily<br/>* Auto-Respring after installation<br/>* Add multiple repositories at once",
-	"useBoldText":true,
-	"useBottomMargin":false,
-	"class":"DepictionMarkdownView"
-	},
-  {
-	"title":"More Features Coming Soon",
-	"useBoldText":true,
-	"useBottomMargin":false,
-	"class":"DepictionSubheaderView"
-	},
-	{
-	"class": "DepictionSeparatorView"
-	},
-	{
-	"title": "Latest Version",
-	"class": "DepictionHeaderView"
-	},
-	{
-	"title": "Version",
-	"text": "1.3-1",
-	"class": "DepictionTableTextView"
-	},
-	{
-	"title": "Released",
-	"text": "2019-04-24",
-	"class": "DepictionTableTextView"
-	},
-	{
-	"title": "Price",
-	"text": "Free",
-	"class": "DepictionTableTextView"
-	},
-	{
-	"spacing": 8,
-	"class": "DepictionSpacerView"
-	},
-	{
-	"title": "Developer",
-	"text": "Developer",
-	"class": "DepictionTableTextView"
-	},
-	{
-	"title": "Contact Support",
-	"action": "depiction-https://oceantweak.tk/repo/depictions/SupportDepiction.json",
-	"class": "DepictionTableButtonView"
-	},
-	{
-	"spacing": 8,
-	"class": "DepictionSpacerView"
-	},
-	{
-	"markdown": "<small style=\"color: #aaa; font-size: 8pt;\">© Codey Moore.</small><style>body { text-align: center; }</style>",
-	"useRawFormat": true,
-	"class": "DepictionMarkdownView"
-	}
-	],
-	"class": "DepictionStackView"
-	},
-	{
-	"tabname": "Changelog",
-	"views": [
-	{
-	"title": "Version 1.3-1",
-	"useBoldText": true,
-	"useBottomMargin": true,
-	"class": "DepictionSubheaderView"
-	},
-	{
-	"markdown": "Arm64e (A12/A12x) Support" "Fixed Genius/BehindTheLyrics hiding option" "Added artwork next to songs in playlist",
-	"useSpacing": false,
-	"class": "DepictionMarkdownView"
-	},
-	{
-	"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-04-24</small>",
-	"useRawFormat": true,
-	"class": "DepictionMarkdownView"
-	},
-	{
-	"markdown": "<small style=\"color: #aaa; font-size: 8pt;\">© Codey Moore. .</small><style>body { text-align: center; }</style>",
-	"useRawFormat": true,
-	"class": "DepictionMarkdownView"
-	}
-	],
-	"class": "DepictionStackView"
-	}
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Xanify\nA Small Collection of Spotify Tweaks"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.3-1",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "2019/04/24",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Codey Moore",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Website",
+					"action": "https://codeymoore.github.io",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.3.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Arm64e (A12/A12x) Support" "Fixed Genius/BehindTheLyrics hiding option" "Added artwork next to songs in playlist",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/24</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
 	],
 	"class": "DepictionTabView"
-	}
+}
