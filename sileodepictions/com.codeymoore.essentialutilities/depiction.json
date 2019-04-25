@@ -20,7 +20,7 @@
 				{
 					"class": "DepictionImageView",
 					"URL": "https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/Screenshots/EssentialUtilities1.jpeg",
-					"width": "1125", "height": "2436" , "cornerRadius": "10" , "alignment": "1",
+					"width": "1125", "height": "2436" , "cornerRadius": "10" , "alignment": "1"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -96,6 +96,11 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+				{
 					"title": "1.3",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -106,6 +111,11 @@
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
 				{
 					"title": "1.2",
 					"useBoldText": true,
@@ -118,6 +128,11 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+				{
 					"title": "1.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -128,6 +143,11 @@
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
 				{
 					"title": "1.0-11",
 					"useBoldText": true,
@@ -140,6 +160,11 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+				{
 					"title": "1.0-11",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -150,6 +175,11 @@
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
 			],
 			"class": "DepictionStackView"
 		}

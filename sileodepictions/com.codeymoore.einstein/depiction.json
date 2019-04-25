@@ -87,6 +87,11 @@
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
 			],
 			"class": "DepictionStackView"
 		}

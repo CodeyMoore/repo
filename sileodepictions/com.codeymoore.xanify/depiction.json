@@ -89,6 +89,11 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+				{
 					"title": "1.2",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -99,6 +104,11 @@
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
 				{
 					"title": "1.1",
 					"useBoldText": true,
@@ -111,16 +121,26 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+				{
 					"title": "1.0B-3",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Tweak has moved inside the Spotify app (except for Followers/Following spoofer). Added an option to spoof Followers/Following count.\nPitch black now playing view.\nLandscape rotation for iPhone/iPod.\n(Kinda pointless) Anti-Jailbreak detection.\nUpdated method for hiding the status bar",
+					"markdown": "Tweak has moved inside the Spotify app (except for Followers/Following spoofer)\nAdded an option to spoof Followers/Following count.\nPitch black now playing view.\nLandscape rotation for iPhone/iPod.\n(Kinda pointless) Anti-Jailbreak detection.\nUpdated method for hiding the status bar",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
 				{
 					"title": "1.0B-1",
 					"useBoldText": true,
@@ -132,6 +152,11 @@
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released ????/??/??</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
 			],
 			"class": "DepictionStackView"
 		}
