@@ -14,6 +14,18 @@
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# Description\nA preference bundle with UICache, Restart SpringBoard, Restart Backboardd, Restart mediaserverd and callservicesd commands"
+				},
+				{
+					"class": "DepictionImageView",
+					"URL": "https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.xanify/Screenshots/Xanify1.jpeg",
+					"width": "2436", "height": "1125" , "cornerRadius": "10" , "alignment": "1",
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
 					"title": "Latest Version",
 					"class": "DepictionHeaderView"
 				},
