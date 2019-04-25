@@ -16,7 +16,6 @@
 	</changes>
 	<changes>
 		<version>1.2</version>
-		<change>Reboot button most likely wont be added in</change>
 		<change>Added Restart mediaserverd and callservicesd</change>
 		<change>Fixed some spacing issues in the preference bundle</change>
 		<change>Finally added a preference bundle icon</change>

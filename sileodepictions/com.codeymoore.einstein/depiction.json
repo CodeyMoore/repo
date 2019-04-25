@@ -76,6 +76,17 @@
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Intial Release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 			],
 			"class": "DepictionStackView"
 		}

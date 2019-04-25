@@ -11,12 +11,9 @@
 					"markdown": "## Xanify\nA Small Collection of Spotify Tweaks"
 				},
 				{
-					"class": "DepictionSeparatorView"
-				},
-				{
 					"class": "DepictionImageView",
 					"URL": "https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.xanify/Screenshots/Xanify1.jpeg",
-					"width": "2436", "height": "1125" , "cornerRadius": "10" , "alignment": "1",
+					"width": "2436", "height": "1125", "cornerRadius": "10", "alignment": "1",
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -71,7 +68,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Arm64e (A12/A12x) Support\nFixed Genius/BehindTheLyrics hiding option\nAdded artwork next to songs in playlist",
+					"markdown": "Arm64e (A12/A12x) Support" "Fixed Genius/BehindTheLyrics hiding option" "Added artwork next to songs in playlist",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -80,6 +77,61 @@
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
+				{
+					"title": "1.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Tweak has been moved back into the Settings app" "Hiding the device picker works in the new UI" "Fixed the fullscreen album art for the new UI" "Not sure if the hide Genius/BehindTheLyrics option works (at the moment)" "Removed the Landscape rotation",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Fixed the option to hide Genius/BehindTheLyrics" "Hiding the device picker doesnt currently work in the new UI" "Updated the preference bundle in the settings app (Cephei)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Update to make everything work",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0B-3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Tweak has moved inside the Spotify app (except for Followers/Following spoofer)" "Added an option to spoof Followers/Following count" "Pitch black now playing view" "Landscape rotation for iPhone/iPod" "(Kinda pointless) Anti-Jailbreak detection" "Updated method for hiding the status bar",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0B-1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Intial Release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 			],
 			"class": "DepictionStackView"
 		}
