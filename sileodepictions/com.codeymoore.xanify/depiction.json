@@ -8,6 +8,7 @@
   	{
 	"title":"Xanify - A small collection of Spotify tweaks",
 	"useBoldText":true,
+	"useBottomMargin":false,
 	"class": "DepictionHeaderView"
 	},
 	{
@@ -58,7 +59,7 @@
 	"class": "DepictionTableTextView"
 	},
 	{
-	"title": "Contact Support",
+	"title": "Need Support? Message me on Twitter",
 	"action": "https://twitter.com/CodeyMooreDev",
 	"class": "DepictionTableButtonView"
 	},
