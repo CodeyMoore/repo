@@ -35,16 +35,16 @@ Name: Einstein
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.einstein/depiction.json
 
 Package: com.codeymoore.essentialutilities
-Version: 1.4
+Version: 1.4-1
 Architecture: iphoneos-arm
 Maintainer: Codey Moore
 Installed-Size: 224
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: ./debs/com.codeymoore.essentialutilities_1.4_iphoneos-arm.deb
-Size: 52008
-MD5sum: c981efdbed9e507eb28be6ec950db0df
-SHA1: ca15b1ac9cb7e55f804c17c9bedc3cf4c790df6e
-SHA256: 56ae98f71a0ffeef406da52b7d6f69ce0e64d3834d2a34bfb1df4a9d26a56534
+Filename: ./debs/com.codeymoore.essentialutilities_1.4-1_iphoneos-arm.deb
+Size: 52024
+MD5sum: 9fc1070054a656485a91b71fb55d869f
+SHA1: edb897375aa368826a9060b6d4f80b242f0ea316
+SHA256: 9d0afbde56ecf2e1982ff8eab77fe31c0a502e7d6e85aa83225e4588567fd623
 Section: Utilities
 Description: Preference bundle with essential commands
 Author: Codey Moore
