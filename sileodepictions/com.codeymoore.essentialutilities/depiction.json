@@ -28,6 +28,9 @@
 					"class": "DepictionScreenshotsView"
 				},
 				{
+					"class": "DepictionSeparatorView"
+				},
+				{
 					"title": "Latest Version",
 					"class": "DepictionHeaderView"
 				},

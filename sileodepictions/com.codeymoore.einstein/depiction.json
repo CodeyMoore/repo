@@ -17,6 +17,9 @@
 					"markdown": "## Description\n This is a component from Xanify.<br/> Einstein aims to disable the Genius/BehindTheLyrics feature from Spotify."
 				},
 				{
+					"class": "DepictionSeparatorView"
+				},
+				{
 					"title": "Latest Version",
 					"class": "DepictionHeaderView"
 				},

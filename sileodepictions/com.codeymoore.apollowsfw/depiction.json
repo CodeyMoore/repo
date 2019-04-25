@@ -17,6 +17,9 @@
 					"markdown": "## Description\n A simple tweak that removes the NSFW blur and disables jailbreak detection."
 				},
 				{
+					"class": "DepictionSeparatorView"
+				},
+				{
 					"title": "Latest Version",
 					"class": "DepictionHeaderView"
 				},

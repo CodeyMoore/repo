@@ -1,21 +1,23 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://codeymoore.github.io/repo/assets/Banners/RepoHeader.png",
-	"tintColor": "#ffae8e",
 	"tabs": [
 		{
 			"tabname": "Details",
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## OptusSportNoJB\nDisables Jailbreak Detection"
+					"markdown": "# OptusSportNoJB\nDisables Jailbreak Detection"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# Description\nDisables Jailbreak Detection\nNice try Optus ;)."
+					"markdown": "## Description\nDisables Jailbreak Detection\nNice try Optus ;)."
+				},
+				{
+					"class": "DepictionSeparatorView"
 				},
 				{
 					"title": "Latest Version",
@@ -27,8 +29,8 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Released",
-					"text": "2019/04/25",
+					"title": "Release Date",
+					"text": "25th April 2019",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -47,13 +49,10 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
+					"title": "Need Support? DM me on Twitter",
+					"action": "https://twitter.com/CodeyMooreDev",
+					"class": "DepictionTableButtonView"
 				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
 			],
 			"class": "DepictionStackView"
 		},
@@ -67,12 +66,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Arm64e (A12/A12x) Support" "Intial Release",
+					"markdown": "Intial Release.<br/> Arm64e (A12/A12x) Support.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/25</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 25th April 2019</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
