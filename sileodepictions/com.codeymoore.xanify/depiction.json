@@ -6,7 +6,7 @@
 	"tabname": "Details",
 	"views": [
   	{
-	"title":"Xanify - A small collection of Spotify tweaks",
+	"title":"Xanify<br/> - A small collection of Spotify tweaks",
 	"useBoldText":true,
 	"useBottomMargin":false,
 	"class": "DepictionHeaderView"
