@@ -37,7 +37,7 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Released",
+					"title": "Released Date",
 					"text": "25th April 2019",
 					"class": "DepictionTableTextView"
 				},
@@ -79,7 +79,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 25th April 2019</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 25th April 2019</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
