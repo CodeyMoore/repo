@@ -104,6 +104,10 @@
 		"class": "DepictionMarkdownView"
 	}
 	{
+		"spacing": 8,
+		"class": "DepictionSpacerView"
+	},
+	{
 		"title": "1.3",
 		"useBoldText": true,
 		"useBottomMargin": true,
@@ -119,6 +123,10 @@
 		"useRawFormat": true,
 		"class": "DepictionMarkdownView"
 	}
+	{
+		"spacing": 8,
+		"class": "DepictionSpacerView"
+	},
 	{
 		"title": "1.2",
 		"useBoldText": true,
@@ -136,6 +144,10 @@
 		"class": "DepictionMarkdownView"
 	}
 	{
+		"spacing": 8,
+		"class": "DepictionSpacerView"
+	},
+	{
 		"title": "1.1",
 		"useBoldText": true,
 		"useBottomMargin": true,
@@ -152,6 +164,10 @@
 		"class": "DepictionMarkdownView"
 	}
 	{
+		"spacing": 8,
+		"class": "DepictionSpacerView"
+	},
+	{
 		"title": "1.0B-3",
 		"useBoldText": true,
 		"useBottomMargin": true,
@@ -167,6 +183,10 @@
 		"useRawFormat": true,
 		"class": "DepictionMarkdownView"
 	}
+	{
+		"spacing": 8,
+		"class": "DepictionSpacerView"
+	},
 	{
 		"title": "1.0B-1",
 		"useBoldText": true,
