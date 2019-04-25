@@ -8,10 +8,14 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Xanify\nA Small Collection of Spotify Tweaks"
+					"markdown": "## Einstain\nDisable Genius/BehindTheLyrics feature"
 				},
 				{
 					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# Description\nThis is a component from Xanify\nEinstein aims to disable the Genius/BehindTheLyrics feature from Spotify."
 				},
 				{
 					"title": "Latest Version",
@@ -19,12 +23,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.3-1",
+					"text": "1.1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "2019/04/24",
+					"text": "2019/04/25",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -39,7 +43,7 @@
 				},
 				{
 					"title": "Website",
-					"action": "https://codeymoore.github.io",
+					"action": "https://codeymoore.github.io/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -57,18 +61,18 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.3-1",
+					"title": "1.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Arm64e (A12/A12x) Support\nFixed Genius/BehindTheLyrics hiding option\nAdded artwork next to songs in playlist",
+					"markdown": "Arm64e (A12/A12x) Support" "Updated to work on latest version of Spotify",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/24</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/25</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}

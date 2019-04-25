@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Xanify\nA Small Collection of Spotify Tweaks"
+					"markdown": "## ApollowSFW\nMakes Apollo safe for work ;)"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,12 +19,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.3-1",
+					"text": "1.0-1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "2019/04/24",
+					"text": "2019/04/25",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"title": "Website",
-					"action": "https://codeymoore.github.io",
+					"action": "https://codeymoore.github.io/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -57,18 +57,18 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.3-1",
+					"title": "1.0-1",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Arm64e (A12/A12x) Support\nFixed Genius/BehindTheLyrics hiding option\nAdded artwork next to songs in playlist",
+					"markdown": "Intial Release and Arm64e (A12/A12x) Support",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/24</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/25</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
