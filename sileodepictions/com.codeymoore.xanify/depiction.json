@@ -68,7 +68,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Arm64e (A12/A12x) Support" "Fixed Genius/BehindTheLyrics hiding option" "Added artwork next to songs in playlist",
+					"markdown": "Arm64e (A12/A12x) Support\nFixed Genius/BehindTheLyrics hiding option\nAdded artwork next to songs in playlist",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
