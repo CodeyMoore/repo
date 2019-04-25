@@ -23,10 +23,5 @@
 		<change>Added artwork nect to songs in playlist option</change>
 	</changelog>
 	<links>
-		<link>
-				<name>Follow me on Twitter</name>
-				<url>https://twitter.com/CodeyMooreDev</url>
-				<iconclass>glyphicon glyphicon-user</iconclass>
-		</link>
 	</links>
 </package>
