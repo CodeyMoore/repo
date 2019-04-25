@@ -7,8 +7,8 @@
 			"tabname": "Details",
 			"views": [
 				{
-					"title": "Xanify\n A small collection of Spotify tweaks",
-					"class": "DepictionHeaderView"
+					"class": "DepictionMarkdownView",
+					"markdown": "# Xanify\n A small collection of Spotify tweaks"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -18,8 +18,8 @@
 					"markdown": "## Description\nXanify is a work-in-progress Spotify tweak.<br/> More features will be added over time"
 				},
 				{
-					"itemCornerRadius": 10,
-					"itemSize": "{160, 285}",
+					"itemCornerRadius": 20,
+					"itemSize": "{120, 285}",
 					"screenshots": [
 				{
 					"accessibilityText": "Screenshot",
@@ -27,6 +27,9 @@
 				},
 				],
 					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionSeparatorView"
 				},
 				{
 					"title": "Latest Version",
@@ -80,7 +83,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/24</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 24th April 2019</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}

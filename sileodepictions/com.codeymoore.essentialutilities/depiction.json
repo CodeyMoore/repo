@@ -18,8 +18,8 @@
 					"markdown": "## Description\nA preference bundle with UICache, Restart SpringBoard, Restart Backboardd, Restart mediaserverd and callservicesd commands"
 				},
 				{
-					"itemCornerRadius": 10,
-					"itemSize": "{160, 285}",
+					"itemCornerRadius": 20,
+					"itemSize": "{120, 285}",
 					"screenshots": [
 				{
 					"accessibilityText": "Screenshot",
@@ -83,7 +83,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/25</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 25th April 2019</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
