@@ -98,10 +98,49 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - ?? ?? ????</small>",
-					"useRawFormat": true,
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Fixed the option to hide Genius/BehindTheLyrics.<br/> Hiding the device picker doesnt currently work in the new UI.<br/> Updated the preference bundle in the settings app (Cephei).",
+					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				}
+				},
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Update to make everything work.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0B-3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Tweak has moved inside the Spotify app (except for Followers/Following spoofer).<br/> Added an option to spoof Followers/Following count.<br/> Pitch black now playing view.<br/> Landscape rotation for iPhone/iPod.<br/> (Kinda pointless) Anti-Jailbreak detection.<br/> Updated method for hiding the status bar.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Initial Release.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 			],
 			"class": "DepictionStackView"
 		}
