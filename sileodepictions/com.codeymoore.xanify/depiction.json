@@ -78,11 +78,11 @@
 				},
 				{
 					"markdown": "Arm64e (A12/A12x) Support.<br/> Fixed Genius/BehindTheLyrics hiding option.<br/> Added artwork next to songs in playlist.",
-					"useSpacing": true,
+					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"spacing": 3,
+					"spacing": 5,
 					"class": "DepictionSpacerView"
 				},
 				{
@@ -97,7 +97,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"spacing": 3,
+					"spacing": 5,
 					"class": "DepictionSpacerView"
 				},
 				{
@@ -112,7 +112,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"spacing": 3,
+					"spacing": 5,
 					"class": "DepictionSpacerView"
 				},
 				{
@@ -127,7 +127,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"spacing": 3,
+					"spacing": 5,
 					"class": "DepictionSpacerView"
 				},
 				{
@@ -142,7 +142,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"spacing": 3,
+					"spacing": 5,
 					"class": "DepictionSpacerView"
 				},
 				{
@@ -157,9 +157,9 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-				"spacing": 3,
-				"class": "DepictionSpacerView"
-				},
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				}
 			],
 			"class": "DepictionStackView"
 		}
