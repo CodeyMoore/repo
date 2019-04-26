@@ -78,7 +78,7 @@
 				},
 				{
 					"markdown": "Arm64e (A12/A12x) Support.<br/> Fixed Genius/BehindTheLyrics hiding option.<br/> Added artwork next to songs in playlist.",
-					"useSpacing": false,
+					"useSpacing": true,
 					"class": "DepictionMarkdownView"
 				},
 				{
