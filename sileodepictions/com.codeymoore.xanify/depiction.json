@@ -82,7 +82,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"spacing": 5,
+					"spacing": 10,
 					"class": "DepictionSpacerView"
 				},
 				{
@@ -97,7 +97,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"spacing": 5,
+					"spacing": 10,
 					"class": "DepictionSpacerView"
 				},
 				{
@@ -112,7 +112,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"spacing": 5,
+					"spacing": 10,
 					"class": "DepictionSpacerView"
 				},
 				{
@@ -127,7 +127,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"spacing": 5,
+					"spacing": 10,
 					"class": "DepictionSpacerView"
 				},
 				{
@@ -142,7 +142,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"spacing": 5,
+					"spacing": 10,
 					"class": "DepictionSpacerView"
 				},
 				{
@@ -155,10 +155,6 @@
 					"markdown": "Initial Release.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				},
-				{
-					"spacing": 5,
-					"class": "DepictionSpacerView"
 				}
 			],
 			"class": "DepictionStackView"
