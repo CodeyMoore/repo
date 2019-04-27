@@ -85,6 +85,72 @@
 					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 25th April 2019</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Updated the preference bundle in the settings app (Cephei).<br/> Added Restart Backboardd.<br/> Updated names (restart).",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "No changes to any code itself.<br/> RIP X and Peep.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Added Restart mediaserverd and callservicesd.<br/> Fixed some spacing issues in the preference bundle.<br/> Finally added a preference bundle icon.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Removed the reboot button.<br/> Fixed some spacing issues in the preference bundle.<br/> Fixed the Twitter button (it now takes you to my dev account).<br> Added a new contact me button.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0-11",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Working on fixing reboot not working properly on all iOS versions.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0-10",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Intial Release.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
 				}
 			],
 			"class": "DepictionStackView"

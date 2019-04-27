@@ -74,7 +74,18 @@
 					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 25th April 2019</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
-				}
+				},
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Intial Release.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 			],
 			"class": "DepictionStackView"
 		}
