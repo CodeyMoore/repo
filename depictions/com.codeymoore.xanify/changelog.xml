@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.3-2</version>
+		<change>Fixed Genius/BehindTheLyrics hiding option</change>
+	</changes>
+	<changes>
 		<version>1.3-1</version>
 		<change>Arm64e (A12/A12x) support should be added (iirc, Cephei doesnt currently support Arm64e)</change>
 		<change>Fixed Genius/BehindTheLyrics hiding option</change>
