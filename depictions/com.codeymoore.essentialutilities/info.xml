@@ -1,7 +1,7 @@
 <package>
 	<id>com.codeymoore.essentialutilities</id>
 	<name>Essential Utilities</name>
-	<version>1.4</version>
+	<version>1.4-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0.0</miniOS>
