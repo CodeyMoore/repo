@@ -109,6 +109,24 @@ Name: Xanify
 Replace: com.hackyouriphone.xanify
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.xanify/depiction.json
 
+Package: com.s14t3r.notchglow
+Version: 0.0.2-3+debug
+Architecture: iphoneos-arm
+Maintainer: jamie slater
+Installed-Size: 1020
+Depends: mobilesubstrate
+Filename: ./debs/com.s14t3r.notchglow_0.0.2_iphoneos-arm.deb
+Size: 305014
+MD5sum: f24bea1eb725e1533609d05684742576
+SHA1: ce58c85027fe3ac9d0c07a38c2c049ac67b2ddf9
+SHA256: 28565f7144a074dd1aa6cbcbcd0ec6a50d5428b80dcd612332390b5cb3d2b8ef
+Section: Tweaks
+Description: make your notch glow with custom colors
+Author: jamie slater
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.s14t3r.notchglow
+Name: NotchGlow
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.s14t3r.notchglow/depiction.json
+
 Package: xyz.willy.zebradark
 Version: 1.0~b10~CMD
 Architecture: iphoneos-arm
