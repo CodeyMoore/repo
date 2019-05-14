@@ -19,9 +19,8 @@
 		<change>Updated to work on latest version of Spotify</change>
 		<change>Arm64e (A12/A12x) support should be added</change>
 	</changelog>
-	<xml>
-    	<htmlData>
-    	<html>
+    <htmlData>
+    	<![CDATA[<html>
         	<head>
         	<center>
     		<script type="text/javascript" src="//ylx-1.com/bnr.php?section=Cydia&pub=284973&format=300x50&ga=g&mbtodb=1"></script>
@@ -29,9 +28,9 @@
     		</noscript>
     		</center>
         	</head>
-    	</html>
+    		</html>
+    		]]>
     	</htmlData>
-		</xml>
 	<links>
 	</links>
 </package>
