@@ -16,6 +16,12 @@
 	<descriptionlist>
 		<description>Preference bundle with UICache, Restart SpringBoard, Restart Backboardd, Restart mediaserverd and callservicesd commands</description>
 	</descriptionlist>
+		<screenshots>
+		<screenshot>
+			<description>Screenshot 1</description>
+			<image>EssentialUtilities1.jpeg</image>
+		</screenshot>			
+	</screenshots>
 	<changelog>
 		<change>Arm64e (A12/A12x) support should be added (iirc, Cephei doesnt currently support Arm64e)</change>
 	</changelog>

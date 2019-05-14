@@ -18,6 +18,12 @@
 		<description>A work-in-progress Spotify tweak</description>
 		<description>More features will be added over time</description>
 	</descriptionlist>
+		<screenshots>
+		<screenshot>
+			<description>Screenshot 1</description>
+			<image>Xanify1.jpeg</image>
+		</screenshot>			
+	</screenshots>
 	<changelog>
 		<change>Fixed Genius/BehindTheLyrics hiding option</change>
 	</changelog>
