@@ -22,7 +22,7 @@
 					"screenshots": [
 				{
 					"accessibilityText": "Screenshot",
-					"url": "https://codeymoore.github.io/repo/depictions/com.s14t3r.notchglow/screenshots/Notchglow1.jpg"
+					"url": "https://codeymoore.github.io/repo/depictions/com.s14t3r.notchglow/screenshots/Notchglow1.jpeg"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -39,7 +39,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "0.0.2",
+					"text": "0.0.2-3+debug",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -79,7 +79,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "0.0.2",
+					"title": "0.0.2-3+debug",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
