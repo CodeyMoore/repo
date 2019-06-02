@@ -127,21 +127,3 @@ Depiction: https://codeymoore.github.io/repo/depictions/?p=com.s14t3r.notchglow
 Name: NotchGlow
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.s14t3r.notchglow/depiction.json
 
-Package: xyz.willy.zebradark
-Version: 1.0~b10~CMD
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres <wilson@styres.me>
-Installed-Size: 5268
-Depends: dpkg
-Filename: ./debs/xyz.willy.zebradark_1.0~b10~CMD_iphoneos-arm.deb
-Size: 1793646
-MD5sum: e52ce823f9392847006462e5215e1c37
-SHA1: 538ceff1f4189c932df2f1a6c790da8903cf95d2
-SHA256: 68d088dcea27fb5ccf22a62d4b2b9f524964c98e3c9145c6dbb7266e85e99d66
-Section: Packaging
-Description: A Useful Package Manager
-Tag: purpose::x
-Author: Wilson Styres and Codey Moore
-Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.zebra/
-Name: Zebra~Dark (BETA)
-
