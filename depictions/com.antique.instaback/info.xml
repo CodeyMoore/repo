@@ -1,0 +1,24 @@
+<package>
+	<id>com.antique.instaback</id>
+	<name>Instaback</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Instagram (From the AppStore)</package>
+		<package>Cydia Substrate/Substitute</package>
+	</dependencies>
+	<shortDescription>Bring back Instagram like count</shortDescription>
+	<descriptionlist>
+		<description>Re-enables the like count on Instagram posts and etc</description>
+	</descriptionlist>
+	<changelog>
+		<change>Intial Release</change>
+	</changelog>
+	<links>
+	</links>
+</package>

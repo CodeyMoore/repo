@@ -1,3 +1,19 @@
+Package: com.antique.instaback
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.antique.instaback_1.0_iphoneos-arm.deb
+Size: 2026
+MD5sum: e2bad1cbaef54ba0d0deed04267a6851
+SHA1: 54946b858f2f8cc9d69a084c0bc64c3e3c0e66b0
+SHA256: c1f7c0c7f9d81f8bc8c6cb3640de4ea4460badf4d732bb88e3ed4bc75432610f
+Section: Tweaks
+Description: Bring back Instagram like count
+Author: Antique <official.antique@gmail.com>
+Name: InstaBack
+
 Package: com.codeymoore.apollosfw
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -15,6 +31,22 @@ Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.apollosfw
 Name: ApolloSFW
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.apollosfw/depiction.json
+
+Package: com.codeymoore.darkcloud
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.codeymoore.darkcloud_1.0_iphoneos-arm.deb
+Size: 2730
+MD5sum: 3be0e8ef5dab649eab4b81ed4acb8a0e
+SHA1: cb61ad21878001f318f9aedc42c8b4d5c2964416
+SHA256: 93f8fcf5990d05837bfb02ab39471159fd96f7f35047963430e6324a389568c3
+Section: Tweaks
+Description: Enables Soundclouds built in dark mode (plus dev menu)
+Author: Codey Moore
+Name: DarkCloud
 
 Package: com.codeymoore.einstein
 Version: 1.1

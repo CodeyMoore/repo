@@ -1,0 +1,24 @@
+<package>
+	<id>com.codeymoore.darkcloud</id>
+	<name>DarkCloud</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>SoundCloud (From the AppStore)</package>
+		<package>Cydia Substrate/Substitute</package>
+	</dependencies>
+	<shortDescription>Enables Soundclouds built in dark mode (plus Dev menu)</shortDescription>
+	<descriptionlist>
+		<description>A simple tweak to enable SoundClouds built in dark mode and their developer menu</description>
+	</descriptionlist>
+	<changelog>
+		<change>Intial Release</change>
+	</changelog>
+	<links>
+	</links>
+</package>
