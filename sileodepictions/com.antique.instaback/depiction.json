@@ -40,6 +40,11 @@
 				},
 				{
 					"title": "Developer",
+					"text": "Antique Dev",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Maintainer",
 					"text": "Codey Moore",
 					"class": "DepictionTableTextView"
 				},
@@ -49,8 +54,8 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"title": "Need Support? DM me on Twitter",
-					"action": "https://twitter.com/CodeyMooreDev",
+					"title": "Need Support? DM Antique on Twitter",
+					"action": "https://twitter.com/Antique_Dev",
 					"class": "DepictionTableButtonView"
 				},
 			],
