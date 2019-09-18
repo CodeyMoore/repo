@@ -37,11 +37,11 @@ div.jumbotron {
 
 body {
     background-color: #000000;
-    color: white !important;
 
 }
 
 li.list-group-item{
+    color: white;
     background-color: #303030;
 
 }
