@@ -3,7 +3,7 @@
         <link>
             <name> Follow me on Twitter</name>
             <url>https://twitter.com/CodeyMooreDev</url>
-            <i class="fa fa-twitter" style="font-size:24px"></i>
+            <iconclass>fab fa-twitter</iconclass>
         </link>
         <link>
             <name> Get Zebra!</name>
