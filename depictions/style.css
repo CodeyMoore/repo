@@ -35,17 +35,15 @@ div.jumbotron {
 
 }
 
-body{
-    background-color: black;
+body {
+    background-color: #000000;
+    color: white !important;
+
 }
 
 li.list-group-item{
     background-color: #303030;
 
-}
-
-body {
-    color:white;
 }
 
 a.link-item.list-group-item {
