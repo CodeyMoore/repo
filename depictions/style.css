@@ -32,21 +32,22 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 div.jumbotron {
     color: white;
     background-color: #303030;
+}
+
+body {
+  background-color: black;
 
 }
 
 div {
-    background-color:black;
-
+    background-color: black;
 }
 
 li.list-group-item{
     color: white;
     background-color: #303030;
-
 }
 
 a.link-item.list-group-item {
     background-color: #303030;
-
 }
