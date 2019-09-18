@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>8.0.0</miniOS>
-			<maxiOS>12.1.2</maxiOS>
+			<maxiOS>12.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -19,7 +19,7 @@
 		<screenshots>
 		<screenshot>
 			<image>EssentialUtilities1.jpeg</image>
-		</screenshot>			
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Arm64e (A12/A12x) support should be added (iirc, Cephei doesnt currently support Arm64e)</change>
