@@ -49,6 +49,11 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "Get Zebra!",
+					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://xtm3x.github.io/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"title": "Website",
 					"action": "https://codeymoore.github.io/repo/",
 					"class": "DepictionTableButtonView"

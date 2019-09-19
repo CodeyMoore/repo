@@ -58,6 +58,11 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "Get Zebra!",
+					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://xtm3x.github.io/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"title": "MR-S14T3R's Twitter",
 					"action": "https://twitter.com/S14T3R",
 					"class": "DepictionTableButtonView"
