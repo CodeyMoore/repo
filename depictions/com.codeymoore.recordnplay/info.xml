@@ -12,8 +12,9 @@
 		<package>Cydia Substrate/Substitute</package>
 		<package>Cephei</package>
 	</dependencies>
-	<shortDescription>FREE alternative for RecordMusic Plus.</shortDescription>
+	<shortDescription>A FREE alternative for RecordMusic Plus.</shortDescription>
 	<descriptionlist>
+		<description>A FREE alternative for RecordMusic Plus.</description>
 		<description>A simple tweak that allows users to play music while screenrecording.</description>
 	</descriptionlist>
 	<changelog>
