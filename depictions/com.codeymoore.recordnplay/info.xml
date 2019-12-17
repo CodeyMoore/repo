@@ -1,0 +1,24 @@
+<package>
+	<id>com.codeymoore.apollosfw</id>
+	<name>ApolloSFW</name>
+	<version>1.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Cydia Substrate/Substitute</package>
+		<package>Cephei</package>
+	</dependencies>
+	<shortDescription>FREE alternative for RecordMusic Plus.</shortDescription>
+	<descriptionlist>
+		<description>A simple tweak that allows users to play music while screenrecording.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Intial Release</change>
+	</changelog>
+	<links>
+	</links>
+</package>
