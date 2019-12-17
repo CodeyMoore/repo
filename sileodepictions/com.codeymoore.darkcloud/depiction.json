@@ -71,7 +71,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Intial Release.",
+					"markdown": "Initial Release.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},

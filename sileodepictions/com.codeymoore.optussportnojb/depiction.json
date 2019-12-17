@@ -71,7 +71,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Intial Release.<br/> Arm64e (A12/A12x) Support.",
+					"markdown": "Initial Release.<br/> Arm64e (A12/A12x) Support.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},

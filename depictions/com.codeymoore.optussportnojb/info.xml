@@ -16,7 +16,7 @@
 		<description>Disables Jailbreak Detection<br/>Nice try Optus ;)</description>
 	</descriptionlist>
 	<changelog>
-		<change>Intial Release</change>
+		<change>Initial Release</change>
 		<change>Arm64e (A12/A12x) support should be added</change>
 	</changelog>
 	<links>

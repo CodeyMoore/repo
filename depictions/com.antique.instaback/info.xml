@@ -15,9 +15,10 @@
 	<shortDescription>Bring back Instagram like count</shortDescription>
 	<descriptionlist>
 		<description>Re-enables the like count on Instagram posts and etc</description>
+		<description>Doesnt work on latest Instagram update</description>
 	</descriptionlist>
 	<changelog>
-		<change>Intial Release</change>
+		<change>Initial Release</change>
 	</changelog>
 	<links>
 	</links>

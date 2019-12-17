@@ -17,7 +17,7 @@
 		<description>Makes all content on Apollo safe for work ;)<br/>and disables jailbreak detection</description>
 	</descriptionlist>
 	<changelog>
-		<change>Intial Release</change>
+		<change>Initial Release</change>
 		<change>Arm64e (A12/A12x) support should be added</change>
 	</changelog>
 	<links>

@@ -14,7 +14,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\nRe-enables the like count on Instagram posts and etc."
+					"markdown": "## Description\nRe-enables the like count on Instagram posts and etc.\n Doesnt work on latest Instagram update."
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -76,7 +76,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Intial Release.",
+					"markdown": "Initial Release.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
