@@ -17,13 +17,15 @@
 					"markdown": "## Description\n A FREE alternative for IGShowLike.\n A simple tweak that allows to see the amount of likes/views a post has."
 				},
 				{
+					"class": "DepictionScreenshotsView"
+				},
+				{
 					"itemCornerRadius": 5,
 					"itemSize": "{130, 285}",
 					"screenshots": [
 				{
 					"accessibilityText": "Screenshot",
-					"url": "https://codeymoore.github.io/repo/depictions/com.codeymoore.iglikesenabler/screenshots/Before.jpeg",
-					"url": "https://codeymoore.github.io/repo/depictions/com.codeymoore.iglikesenabler/screenshots/After.jpeg"
+					"url": "https://codeymoore.github.io/repo/depictions/com.codeymoore.iglikesenabler/screenshots/Before.jpeg", "https://codeymoore.github.io/repo/depictions/com.codeymoore.iglikesenabler/screenshots/After.jpeg"
 				},
 				{
 					"class": "DepictionSeparatorView"
