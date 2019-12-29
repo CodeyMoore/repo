@@ -10,9 +10,9 @@
         "hideShadow": false
     },
     {
-        "url": "https://codeymoore.github.io/repo/assets/Banners/RepoHeader.png",
-        "title": "Essential Utilities",
-        "package": "com.codeymoore.essentialutilities",
+        "url": "https://codeymoore.github.io/repo/assets/Banners/IGLikesEnablerHeader.png",
+        "title": "IGLikesEnabler",
+        "package": "com.codeymoore.iglikesenabler",
         "hideShadow": false
     },
   ]

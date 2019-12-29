@@ -1,0 +1,88 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://codeymoore.github.io/repo/assets/Banners/IGLikesEnablerHeader.png",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# IGLikesEnabler\n A FREE alternative for IGShowLike."
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Description\n A FREE alternative for IGShowLike.\n A simple tweak that allows to see the amount of likes/views a post has."
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Release Date",
+					"text": "30th December 2019",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Codey Moore",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Get Zebra!",
+					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://xtm3x.github.io/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Website",
+					"action": "https://codeymoore.github.io/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Need Support? DM me on Twitter",
+					"action": "https://twitter.com/CodeyMooreDev",
+					"class": "DepictionTableButtonView"
+				},
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Initial Release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 30th December 2019</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

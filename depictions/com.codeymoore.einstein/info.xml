@@ -6,14 +6,17 @@
 		<firmware>
 			<miniOS>8.0.0</miniOS>
 			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>Not yet tested</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
+		<package>Spotify (From the AppStore)</package>
 		<package>Cydia Substrate/Substitute</package>
 	</dependencies>
 	<shortDescription>Disable Genius/BehindTheLyrics feature</shortDescription>
 	<descriptionlist>
-		<description>This is a component from Xanify<br/>Einstein aims to disable the Genius/BehindTheLyrics feature from Spotify.</description>
+		<description>This is a component from Xanify.</description>
+		<description>Einstein aims to disable the Genius/BehindTheLyrics feature from Spotify.</description>
 	</descriptionlist>
 	<changelog>
 		<change>Updated to work on latest version of Spotify</change>

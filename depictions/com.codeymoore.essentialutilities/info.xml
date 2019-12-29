@@ -5,7 +5,8 @@
 	<compatibility>
 		<firmware>
 			<miniOS>8.0.0</miniOS>
-			<maxiOS>12.4</maxiOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>Not yet tested</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>

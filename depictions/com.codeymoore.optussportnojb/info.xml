@@ -6,14 +6,17 @@
 		<firmware>
 			<miniOS>9.0.0</miniOS>
 			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>Not yet tested</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
+		<package>Optus Sport (From the AppStore)</package>
 		<package>Cydia Substrate/Substitute</package>
 	</dependencies>
 	<shortDescription>Disables Jailbreak Detection</shortDescription>
 	<descriptionlist>
-		<description>Disables Jailbreak Detection<br/>Nice try Optus ;)</description>
+		<description>Disables Jailbreak Detection.</description>
+		<description>Nice try Optus ;)</description>
 	</descriptionlist>
 	<changelog>
 		<change>Initial Release</change>

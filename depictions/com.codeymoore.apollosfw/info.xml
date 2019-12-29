@@ -6,15 +6,16 @@
 		<firmware>
 			<miniOS>10.0.0</miniOS>
 			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>Not yet tested</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
+		<package>Apollo (From the AppStore)</package>
 		<package>Cydia Substrate/Substitute</package>
-		<package>Apollo (From AppStore)</package>
 	</dependencies>
 	<shortDescription>Makes Apollo safe for work ;)</shortDescription>
 	<descriptionlist>
-		<description>Makes all content on Apollo safe for work ;)<br/>and disables jailbreak detection</description>
+		<description>Makes all content on Apollo safe for work ;) and disables jailbreak detection</description>
 	</descriptionlist>
 	<changelog>
 		<change>Initial Release</change>
