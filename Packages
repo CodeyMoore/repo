@@ -89,6 +89,24 @@ Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/EU@2x.png
 Name: Essential Utilities
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
 
+Package: com.codeymoore.iglikesenabler
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.codeymoore.iglikesenabler_1.0_iphoneos-arm.deb
+Size: 2478
+MD5sum: 3604e58dc3cbc2f7737a5c86b3d9b39b
+SHA1: 060a3bab2ea6dca4a06bec0f9ab0b2fc22458fc3
+SHA256: b454ef6c77ebf392f9056c15735e9e87f0f7ef786822ed7dceb850b564baed7b
+Section: Tweaks
+Description: A FREE alternative for IGShowLike
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.iglikesenabler
+Name: IGLikesEnabler
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.iglikesenabler/depiction.json
+
 Package: com.codeymoore.optussportnojb
 Version: 1.0
 Architecture: iphoneos-arm
