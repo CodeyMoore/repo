@@ -6,7 +6,7 @@
     list-style-type: none;
     padding: 17px 15px;
     display: block;
-    color: #337ab7 !important;
+    color: #2482ff !important;
     text-align: left;
 }
 
@@ -32,6 +32,8 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 div.jumbotron {
     color: white;
     background-color: #303030;
+    margin-right: 100px;
+    margin-left: 100px;
 }
 
 body {
@@ -41,13 +43,50 @@ body {
 
 div {
     background-color: black;
+
 }
 
 li.list-group-item{
     color: white;
     background-color: #303030;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-top: 17px;
 }
 
 a.link-item.list-group-item {
     background-color: #303030;
+    margin-right: 100px;
+    margin-left: 100px;
 }
+
+h5 {
+  color: white;
+  margin-right: 100px;
+  margin-left: 100px;
+
+}
+
+.thumbnail {
+  display: block;
+  padding: 15px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #303030;
+  border: 15px solid #303030;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+  -o-transition: border .2s ease-in-out;
+  transition: border .2s ease-in-out;
+}
+
+.alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.list-group {
+    margin-bottom: 35px;
