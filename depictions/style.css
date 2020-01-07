@@ -32,8 +32,6 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 div.jumbotron {
     color: white;
     background-color: #303030;
-    margin-right: 50px;
-    margin-left: 50px;
 }
 
 body {
@@ -49,21 +47,15 @@ div {
 li.list-group-item{
     color: white;
     background-color: #303030;
-    margin-right: 50px;
-    margin-left: 50px;
     padding-top: 17px;
 }
 
 a.link-item.list-group-item {
     background-color: #303030;
-    margin-right: 50px;
-    margin-left: 50px;
 }
 
 h5 {
   color: white;
-  margin-right: 50px;
-  margin-left: 50px;
 
 }
 
