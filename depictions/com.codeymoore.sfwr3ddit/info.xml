@@ -1,0 +1,25 @@
+<package>
+	<id>com.codeymoore.sfwr3ddit</id>
+	<name>SFWR3ddit</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>Not yet tested</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Reddit (From the AppStore)</package>
+		<package>Cydia Substrate/Substitute</package>
+	</dependencies>
+	<shortDescription>Disables Reddit's NSFW restrictions</shortDescription>
+	<descriptionlist>
+		<description>Disables Reddit's NSFW restrictions</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+	</links>
+</package>

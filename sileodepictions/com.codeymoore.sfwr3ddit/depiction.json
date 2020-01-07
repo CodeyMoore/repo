@@ -1,20 +1,20 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://codeymoore.github.io/repo/assets/Banners/RepoHeader.png",
+	"headerImage": "https://codeymoore.github.io/repo/assets/Banners/IGLikesEnablerHeader.png",
 	"tabs": [
 		{
 			"tabname": "Details",
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# Instaback\nBring back Instagram like count."
+					"markdown": "# SFWR3ddit\n Disables Reddit's NSFW restrictions"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\nRe-enables the like count on Instagram posts and etc.\n Doesnt work on latest Instagram update."
+					"markdown": "## Description\n Disables Reddit's NSFW restrictions"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -30,7 +30,7 @@
 				},
 				{
 					"title": "Release Date",
-					"text": "28th August 2019",
+					"text": "7th January 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -40,17 +40,12 @@
 				},
 				{
 					"title": "Developer",
-					"text": "Antique Dev",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Maintainer",
 					"text": "Codey Moore",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Get Zebra!",
-					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://xtm3x.github.io/repo/",
+					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -59,8 +54,8 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"title": "Need Support? DM Antique on Twitter",
-					"action": "https://twitter.com/Antique_Dev",
+					"title": "Need Support? DM me on Twitter",
+					"action": "https://twitter.com/CodeyMooreDev",
 					"class": "DepictionTableButtonView"
 				},
 			],
@@ -76,10 +71,15 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Initial Release.",
+					"markdown": "Initial Release",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 30th December 2019</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
 			],
 			"class": "DepictionStackView"
 		}

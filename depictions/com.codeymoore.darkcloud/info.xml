@@ -1,11 +1,11 @@
 <package>
 	<id>com.codeymoore.darkcloud</id>
 	<name>DarkCloud</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0.0</miniOS>
-			<maxiOS>12.4</maxiOS>
+			<maxiOS>13.3</maxiOS>
 			<otherVersions>Not yet tested</otherVersions>
 		</firmware>
 	</compatibility>
@@ -13,12 +13,13 @@
 		<package>SoundCloud (From the AppStore)</package>
 		<package>Cydia Substrate/Substitute</package>
 	</dependencies>
-	<shortDescription>Enables Soundclouds built in dark mode (plus Dev menu)</shortDescription>
+	<shortDescription>Removes ads on Soundcloud and enables dev menu</shortDescription>
 	<descriptionlist>
-		<description>A simple tweak to enable SoundClouds built in dark mode and their developer menu</description>
+		<description>Should remove all ads on Soundcloud and enable built-in developer menu</description>
 	</descriptionlist>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Rewrite</change>
+		<change>Arm64e (A12/A12x) support should be added (iirc, Cephei doesnt currently support Arm64e)</change>
 	</changelog>
 	<links>
 	</links>

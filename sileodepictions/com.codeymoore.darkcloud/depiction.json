@@ -7,14 +7,14 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# DarkCloud\nEnables Soundclouds built in dark mode (plus Dev menu)"
+					"markdown": "# DarkCloud\nRemoves ads on Soundcloud and enables dev menu"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\nA simple tweak to enable SoundClouds built in dark mode and their developer menu."
+					"markdown": "## Description\nShould remove all ads on Soundcloud and enable built-in developer menu."
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -25,12 +25,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "1.1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Release Date",
-					"text": "28th August 2019",
+					"text": "7th January 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -45,7 +45,7 @@
 				},
 				{
 					"title": "Get Zebra!",
-					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://xtm3x.github.io/repo/",
+					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -64,6 +64,17 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Rewrite.<br/>Arm64e (A12/A12x) Support.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.0",
 					"useBoldText": true,
