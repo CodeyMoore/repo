@@ -200,6 +200,24 @@ Name: Xanify
 Replace: com.hackyouriphone.xanify
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.xanify/depiction.json
 
+Package: com.codeymoore.zinitevinoads
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.codeymoore.zinitevinoads_1.0_iphoneos-arm.deb
+Size: 2466
+MD5sum: ea284220cc08ddc896bace357680de82
+SHA1: e78cc91dc1d3c170e96e20e4bf98aa4cb4e0dc96
+SHA256: 6b5f1b994537020162e3b40988754f018e651e2404e91c66847bee23c43d9974
+Section: Tweaks
+Description: Removes ads on ZiniTevi
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.zinitevinoads
+Name: ZiniTeviNoAds
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.zinitevinoads/depiction.json
+
 Package: com.s14t3r.notchglow
 Version: 0.0.2-3+debug
 Architecture: iphoneos-arm
