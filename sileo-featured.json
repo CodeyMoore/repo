@@ -4,9 +4,9 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://codeymoore.github.io/repo/assets/Banners/XanifyHeader.png",
-        "title": "Xanify",
-        "package": "com.codeymoore.xanify",
+        "url": "https://codeymoore.github.io/repo/assets/Banners/EssentialUtilsHeader.png",
+        "title": "Essential Utilities",
+        "package": "com.codeymoore.essentialutilities",
         "hideShadow": false
     },
     {
