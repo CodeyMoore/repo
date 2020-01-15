@@ -5,7 +5,7 @@
   "banners": [
     {
         "url": "https://codeymoore.github.io/repo/assets/Banners/EssentialUtilsHeader.png",
-        "title": "EssentialUtilities",
+        "title": "Essential Utilities",
         "package": "com.codeymoore.essentialutilities",
         "hideShadow": false
     },
