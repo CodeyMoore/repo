@@ -14,7 +14,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\nA preference bundle with UICache, Restart SpringBoard, Restart Backboardd, Restart mediaserverd and callservicesd commands"
+					"markdown": "## Description\nA preference bundle with UICache, Restart SpringBoard, Restart Backboardd, Restart mediaserverd, Restart callservicesd Restart NSurlsessiond commands"
 				},
 				{
 					"itemCornerRadius": 5,
@@ -36,12 +36,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.4-1",
+					"text": "1.4.1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released Date",
-					"text": "25th April 2019",
+					"text": "20th January 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -75,6 +75,17 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.4.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Fixed UICache option.<br/> Added Restart NSurlsessiond",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.4-1",
 					"useBoldText": true,

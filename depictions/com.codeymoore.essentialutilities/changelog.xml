@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.4.1</version>
+		<change>Fixed UICache option</change>
+		<change>Added NSurlsessiond</change>
+	</changes>
+	<changes>
 		<version>1.4-1</version>
 		<change>Arm64e (A12/A12x) support should be added (iirc, Cephei doesnt currently support Arm64e)</change>
 	</changes>

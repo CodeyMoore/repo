@@ -15,7 +15,7 @@
 	</dependencies>
 	<shortDescription>A preference bundle with essential commands</shortDescription>
 	<descriptionlist>
-		<description>Preference bundle with UICache, Restart SpringBoard, Restart Backboardd, Restart mediaserverd and callservicesd commands</description>
+		<description>A preference bundle with UICache, Restart SpringBoard, Restart Backboardd, Restart mediaserverd, Restart callservicesd Restart NSurlsessiond commands</description>
 	</descriptionlist>
 		<screenshots>
 		<screenshot>
@@ -23,7 +23,8 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Arm64e (A12/A12x) support should be added (iirc, Cephei doesnt currently support Arm64e)</change>
+		<change>Fixed UICache option</change>
+		<change>Added Restart NSurlsessiond</change>
 	</changelog>
 	<links>
 	</links>
