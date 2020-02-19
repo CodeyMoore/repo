@@ -1,5 +1,13 @@
 <changelog>
 	<changes>
+		<version>1.4.4</version>
+		<change>Added SBReload</change>
+		<change>Fixed preference bundle icon not loading</change>
+		<change>Removed link icons (donation, SnapChat and repo)</change>
+		<change>Moved link cells around</change>
+		<change>Fixed a few typos</change>
+	</changes>
+	<changes>
 		<version>1.4.1</version>
 		<change>Fixed UICache option</change>
 		<change>Added NSurlsessiond</change>
@@ -12,7 +20,7 @@
 		<version>1.4</version>
 		<change>Updated the preference bundle in the settings app (Cephei)</change>
 		<change>Added "Restart Backboardd"</change>
-		<change>Updated names ("restart")</change>
+		<change>Updated names ("Restart")</change>
 	</changes>
 	<changes>
 		<version>1.3</version>

@@ -23,12 +23,7 @@
 				{
 					"accessibilityText": "Screenshot",
 					"url": "https://codeymoore.github.io/repo/depictions/com.codeymoore.xanify/screenshots/Xanify1.jpeg"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},{
-					"class": "DepictionSeparatorView"
-				},
+				}
 				],
 					"class": "DepictionScreenshotsView"
 				},

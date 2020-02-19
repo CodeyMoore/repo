@@ -1,7 +1,7 @@
 <package>
 	<id>com.codeymoore.essentialutilities</id>
 	<name>Essential Utilities</name>
-	<version>1.4-1</version>
+	<version>1.4.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0.0</miniOS>
@@ -15,7 +15,7 @@
 	</dependencies>
 	<shortDescription>A preference bundle with essential commands</shortDescription>
 	<descriptionlist>
-		<description>A preference bundle with UICache, Restart SpringBoard, Restart Backboardd, Restart mediaserverd, Restart callservicesd Restart NSurlsessiond commands</description>
+		<description>A preference bundle able to reset UICache and restart SpringBoard, BackBoardd, MediaServerd, CallServicesd and NSUrlsessiond.</description>
 	</descriptionlist>
 		<screenshots>
 		<screenshot>
@@ -23,8 +23,11 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fixed UICache option</change>
-		<change>Added Restart NSurlsessiond</change>
+		<change>Added SBReload</change>
+		<change>Fixed preference bundle icon not loading</change>
+		<change>Removed link icons (donation, SnapChat and repo)</change>
+		<change>Moved link cells around</change>
+		<change>Fixed a few typos</change>
 	</changelog>
 	<links>
 	</links>

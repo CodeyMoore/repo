@@ -108,6 +108,25 @@ Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/EU.png
 Name: Essential Utilities
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
 
+Package: com.codeymoore.essentialutilities
+Version: 1.4.4
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 204
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 8.0.0)
+Filename: ./debs/com.codeymoore.essentialutilities_1.4.4_iphoneos-arm.deb
+Size: 47968
+MD5sum: 113cb767cefa909c91b5d5aeaec423da
+SHA1: ee345dd51511036fbc765c32cc9a29098dfe11d6
+SHA256: dc29487dda65d1868b80e5c37d35b1999c7a8d2084bc6f10a3e0ee4c0ddc1f9d
+Section: Utilities
+Description: A preference bundle with essential commands
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.essentialutilities
+Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/EU@3x.PNG
+Name: Essential Utilities
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
+
 Package: com.codeymoore.iglikesenabler
 Version: 1.0
 Architecture: iphoneos-arm
@@ -174,6 +193,25 @@ Size: 42320
 MD5sum: 6a64d41d09c8fd1ad821a0c48f1f2670
 SHA1: 0a336bbbe0720a63cb901d37135cc778a99e834b
 SHA256: 243d30bd3c4970ce1ddd38629ef5d7e821c1962ece14c2458a981be838ef1bb2
+Section: Tweaks
+Description: A free version of RecordMusic Plus
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.recordnplay
+Icon: file:///Library/PreferenceBundles/rnprefs.bundle/RNP@3x.png
+Name: RecordnPlay
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.recordnplay/depiction.json
+
+Package: com.codeymoore.recordnplay
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 332
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 12.0.0)
+Filename: ./debs/com.codeymoore.recordnplay_1.1_iphoneos-arm.deb
+Size: 42670
+MD5sum: 9d8d91824e500b82efc8d15dd63c72c3
+SHA1: c9c8bd59efbb48b67472a07409f462abb4bb3d91
+SHA256: 580f98a812f14309905815995d339e797ec92d7e0254e31ea1092b5081cfa20a
 Section: Tweaks
 Description: A free version of RecordMusic Plus
 Author: Codey Moore

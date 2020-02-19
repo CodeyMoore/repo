@@ -36,7 +36,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.4.1",
+					"text": "1.4.4",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -75,6 +75,23 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.4.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Added SBReload.<br/> Fixed preference bundle icon not loading.<br/> Removed link icons (donation, SnapChat and repo).<br/> Moved link cells around.<br/> Fixed a few typos.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.4-1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
 				{
 					"title": "1.4.1",
 					"useBoldText": true,
