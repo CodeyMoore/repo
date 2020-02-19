@@ -1,7 +1,7 @@
 <package>
 	<id>com.codeymoore.recordnplay</id>
 	<name>RecordnPlay</name>
-	<version>1.0</version>
+	<version>1.0-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0.0</miniOS>
@@ -19,7 +19,7 @@
 		<description>A simple tweak that allows users to play music while screenrecording.</description>
 	</descriptionlist>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Backend of the preference bundle fixed</change>
 	</changelog>
 	<links>
 	</links>

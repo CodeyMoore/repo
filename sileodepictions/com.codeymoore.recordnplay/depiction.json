@@ -25,12 +25,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "1.0-1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Release Date",
-					"text": "18th December 2019",
+					"text": "19th February 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -64,6 +64,22 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.0-1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Backend of the preference bundle fixed",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 19th February 2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
 				{
 					"title": "1.0",
 					"useBoldText": true,

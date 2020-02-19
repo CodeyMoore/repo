@@ -10,10 +10,5 @@
             <url>cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/</url>
             <iconclass>fas fa-horse-head</iconclass>
         </link>
-        <link>
-            <name> I want this depiction template</name>
-            <url>https://github.com/sukarodo/sidia</url>
-            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
-        </link>
     </footerlinks>
 </repo>
