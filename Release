@@ -1,8 +1,8 @@
-Origin: Codey Moore's APT repository
-Label: Codey Moore's APT repository
+Origin: Codey Moore's APT Repository
+Label: Codey Moore's APT Repository
 Suite: stable
 Version: 1.0
 Codename: Rip Lil Peep
 Architectures: iphoneos-arm
 Components: main
-Description: Codey Moore's APT repository
+Description: Codey Moore's APT Repository
