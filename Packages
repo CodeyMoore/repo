@@ -163,6 +163,25 @@ Icon: file:///Library/PreferenceBundles/rnprefs.bundle/RNP@3x.png
 Name: RecordnPlay
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.recordnplay/depiction.json
 
+Package: com.codeymoore.recordnplay
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 332
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.codeymoore.recordnplay_1.0-1_iphoneos-arm.deb
+Size: 42320
+MD5sum: 6a64d41d09c8fd1ad821a0c48f1f2670
+SHA1: 0a336bbbe0720a63cb901d37135cc778a99e834b
+SHA256: 243d30bd3c4970ce1ddd38629ef5d7e821c1962ece14c2458a981be838ef1bb2
+Section: Tweaks
+Description: A free version of RecordMusic Plus
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.recordnplay
+Icon: file:///Library/PreferenceBundles/rnprefs.bundle/RNP@3x.png
+Name: RecordnPlay
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.recordnplay/depiction.json
+
 Package: com.codeymoore.sfwr3ddit
 Version: 1.0
 Architecture: iphoneos-arm
