@@ -14,7 +14,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\nA preference bundle with UICache, Restart SpringBoard, Restart Backboardd, Restart mediaserverd, Restart callservicesd Restart NSurlsessiond commands"
+					"markdown": "## Description\nA preference bundle thats able to SBReload, reset UICache and restart SpringBoard, BackBoardd, MediaServerd, CallServicesd and NSUrlsessiond."
 				},
 				{
 					"itemCornerRadius": 5,

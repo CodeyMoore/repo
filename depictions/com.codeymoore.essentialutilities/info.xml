@@ -15,7 +15,7 @@
 	</dependencies>
 	<shortDescription>A preference bundle with essential commands</shortDescription>
 	<descriptionlist>
-		<description>A preference bundle able to reset UICache and restart SpringBoard, BackBoardd, MediaServerd, CallServicesd and NSUrlsessiond.</description>
+		<description>A preference bundle thats able to SBReload, reset UICache and restart SpringBoard, BackBoardd, MediaServerd, CallServicesd and NSUrlsessiond.</description>
 	</descriptionlist>
 		<screenshots>
 		<screenshot>
