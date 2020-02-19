@@ -71,8 +71,13 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Rewrite.<br/>Arm64e (A12/A12x) Support.",
+					"markdown": "Rewrite.<br/> Arm64e (A12/A12x) Support",
 					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 7th January 2020</small>",
+					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				},
 				{
@@ -82,7 +87,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Initial Release.",
+					"markdown": "Initial Release",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},

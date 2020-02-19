@@ -7,7 +7,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# ZiniTeviNoAds\nRemoves ads in the ZiniTevi app"
+					"markdown": "# ZiniTeviNoAds\nRemoves ads in the ZiniTevi app."
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -75,6 +75,11 @@
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 8th January 2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
 			],
 			"class": "DepictionStackView"
 		}
