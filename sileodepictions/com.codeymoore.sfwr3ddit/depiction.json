@@ -25,12 +25,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "1.1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Release Date",
-					"text": "7th January 2020",
+					"text": "23rd February 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -64,6 +64,22 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Fixed preference bundle icon not loading.</br>Removed link icons (donation, SnapChat and repo).</br>Moved link cells around.</br>Fixed a few typos.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 23rd February 2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.0",
 					"useBoldText": true,

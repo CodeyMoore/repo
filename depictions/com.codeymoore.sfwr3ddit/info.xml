@@ -1,7 +1,7 @@
 <package>
 	<id>com.codeymoore.sfwr3ddit</id>
 	<name>SFWR3ddit</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0.0</miniOS>
@@ -18,7 +18,10 @@
 		<description>Disables Reddit's NSFW restrictions</description>
 	</descriptionlist>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Fixed preference bundle icon not loading</change>
+		<change>Removed link icons (donation, SnapChat and repo)</change>
+		<change>Moved link cells around</change>
+		<change>Fixed a few typos</change>
 	</changelog>
 	<links>
 	</links>
