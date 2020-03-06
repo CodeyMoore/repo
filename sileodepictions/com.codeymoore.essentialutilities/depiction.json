@@ -7,14 +7,14 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# Essential Utilities\nA preference bundle with essential commands"
+					"markdown": "# Essential Utilities\n A preference bundle with essential commands"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\nA preference bundle thats able to SBReload, reset UICache and restart SpringBoard, BackBoardd, MediaServerd, CallServicesd and NSUrlsessiond."
+					"markdown": "## Description\n A preference bundle thats able to SBReload, reset UICache and restart SpringBoard, BackBoardd, MediaServerd, CallServicesd and NSUrlsessiond.\n"
 				},
 				{
 					"itemCornerRadius": 5,
@@ -55,8 +55,13 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "Get Installer!",
+					"action": "https://getzbra.com/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"title": "Get Zebra!",
-					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/",
+					"action": "https://apptapp.me/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{

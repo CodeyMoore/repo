@@ -7,14 +7,14 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# ApollowSFW\n Makes Apollo safe for work ;)"
+					"markdown": "# ApollowSFW\n Makes Apollo safe for work ;).\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\n A simple tweak that removes the NSFW blur and disables jailbreak detection."
+					"markdown": "## Description\n A simple tweak that removes the NSFW blur and disables jailbreak detection.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -44,8 +44,13 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "Get Installer!",
+					"action": "https://getzbra.com/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"title": "Get Zebra!",
-					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/",
+					"action": "https://apptapp.me/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{

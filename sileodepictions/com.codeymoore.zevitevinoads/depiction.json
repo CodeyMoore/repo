@@ -7,14 +7,14 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# ZiniTeviNoAds\nRemoves ads in the ZiniTevi app."
+					"markdown": "# ZiniTeviNoAds\n Removes ads in the ZiniTevi app.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\nRemoves ads in the ZiniTevi app."
+					"markdown": "## Description\n Removes ads in the ZiniTevi app.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -44,8 +44,13 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "Get Installer!",
+					"action": "https://getzbra.com/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"title": "Get Zebra!",
-					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/",
+					"action": "https://apptapp.me/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -79,7 +84,7 @@
 					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 8th January 2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
-				}
+				},
 			],
 			"class": "DepictionStackView"
 		}

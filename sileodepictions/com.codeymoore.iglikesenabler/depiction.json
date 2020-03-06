@@ -7,14 +7,14 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# IGLikesEnabler\n A FREE alternative for IGShowLike."
+					"markdown": "# IGLikesEnabler\n A FREE alternative for IGShowLike.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\n A FREE alternative for IGShowLike.\n A simple tweak that allows to see the amount of likes/views a post has."
+					"markdown": "## Description\n A FREE alternative for IGShowLike.\n A simple tweak that allows to see the amount of likes/views a post has.\n"
 				},
 				{
         	"itemCornerRadius": 5,
@@ -59,8 +59,13 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "Get Installer!",
+					"action": "https://getzbra.com/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"title": "Get Zebra!",
-					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/",
+					"action": "https://apptapp.me/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{

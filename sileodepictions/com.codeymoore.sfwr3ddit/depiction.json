@@ -7,14 +7,14 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# SFWR3ddit\n Disables Reddit's NSFW restrictions"
+					"markdown": "# SFWR3ddit\n Disables Reddit's NSFW restrictions.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\n Disables Reddit's NSFW restrictions"
+					"markdown": "## Description\n Disables Reddit's NSFW restrictions.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -44,23 +44,13 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Get Installer! (Cydia)",
-					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/",
+					"title": "Get Installer!",
+					"action": "https://getzbra.com/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"title": "Get Installer! (Zebra)",
-					"action": "zbra://sources/add/repo=https://getzbra.com/repo/",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Get Zebra! (Cydia)",
-					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Get Zebra! (Installer)",
-					"action": "installer://add/repo=https://getzbra.com/repo/",
+					"title": "Get Zebra!",
+					"action": "https://apptapp.me/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{

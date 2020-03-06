@@ -7,14 +7,14 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# DarkCloud\nRemoves ads on Soundcloud and enables dev menu"
+					"markdown": "# DarkCloud\n Removes ads on Soundcloud and enables dev menu.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\nShould remove all ads on Soundcloud and enable built-in developer menu."
+					"markdown": "## Description\n Should remove all ads on Soundcloud and enable built-in developer menu.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -44,8 +44,13 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "Get Installer!",
+					"action": "https://getzbra.com/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"title": "Get Zebra!",
-					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/",
+					"action": "https://apptapp.me/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{

@@ -7,14 +7,14 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# Xanify\n A small collection of Spotify tweaks"
+					"markdown": "# Xanify\n A small collection of Spotify tweaks.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\nXanify is a work-in-progress Spotify tweak.<br/> More features will be added over time"
+					"markdown": "## Description\n Xanify is a work-in-progress Spotify tweak.\n More features will be added over time.\n"
 				},
 				{
 					"itemCornerRadius": 5,
@@ -52,8 +52,13 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "Get Installer!",
+					"action": "https://getzbra.com/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"title": "Get Zebra!",
-					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/",
+					"action": "https://apptapp.me/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{

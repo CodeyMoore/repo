@@ -7,14 +7,14 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# Einstein\nDisable Genius/BehindTheLyrics feature"
+					"markdown": "# Einstein\n Disable Genius/BehindTheLyrics feature."
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\n This is a component from Xanify.<br/> Einstein aims to disable the Genius/BehindTheLyrics feature from Spotify."
+					"markdown": "## Description\n This is a component from Xanify.\n Einstein aims to disable the Genius/BehindTheLyrics feature from Spotify.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -44,8 +44,13 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "Get Installer!",
+					"action": "https://getzbra.com/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"title": "Get Zebra!",
-					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/",
+					"action": "https://apptapp.me/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{
