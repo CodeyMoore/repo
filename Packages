@@ -257,6 +257,25 @@ Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/SFWIcon.png
 Name: SFWR3ddit
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.sfwr3ddit/depiction.json
 
+Package: com.codeymoore.sfwr3ddit
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 312
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.codeymoore.sfwr3ddit_1.2_iphoneos-arm.deb
+Size: 32600
+MD5sum: 5fe7fd29979eac3034c9d2da175a13a3
+SHA1: bf583b9f15dd61f600d1a068b73849dc3e3f08d6
+SHA256: 05d9cebdbeba0bdfa881d949e5389cc5c43b8bdfb0af44d01862c8cdabb2a028
+Section: Tweaks
+Description: Disables Reddit's NSFW restrictions
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.sfwr3ddit
+Icon: file:///Library/PreferenceBundles/SFWR3dditPrefs.bundle/SFWRIcon.png
+Name: SFWR3ddit
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.sfwr3ddit/depiction.json
+
 Package: com.codeymoore.xanify
 Version: 1.3-1
 Architecture: iphoneos-arm

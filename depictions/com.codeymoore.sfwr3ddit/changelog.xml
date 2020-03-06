@@ -1,5 +1,11 @@
 <changelog>
 	<changes>
+		<version>1.2</version>
+		<change>Added the option to enable the new ui</change>
+		<change>Fixed a few typos</change>
+		<change>Theres probably more that I did fix but cant remember lol</change>
+	</changes>
+	<changes>
 		<version>1.1</version>
 		<change>Fixed preference bundle icon not loading</change>
 		<change>Removed link icons (donation, SnapChat and repo)</change>

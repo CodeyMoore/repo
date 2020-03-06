@@ -6,9 +6,9 @@
             <iconclass>fab fa-twitter</iconclass>
         </link>
         <link>
-            <name> Get Zebra!</name>
-            <url>cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/</url>
-            <iconclass>fas fa-horse-head</iconclass>
+            <name> Follow me on Snapchat</name>
+            <url>https://www.snapchat.com/add/Codey_Moore</url>
+            <iconclass></iconclass>
         </link>
     </footerlinks>
 </repo>

@@ -25,12 +25,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.1",
+					"text": "1.2",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Release Date",
-					"text": "23rd February 2020",
+					"text": "6th March 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -44,8 +44,23 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Get Zebra!",
+					"title": "Get Installer! (Cydia)",
 					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Get Installer! (Zebra)",
+					"action": "zbra://sources/add/repo=https://getzbra.com/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Get Zebra! (Cydia)",
+					"action": "cydia://url/https://cydia.saurik.com/api/share#?source=https://getzbra.com/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Get Zebra! (Installer)",
+					"action": "installer://add/repo=https://getzbra.com/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -64,6 +79,22 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Added the option to enable the new ui.</br>Fixed a few typos.</br>Theres probably more that I did fix but cant remember lol.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 6th March 2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.1",
 					"useBoldText": true,

@@ -1,7 +1,7 @@
 <package>
 	<id>com.codeymoore.sfwr3ddit</id>
 	<name>SFWR3ddit</name>
-	<version>1.1</version>
+	<version>1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0.0</miniOS>
@@ -18,10 +18,9 @@
 		<description>Disables Reddit's NSFW restrictions</description>
 	</descriptionlist>
 	<changelog>
-		<change>Fixed preference bundle icon not loading</change>
-		<change>Removed link icons (donation, SnapChat and repo)</change>
-		<change>Moved link cells around</change>
+		<change>Added the option to enable the new ui</change>
 		<change>Fixed a few typos</change>
+		<change>Theres probably more that I did fix but cant remember lol</change>
 	</changelog>
 	<links>
 	</links>
