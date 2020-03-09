@@ -112,18 +112,18 @@ Package: com.codeymoore.essentialutilities
 Version: 1.4.4
 Architecture: iphoneos-arm
 Maintainer: Codey Moore
-Installed-Size: 204
+Installed-Size: 228
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 8.0.0)
 Filename: ./debs/com.codeymoore.essentialutilities_1.4.4_iphoneos-arm.deb
-Size: 47968
-MD5sum: 113cb767cefa909c91b5d5aeaec423da
-SHA1: ee345dd51511036fbc765c32cc9a29098dfe11d6
-SHA256: dc29487dda65d1868b80e5c37d35b1999c7a8d2084bc6f10a3e0ee4c0ddc1f9d
+Size: 66928
+MD5sum: 65a8234f5f1fa1ab37a407a17a04f25e
+SHA1: b82dd2847da5eee772fe0ee00d3a325c74f04b82
+SHA256: bf2e8bebaf2b7eef5d79ca0168e8d7d3a9d5ed4688e2246d427d1c90990b8c6f
 Section: Utilities
 Description: A preference bundle with essential commands
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.essentialutilities
-Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/EU@3x.PNG
+Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/EUIcon.PNG
 Name: Essential Utilities
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
 
