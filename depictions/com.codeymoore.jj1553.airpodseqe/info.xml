@@ -1,7 +1,7 @@
 <package>
 	<id>com.codeymoore.jj1553.airpodseqe</id>
 	<name>JJ1553's AirPods Pro EQE Presets</name>
-	<version>1.0</version>
+	<version>1.0-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -20,7 +20,7 @@
 		<description>Packaged by me (@CodeyMooreDev).</description>
 	</descriptionlist>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Removed .DS_Store (Hopefully).</change>
 	</changelog>
 	<links>
 	</links>

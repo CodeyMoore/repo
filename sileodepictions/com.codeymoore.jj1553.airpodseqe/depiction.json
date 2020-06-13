@@ -10,13 +10,7 @@
 					"markdown": "EQE presets. Increase bass, decrease highs.\n"
 				},
 				{
-					"class": "DepictionSpacerView"
-				},
-				{
 					"class": "DepictionSeparatorView"
-				},
-				{
-					"class": "DepictionSpacerView"
 				},
 				{
 					"title": "Description",
@@ -27,13 +21,7 @@
 					"markdown": "Increase your bass and decrease the highs.\n\n All credit goes to u/JJ1553 for making these presets.\n\n Packaged by me (@CodeyMooreDev).\n\n"
 				},
 				{
-					"class": "DepictionSpacerView"
-				},
-				{
 					"class": "DepictionSeparatorView"
-				},
-				{
-					"class": "DepictionSpacerView"
 				},
 				{
 					"title": "Latest Version",
@@ -41,7 +29,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "1.0-1",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -90,6 +78,17 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.0-1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Removed .DS_Store (Hopefully).",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.0",
 					"useBoldText": true,
