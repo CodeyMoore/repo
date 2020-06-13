@@ -13,8 +13,15 @@
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description \n Increase your bass and decrease the highs. \n\n All credit goes to u/JJ1553 for making these presets. \n\n Packaged by me (@CodeyMooreDev). \n\n"
+					"markdown": "Increase your bass and decrease the highs.\n\n All credit goes to u/JJ1553 for making these presets.\n\n Packaged by me (@CodeyMooreDev).\n\n"
+				},
+				{
+					"class": "DepictionSeparatorView"
 				},
 				{
 					"title": "Latest Version",
