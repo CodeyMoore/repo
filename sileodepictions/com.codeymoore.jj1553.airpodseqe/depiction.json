@@ -7,17 +7,14 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# RecordnPlay\n A FREE alternative of RecordMusic Plus.\n"
+					"markdown": "# JJ1553's AirPods Pro EQE Presets\n EQE presets. Increase bass, decrease highs.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\n A simple tweak that allows users to play music while screenrecording.\n"
-				},
-				{
-					"class": "DepictionSeparatorView"
+					"markdown": "## Description\n Increase your bass and decrease the highs.\n All credit goes to u/JJ1553 for making these presets.\nPackaged by me (@CodeyMooreDev).\n"
 				},
 				{
 					"title": "Latest Version",
@@ -25,12 +22,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.1",
+					"text": "1.0",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Release Date",
-					"text": "20th February 2020",
+					"text": "13th Jun 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -40,6 +37,11 @@
 				},
 				{
 					"title": "Developer",
+					"text": "u/JJ1553",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Maintainer",
 					"text": "Codey Moore",
 					"class": "DepictionTableTextView"
 				},
@@ -70,51 +72,14 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "Fixed preference bundle icon not loading.<br/> Removed link icons (donation, SnapChat and repo).<br/> Moved link cells around.<br/> Fixed a few typos.",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 20th February 2020</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.0-1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "Backend of the preference bundle fixed",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 19th February 2020</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
 					"title": "1.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Initial Release",
+					"markdown": "Initial Release.",
 					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 18th December 2019</small>",
-					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
 			],

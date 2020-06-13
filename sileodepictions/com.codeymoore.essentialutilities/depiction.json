@@ -55,12 +55,12 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Get Installer!",
+					"title": "Get Zebra!",
 					"action": "https://getzbra.com/repo/",
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"title": "Get Zebra!",
+					"title": "Get Installer!",
 					"action": "https://apptapp.me/repo/",
 					"class": "DepictionTableButtonView"
 				},

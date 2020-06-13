@@ -145,6 +145,23 @@ Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.iglike
 Name: IGLikesEnabler
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.iglikesenabler/depiction.json
 
+Package: com.codeymoore.jj1553.airpodseqe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Depends: mobilesubstrate
+Filename: ./debs/JJ1553's AirPods Pro EQE Presets.deb
+Size: 2148
+MD5sum: 58d56223b66d9bc3893fa2be70d39327
+SHA1: a48243fb5e6f09f6d74b3fedfa3119094ce6f03b
+SHA256: 30fb34d39b1acf620466d04a0b83bba5c1631e3925f3f42e37e46afb8cf40c77
+Section: Tweaks
+Description: EQE presets. Increase bass, decrease highs.
+Author: u/JJ1553
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.jj1553.airpodseqe
+Name: JJ1553's AirPods Pro EQE Presets
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.jj1553.airpodseqe/depiction.json
+
 Package: com.codeymoore.optussportnojb
 Version: 1.0
 Architecture: iphoneos-arm
