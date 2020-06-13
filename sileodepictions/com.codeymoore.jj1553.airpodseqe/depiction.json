@@ -6,10 +6,6 @@
 			"tabname": "Details",
 			"views": [
 				{
-					"title": "JJ1553's AirPods Pro EQE Presets",
-					"class": "DepictionHeaderView"
-				},
-				{
 					"class": "DepictionMarkdownView",
 					"markdown": "EQE presets. Increase bass, decrease highs.\n"
 				},
@@ -18,6 +14,9 @@
 				},
 				{
 					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSpacerView"
 				},
 				{
 					"title": "Description",
@@ -32,6 +31,9 @@
 				},
 				{
 					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSpacerView"
 				},
 				{
 					"title": "Latest Version",
