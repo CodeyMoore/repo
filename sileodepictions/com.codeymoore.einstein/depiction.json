@@ -80,7 +80,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Arm64e (A12/A12x) Support.<br/> Updated to work on latest version of Spotify.",
+					"markdown": "Arm64e (A12/A12x) Support.\n\n Updated to work on latest version of Spotify.\n\n",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},

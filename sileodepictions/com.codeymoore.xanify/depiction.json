@@ -155,7 +155,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Tweak has moved inside the Spotify app (except for Followers/Following spoofer).<br/> Added an option to spoof Followers/Following count.<br/> Pitch black now playing view.<br/> Landscape rotation for iPhone/iPod.<br/> (Kinda pointless) Anti-Jailbreak detection.<br/> Updated method for hiding the status bar.",
+					"markdown": "Tweak has moved inside the Spotify app (except for Followers/Following spoofer).\n\n Added an option to spoof Followers/Following count.\n\n Pitch black now playing view.\n\n Landscape rotation for iPhone/iPod.\n\n (Kinda pointless) Anti-Jailbreak detection.\n\n Updated method for hiding the status bar.\n\n",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},

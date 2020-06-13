@@ -1,11 +1,11 @@
 <package>
 	<id>com.codeymoore.essentialutilities</id>
 	<name>Essential Utilities</name>
-	<version>1.4.4</version>
+	<version>1.4.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0.0</miniOS>
-			<maxiOS>13.3</maxiOS>
+			<maxiOS>13.5</maxiOS>
 			<otherVersions>Not yet tested</otherVersions>
 		</firmware>
 	</compatibility>
@@ -15,7 +15,7 @@
 	</dependencies>
 	<shortDescription>A preference bundle with essential commands</shortDescription>
 	<descriptionlist>
-		<description>A preference bundle thats able to SBReload, reset UICache and restart SpringBoard, BackBoardd, MediaServerd, CallServicesd and NSUrlsessiond.</description>
+		<description>A preference bundle thats able to SBReload, enter Safe Mode, reset UICache and restart SpringBoard, BackBoardd, MediaServerd, CallServicesd and NSUrlsessiond.</description>
 	</descriptionlist>
 		<screenshots>
 		<screenshot>
@@ -23,11 +23,8 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added SBReload</change>
-		<change>Fixed preference bundle icon not loading</change>
-		<change>Removed link icons (donation, SnapChat and repo)</change>
-		<change>Moved link cells around</change>
-		<change>Fixed a few typos</change>
+		<change>Added Safe Mode button.</change>
+		<change>Rearranged buttons.</change>
 	</changelog>
 	<links>
 	</links>

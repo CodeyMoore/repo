@@ -80,7 +80,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Added the option to enable the new ui.</br>Fixed a few typos.</br>Theres probably more that I did fix but cant remember lol.",
+					"markdown": "Added the option to enable the new ui.\n\n Fixed a few typos.\n\n Theres probably more that I did fix but cant remember lol.\n\n",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -96,7 +96,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Fixed preference bundle icon not loading.</br>Removed link icons (donation, SnapChat and repo).</br>Moved link cells around.</br>Fixed a few typos.",
+					"markdown": "Fixed preference bundle icon not loading.\n\n Removed link icons (donation, SnapChat and repo).\n\n Moved link cells around.\n\n Fixed a few typos.\n\n",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},

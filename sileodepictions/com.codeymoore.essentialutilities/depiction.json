@@ -18,7 +18,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "A preference bundle thats able to SBReload, reset UICache and restart SpringBoard, BackBoardd, MediaServerd, CallServicesd and NSUrlsessiond.\n\n"
+					"markdown": "A preference bundle thats able to SBReload, enter Safe Mode, reset UICache and restart SpringBoard, BackBoardd, MediaServerd, CallServicesd and NSUrlsessiond.\n\n"
 				},
 				{
 					"itemCornerRadius": 5,
@@ -40,12 +40,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.4.4",
+					"text": "1.4.5",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released Date",
-					"text": "20th January 2020",
+					"text": "13th June 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -85,13 +85,24 @@
 			"tabname": "Changelog",
 			"views": [
 				{
+					"title": "1.4.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Added Safe Mode Button.\n\n Rearranged buttons.\n\n",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "1.4.4",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Added SBReload.<br/> Fixed preference bundle icon not loading.<br/> Removed link icons (donation, SnapChat and repo).<br/> Moved link cells around.<br/> Fixed a few typos.",
+					"markdown": "Added SBReload Button.\n\n Fixed preference bundle icon not loading.\n\n Removed link icons (donation, SnapChat and repo).\n\n Moved link cells around.\n\n Fixed a few typos.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},

@@ -1,4 +1,8 @@
 <changelog>
+		<version>1.4.5</version>
+		<change>Added Safe Mode button.</change>
+		<change>Rearranged buttons</change>
+	</changes>
 	<changes>
 		<version>1.4.4</version>
 		<change>Added SBReload</change>

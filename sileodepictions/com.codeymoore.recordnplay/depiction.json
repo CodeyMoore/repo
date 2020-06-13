@@ -18,7 +18,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "\nA simple tweak that allows users to play music while screenrecording.\n\n"
+					"markdown": "A simple tweak that allows users to play music while screenrecording.\n\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -80,7 +80,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Fixed preference bundle icon not loading.<br/> Removed link icons (donation, SnapChat and repo).<br/> Moved link cells around.<br/> Fixed a few typos.",
+					"markdown": "Fixed preference bundle icon not loading.\n\n Removed link icons (donation, SnapChat and repo).\n\n Moved link cells around.\n\n Fixed a few typos.\n\n",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},

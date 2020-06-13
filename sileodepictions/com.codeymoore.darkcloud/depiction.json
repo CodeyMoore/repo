@@ -80,7 +80,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Rewrite.<br/> Arm64e (A12/A12x) Support",
+					"markdown": "Rewrite.\n\n Arm64e (A12/A12x) Support.\n\n",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
