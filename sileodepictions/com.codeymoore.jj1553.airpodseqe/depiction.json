@@ -6,8 +6,15 @@
 			"tabname": "Details",
 			"views": [
 				{
+					"title": "JJ1553's AirPods Pro EQE Presets",
+					"class": "DepictionHeaderView"
+				},
+				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# JJ1553's AirPods Pro EQE Presets\n EQE presets. Increase bass, decrease highs.\n"
+					"markdown": "EQE presets. Increase bass, decrease highs.\n"
+				},
+				{
+					"class": "DepictionSpacerView"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,6 +26,9 @@
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "Increase your bass and decrease the highs.\n\n All credit goes to u/JJ1553 for making these presets.\n\n Packaged by me (@CodeyMooreDev).\n\n"
+				},
+				{
+					"class": "DepictionSpacerView"
 				},
 				{
 					"class": "DepictionSeparatorView"
