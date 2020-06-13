@@ -127,6 +127,25 @@ Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/EUIcon.PNG
 Name: Essential Utilities
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
 
+Package: com.codeymoore.essentialutilities
+Version: 1.4.5
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 192
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 8.0.0)
+Filename: ./debs/com.codeymoore.essentialutilities_1.4.5_iphoneos-arm.deb
+Size: 40776
+MD5sum: 8d15df8060c59e968f60b3bfb95f8bdc
+SHA1: 91ebe97bce92ce1b6a8990b65eecfe2d19a63a7a
+SHA256: 2ac1040ea77c2e59b9d7ed347361a394d81234c4935a329912579d36522fddf8
+Section: Utilities
+Description: A preference bundle with essential commands
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.essentialutilities
+Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/EUIcon@3x.png
+Name: Essential Utilities
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
+
 Package: com.codeymoore.iglikesenabler
 Version: 1.0
 Architecture: iphoneos-arm
