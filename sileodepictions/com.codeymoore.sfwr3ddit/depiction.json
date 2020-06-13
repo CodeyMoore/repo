@@ -7,14 +7,18 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# SFWR3ddit\n Disables Reddit's NSFW restrictions.\n"
+					"markdown": "Disables Reddit's NSFW restrictions.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\n Disables Reddit's NSFW restrictions.\n"
+					"markdown": "Disables Reddit's NSFW restrictions.\n\n"
 				},
 				{
 					"class": "DepictionSeparatorView"

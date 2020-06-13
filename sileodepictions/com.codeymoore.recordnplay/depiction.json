@@ -7,14 +7,18 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# RecordnPlay\n A FREE alternative of RecordMusic Plus.\n"
+					"markdown": "A FREE alternative of RecordMusic Plus.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\n A simple tweak that allows users to play music while screenrecording.\n"
+					"markdown": "\nA simple tweak that allows users to play music while screenrecording.\n\n"
 				},
 				{
 					"class": "DepictionSeparatorView"

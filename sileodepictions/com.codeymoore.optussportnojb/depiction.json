@@ -7,14 +7,18 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# OptusSportNoJB\n Disables Jailbreak Detection.\n"
+					"markdown": "Disables Jailbreak Detection.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\n Disables Jailbreak Detection\n Nice try Optus ;).\n"
+					"markdown": "Disables Jailbreak Detection\n\n Nice try Optus ;).\n\n"
 				},
 				{
 					"class": "DepictionSeparatorView"

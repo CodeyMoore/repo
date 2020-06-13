@@ -7,14 +7,18 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# DarkCloud\n Removes ads on Soundcloud and enables dev menu.\n"
+					"markdown": "Removes ads on Soundcloud and enables dev menu.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\n Should remove all ads on Soundcloud and enable built-in developer menu.\n"
+					"markdown": "Should remove all ads on Soundcloud and enable built-in developer menu.\n\n"
 				},
 				{
 					"class": "DepictionSeparatorView"

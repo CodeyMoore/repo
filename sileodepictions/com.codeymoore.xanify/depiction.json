@@ -7,14 +7,18 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# Xanify\n A small collection of Spotify tweaks.\n"
+					"markdown": "A small collection of Spotify tweaks.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\n Xanify is a work-in-progress Spotify tweak.\n More features will be added over time.\n"
+					"markdown": "Xanify is a work-in-progress Spotify tweak.\n\n More features will be added over time.\n\n"
 				},
 				{
 					"itemCornerRadius": 5,

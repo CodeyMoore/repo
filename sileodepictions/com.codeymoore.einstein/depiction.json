@@ -7,14 +7,18 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# Einstein\n Disable Genius/BehindTheLyrics feature."
+					"markdown": "Disable Genius/BehindTheLyrics feature."
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\n This is a component from Xanify.\n Einstein aims to disable the Genius/BehindTheLyrics feature from Spotify.\n"
+					"markdown": "This is a component from Xanify.\n\n Einstein aims to disable the Genius/BehindTheLyrics feature from Spotify.\n\n"
 				},
 				{
 					"class": "DepictionSeparatorView"

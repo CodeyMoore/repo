@@ -7,14 +7,18 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# ApollowSFW\n Makes Apollo safe for work ;).\n"
+					"markdown": "Makes Apollo safe for work ;).\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\n A simple tweak that removes the NSFW blur and disables jailbreak detection.\n"
+					"markdown": "A simple tweak that removes the NSFW blur and disables jailbreak detection.\n\n"
 				},
 				{
 					"class": "DepictionSeparatorView"

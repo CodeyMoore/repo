@@ -7,14 +7,18 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "# Essential Utilities\n A preference bundle with essential commands"
+					"markdown": "A preference bundle with essential commands.\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Description\n A preference bundle thats able to SBReload, reset UICache and restart SpringBoard, BackBoardd, MediaServerd, CallServicesd and NSUrlsessiond.\n"
+					"markdown": "A preference bundle thats able to SBReload, reset UICache and restart SpringBoard, BackBoardd, MediaServerd, CallServicesd and NSUrlsessiond.\n\n"
 				},
 				{
 					"itemCornerRadius": 5,
