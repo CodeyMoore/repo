@@ -170,16 +170,16 @@ Architecture: iphoneos-arm
 Maintainer: Codey Moore
 Depends: mobilesubstrate
 Filename: ./debs/com.codeymoore.jj1553.airpods12eqe.deb
-Size: 1812
-MD5sum: c253ce625da715c868bc052bafd81b42
-SHA1: d1f5d4861762233d8ecdead8e8590a34d55ec026
-SHA256: deca9658fa549a9c29888dc7a9010de9d264bcbfca40e1631c3d931dcf513c51
+Size: 2304
+MD5sum: f813692f8d45a5439db830327e0e43b1
+SHA1: a5d84815e53836e9a3458a90f41ae292bd190953
+SHA256: 4292b4f37195d197df6bc801a6e62761be1a187c8af9bce528b929566a918cd6
 Section: Tweaks
 Description: EQE presets. Toned bass, Increase highs and Mids.
 Author: u/JJ1553
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.jj1553.airpodseqe
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.jj1553.airpods12eqe
 Name: JJ1553's AirPods 1/2 EQE Presets
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.jj1553.airpodseqe/depiction.json
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.jj1553.airpods12eqe/depiction.json
 
 Package: com.codeymoore.jj1553.airpodseqe
 Version: 1.0-1
