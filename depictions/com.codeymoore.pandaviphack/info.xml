@@ -20,6 +20,13 @@
 		<description>Packaged by me (@CodeyMooreDev).</description>
 		<description>Personally tested on iOS 13.5 by me (@CodeyMooreDev).</description>
 	</descriptionlist>
+	<screenshots>
+	<screenshot>
+		<image>PandaHelperSS.jpeg</image>
+		<image>ShiroSucukTwitter.jpeg</image>
+		<image>NotSaundersTechTwitter.jpeg</image>
+	</screenshot>
+</screenshots>
 	<changelog>
 		<change>Initial Release.</change>
 	</changelog>
