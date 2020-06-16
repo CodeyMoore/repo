@@ -26,15 +26,15 @@
 					"screenshots": [
 				{
 					"accessibilityText": "PandaHelper ScreenShot",
-					"url": "https://codeymoore.github.io/repo/depictions/om.codeymoore.pandaviphack/screenshots/PandaHelperSS.jpeg"
+					"url": "https://codeymoore.github.io/repo/depictions/om.codeymoore.pandaviphack/screenshots/PandaHelperSS.PNG"
 				},
 				{
 					"accessibilityText": "ShiroSucuk's Twitter",
-					"url": "https://codeymoore.github.io/repo/depictions/com.codeymoore.pandaviphack/screenshots/ShiroSucuksTwitter.jpeg"
+					"url": "https://codeymoore.github.io/repo/depictions/com.codeymoore.pandaviphack/screenshots/ShiroSucuksTwitter.PNG"
 				},
 				{
 					"accessibilityText": "NotSaundersTech's Twitter",
-					"url": "https://codeymoore.github.io/repo/depictions/com.codeymoore.pandaviphack/screenshots/NotSaundersTechTwitter.jpeg"
+					"url": "https://codeymoore.github.io/repo/depictions/com.codeymoore.pandaviphack/screenshots/NotSaundersTechTwitter.PNG"
 				},
 				],
 					"class": "DepictionScreenshotsView"
