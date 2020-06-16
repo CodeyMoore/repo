@@ -1,0 +1,28 @@
+<package>
+	<id>com.codeymoore.pandaviphack</id>
+	<name>PandaVipHack</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>13.5</maxiOS>
+			<otherVersions>Not yet tested</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>PandaHelper ipa (MIGHT be on my repo soon as a deb)</package>
+		<package>Cydia Substrate/Substitute</package>
+	</dependencies>
+	<shortDescription>Deb by @CodeyMooreDev. Crack by @ShiroSucuk</shortDescription>
+	<descriptionlist>
+		<description>Panda Helper VIP for free</description>
+		<description>All credit goes to @ShiroSucuk for making the crack/patch.</description>
+		<description>Packaged by me (@CodeyMooreDev).</description>
+		<description>Personally tested on iOS 13.5 by me (@CodeyMooreDev).</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release.</change>
+	</changelog>
+	<links>
+	</links>
+</package>

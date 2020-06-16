@@ -1,0 +1,116 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://codeymoore.github.io/repo/assets/Banners/RepoHeader.png",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Deb by @CodeyMooreDev. Crack by @ShiroSucuk.\n"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Deb by @CodeyMooreDev. Crack by @ShiroSucuk.\n\n Panda Helper VIP for free.\n\n All credit goes to @ShiroSucuk for making the crack/patch.\n\n Packaged by me (@CodeyMooreDev).\n\n Personally tested on iOS 13.5 by me (@CodeyMooreDev).\n\n"
+				},
+				{
+					"itemCornerRadius": 5,
+					"itemSize": "{130, 285}",
+					"screenshots": [
+				{
+					"accessibilityText": "PandaHelper ScreenShot",
+					"url": "https://codeymoore.github.io/repo/depictions/om.codeymoore.pandaviphack/screenshots/PandaHelperSS.jpeg"
+				},
+				{
+					"accessibilityText": "ShiroSucuk's Twitter",
+					"url": "https://codeymoore.github.io/repo/depictions/com.codeymoore.pandaviphack/screenshots/ShiroSucuksTwitter.jpeg"
+				},
+				{
+					"accessibilityText": "NotSaundersTech's Twitter",
+					"url": "https://codeymoore.github.io/repo/depictions/com.codeymoore.pandaviphack/screenshots/NotSaundersTechTwitter.jpeg"
+				}
+				],
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0.1",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Release Date",
+					"text": "16th June 2020",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Codey Moore",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Maintainer",
+					"text": "Codey Moore",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Get Zebra!",
+					"action": "https://getzbra.com/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Get Installer!",
+					"action": "https://apptapp.me/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Website",
+					"action": "https://codeymoore.github.io/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Need Support? DM me on Twitter",
+					"action": "https://twitter.com/CodeyMooreDev",
+					"class": "DepictionTableButtonView"
+				},
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Initial Release.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
