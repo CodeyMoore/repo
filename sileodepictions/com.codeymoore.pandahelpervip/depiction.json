@@ -7,7 +7,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Deb by @CodeyMooreDev. Crack by @ShiroSucuk.\n"
+					"markdown": "Deb by @CodeyMooreDev. Crack by @ShiroSucuk.\n\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -18,7 +18,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Panda Helper VIP for free.\n\n All credit goes to @ShiroSucuk for making the crack/patch.\n\n Packaged by me (@CodeyMooreDev).\n\n Updated method which now means that the VIP expires on the 18th of June 2118.\n\n"
+					"markdown": "Panda Helper VIP for free.\n\n All credit goes to @ShiroSucuk for making the crack/patch.\n\n Packaged by me (@CodeyMooreDev).\n\n Updated method by me (@CodeyMooreDev) which now means that the VIP expires on the 18th of June 2118.\n\n"
 				},
 				{
 					"itemCornerRadius": 5,
@@ -48,7 +48,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0.1",
+					"text": "2.0.4",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -98,24 +98,13 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.1",
+					"title": "2.0.4",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Updated method which now means that the VIP expires on the 18th of June 2118.",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.0.1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "Initial Release.",
+					"markdown": "Updated method by me (@CodeyMooreDev) which now means that the VIP expires on the 18th of June 2118.\n\n ",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}

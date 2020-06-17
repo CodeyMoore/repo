@@ -234,6 +234,24 @@ Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.pandav
 Name: PandaVipHack
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.pandaviphack/depiction.json
 
+Package: com.codeymoore.pandaviphack
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.codeymoore.pandaviphack_1.1_iphoneos-arm.deb
+Size: 3612
+MD5sum: 03d5b72a82e97407c0234d784b8a3f94
+SHA1: 1d0660c581895231352f15b3400ac8674695d136
+SHA256: dbd9805268dc553daa80135c3bc32dbfea37ca8dab7ba3afd495dec0a99a31b2
+Section: Tweaks
+Description: Deb by @CodeyMooreDev. Crack by @ShiroSucuk
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.pandaviphack
+Name: PandaVipHack
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.pandaviphack/depiction.json
+
 Package: com.codeymoore.recordnplay
 Version: 1.0
 Architecture: iphoneos-arm
