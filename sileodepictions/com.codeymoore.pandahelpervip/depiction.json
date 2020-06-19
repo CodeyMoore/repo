@@ -48,12 +48,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "2.0.4",
+					"text": "2.0.4-1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Release Date",
-					"text": "16th June 2020",
+					"text": "19th June 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -97,6 +97,17 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "2.0.4-1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Updated UDID by me (@CodeyMooreDev).\n\n RIP 2118 UDID.\n\n",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "2.0.4",
 					"useBoldText": true,

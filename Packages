@@ -234,6 +234,24 @@ Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.pandah
 Name: PandaHelperVIP
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.pandahelpervip/depiction.json
 
+Package: com.codeymoore.pandahelpervip
+Version: 2.0.4-1
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Depends: mobilesubstrate
+Conflicts: org.cydia.kiimo.pandaHelperv
+Filename: ./debs/com.codeymoore.pandahelpervip_2.0.4-1_iphoneos-arm.deb
+Size: 40370832
+MD5sum: 150d093ecefb97509c8db8d604829296
+SHA1: f297b89757b4f9049ae4db33501901b22f2d228a
+SHA256: 50ecbb06440ef480d8dbccf2698851d8a27cedddc14f8e808767afa109c70b0d
+Section: Entertainment
+Description: Deb by @CodeyMooreDev
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.pandahelpervip
+Name: PandaHelperVIP
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.pandahelpervip/depiction.json
+
 Package: com.codeymoore.pandaviphack
 Version: 1.0.1
 Architecture: iphoneos-arm
