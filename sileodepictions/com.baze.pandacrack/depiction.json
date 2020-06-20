@@ -7,7 +7,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Deb by @CodeyMooreDev. Crack by @ShiroSucuk.\n\n"
+					"markdown": "PandaHelper VIP Crack from @ShiroSucuk on Twitter!.\n\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -18,26 +18,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Panda Helper VIP for free.\n\n All credit goes to @ShiroSucuk for making the crack/patch.\n\n Packaged by me (@CodeyMooreDev).\n\n Updated method by me (@CodeyMooreDev) which now means that the VIP expires on the 18th of June 2118.\n\n"
-				},
-				{
-					"itemCornerRadius": 5,
-					"itemSize": "{130, 285}",
-					"screenshots": [
-				{
-					"accessibilityText": "PandaHelper ScreenShot",
-					"url": "https://codeymoore.github.io/repo/depictions/om.codeymoore.pandaviphack/screenshots/PandaHelperSS.PNG"
-				},
-				{
-					"accessibilityText": "ShiroSucuk's Twitter",
-					"url": "https://codeymoore.github.io/repo/depictions/com.codeymoore.pandaviphack/screenshots/ShiroSucuksTwitter.PNG"
-				},
-				{
-					"accessibilityText": "NotSaundersTech's Twitter",
-					"url": "https://codeymoore.github.io/repo/depictions/com.codeymoore.pandaviphack/screenshots/NotSaundersTechTwitter.PNG"
-				},
-				],
-					"class": "DepictionScreenshotsView"
+					"markdown": "MAKE SURE YOU HAVE PandaHelper TOGGLED ON IN THE SETTINGS.\n\n\n Panda Helper VIP for free.\n\n Made by @ShiroSucuk and @Baxxxia.\n\n Patch PandaHelper Apps.\n\n Bypass Profile installion.\n\n"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -48,12 +29,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "2.0.4-1",
+					"text": "1.2.0",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Release Date",
-					"text": "19th June 2020",
+					"text": "20th June 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -63,12 +44,12 @@
 				},
 				{
 					"title": "Developer",
-					"text": "Codey Moore",
+					"text": "@ShiroSucuk",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Maintainer",
-					"text": "Codey Moore",
+					"text": "ShiroSucuk",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -98,24 +79,13 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "2.0.4-1",
+					"title": "1.2.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Updated UDID by me (@CodeyMooreDev).\n\n RIP 2118 UDID.\n\n",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "2.0.4",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "Updated method by me (@CodeyMooreDev) which now means that the VIP expires on the 18th of June 2118.\n\n ",
+					"markdown": "Updated UDID. 2110+ Year UDID.\n\n Fixed tweak enable/disable.\n\n Initial Release.\n\n",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
