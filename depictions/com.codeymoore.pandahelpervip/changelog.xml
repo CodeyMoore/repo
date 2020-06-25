@@ -1,0 +1,11 @@
+<changelog>
+	<changes>
+		<version>2.0.4-1</version>
+		<change>Updated UDID by me (@CodeyMooreDev). RIP 2118 UDID.</change>
+	</changes>
+	<changes>
+		<version>2.0.4</version>
+		<change>Initial release as a deb.</change>
+		<change>Updated method by me (@CodeyMooreDev) which now means that the VIP expires on the 18th of June 2118.</change>
+	</changes>
+</changelog>

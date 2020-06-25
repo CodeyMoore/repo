@@ -1,0 +1,127 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://codeymoore.github.io/repo/assets/Banners/RepoHeader.png",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Deb by @CodeyMooreDev. Crack by @ShiroSucuk.\n\n"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Panda Helper VIP for free.\n\n All credit goes to @ShiroSucuk for making the crack/patch.\n\n Packaged by me (@CodeyMooreDev).\n\n Updated method by me (@CodeyMooreDev) which now means that the VIP expires on the 18th of June 2118.\n\n"
+				},
+				{
+					"itemCornerRadius": 5,
+					"itemSize": "{130, 285}",
+					"screenshots": [
+				{
+					"accessibilityText": "PandaHelper ScreenShot",
+					"url": "https://codeymoore.github.io/repo/depictions/om.codeymoore.pandaviphack/screenshots/PandaHelperSS.PNG"
+				},
+				{
+					"accessibilityText": "ShiroSucuk's Twitter",
+					"url": "https://codeymoore.github.io/repo/depictions/com.codeymoore.pandaviphack/screenshots/ShiroSucuksTwitter.PNG"
+				},
+				{
+					"accessibilityText": "NotSaundersTech's Twitter",
+					"url": "https://codeymoore.github.io/repo/depictions/com.codeymoore.pandaviphack/screenshots/NotSaundersTechTwitter.PNG"
+				},
+				],
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "2.0.4-1",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Release Date",
+					"text": "19th June 2020",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Codey Moore",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Maintainer",
+					"text": "Codey Moore",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Get Zebra!",
+					"action": "https://getzbra.com/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Get Installer!",
+					"action": "https://apptapp.me/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Website",
+					"action": "https://codeymoore.github.io/repo/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Need Support? DM me on Twitter",
+					"action": "https://twitter.com/CodeyMooreDev",
+					"class": "DepictionTableButtonView"
+				},
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "2.0.4-1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Updated UDID by me (@CodeyMooreDev).\n\n RIP 2118 UDID.\n\n",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "2.0.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Updated method by me (@CodeyMooreDev) which now means that the VIP expires on the 18th of June 2118.\n\n ",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

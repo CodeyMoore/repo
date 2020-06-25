@@ -1,3 +1,22 @@
+Package: com.baze.pandacrack
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: baze (@ShiroSucuk)
+Installed-Size: 252
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.baze.pandacrack_1.2.0_iphoneos-arm.deb
+Size: 32318
+MD5sum: 84c60a4f5efac5156fcd5e64528fac0e
+SHA1: 4d30cd644112f0b6d4bd1d7d935c59ae27f53156
+SHA256: 40b7a927dee1d4f34687f26157ce120efb2f4b484e17b74f42fb20bbbee3f4d9
+Section: Tweaks
+Description: PandaHelper VIP Crack from @ShiroSucuk on Twitter!
+Author: baze (@ShiroSucuk)
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.baze.pandacrack
+Icon: https://panda-helper.org/wp-content/uploads/2018/10/panda-helper-original.jpg
+Name: PandaCrack
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.baze.pandacrack/depiction.json
+
 Package: com.codeymoore.apollosfw
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -215,6 +234,78 @@ Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.optussportnojb
 Name: OptusSportNoJB
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.optussportnojb/depiction.json
+
+Package: com.codeymoore.pandahelpervip
+Version: 2.0.4
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Depends: mobilesubstrate
+Conflicts: org.cydia.kiimo.pandaHelperv
+Filename: ./debs/com.codeymoore.pandahelpervip_2.0.4_iphoneos-arm.deb
+Size: 40373936
+MD5sum: a7748f68f175dcdf818a7189a3364815
+SHA1: 933c35ee4c523fcba11a1490d1b83a101de88738
+SHA256: 9777d9e43ea30fc645dd6276f91d051eaddc86e82359d0f0e3da48f97cad613b
+Section: Entertainment
+Description: Deb by @CodeyMooreDev
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.pandahelpervip
+Name: PandaHelperVIP
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.pandahelpervip/depiction.json
+
+Package: com.codeymoore.pandahelpervip
+Version: 2.0.4-1
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Depends: mobilesubstrate
+Conflicts: org.cydia.kiimo.pandaHelperv
+Filename: ./debs/com.codeymoore.pandahelpervip_2.0.4-1_iphoneos-arm.deb
+Size: 40370832
+MD5sum: 150d093ecefb97509c8db8d604829296
+SHA1: f297b89757b4f9049ae4db33501901b22f2d228a
+SHA256: 50ecbb06440ef480d8dbccf2698851d8a27cedddc14f8e808767afa109c70b0d
+Section: Entertainment
+Description: Deb by @CodeyMooreDev
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.pandahelpervip
+Name: PandaHelperVIP
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.pandahelpervip/depiction.json
+
+Package: com.codeymoore.pandaviphack
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.codeymoore.pandaviphack_1.0.1_iphoneos-arm.deb
+Size: 3610
+MD5sum: b0cff434a75ccd67b8688a93ac416f7f
+SHA1: 8146a62cc292953f90dde9b39405243725d45a62
+SHA256: 5fb286974b2945b4802a51d1a9eace83ade70b73212d4afbc4fff9dc26632340
+Section: Tweaks
+Description: Deb by @CodeyMooreDev. Crack by @ShiroSucuk
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.pandaviphack
+Name: PandaVipHack
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.pandaviphack/depiction.json
+
+Package: com.codeymoore.pandaviphack
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.codeymoore.pandaviphack_1.1_iphoneos-arm.deb
+Size: 3612
+MD5sum: 03d5b72a82e97407c0234d784b8a3f94
+SHA1: 1d0660c581895231352f15b3400ac8674695d136
+SHA256: dbd9805268dc553daa80135c3bc32dbfea37ca8dab7ba3afd495dec0a99a31b2
+Section: Tweaks
+Description: Deb by @CodeyMooreDev. Crack by @ShiroSucuk
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.pandaviphack
+Name: PandaVipHack
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.pandaviphack/depiction.json
 
 Package: com.codeymoore.recordnplay
 Version: 1.0
