@@ -17,6 +17,25 @@ Icon: https://panda-helper.org/wp-content/uploads/2018/10/panda-helper-original.
 Name: PandaCrack
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.baze.pandacrack/depiction.json
 
+Package: com.baze.pandacrack
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: baze (@ShiroSucuk)
+Installed-Size: 692
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.baze.pandacrack_1.3.deb
+Size: 475314
+MD5sum: 5e50768b5196ab69b80d2b02d295e996
+SHA1: 279c652fadb4a15a675e5f1189ca4b0f81d1f145
+SHA256: 5aef7cad71b171ba6954d99be2f5964a5461ca6f1b0d24567bd0824a498dc7bc
+Section: Tweaks
+Description: PandaHelper VIP Crack from @ShiroSucuk on Twitter!
+Author: baze (@ShiroSucuk)
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.baze.pandacrack
+Icon: https://panda-helper.org/wp-content/uploads/2018/10/panda-helper-original.jpg
+Name: PandaCrack
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.baze.pandacrack/depiction.json
+
 Package: com.codeymoore.apollosfw
 Version: 1.0-1
 Architecture: iphoneos-arm
