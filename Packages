@@ -123,7 +123,7 @@ Section: Utilities
 Description: Preference bundle with essential commands
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.essentialutilities
-Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/EU@2x.png
+Icon: https://codeymoore.github.io/repo/assets/Images/EUIcon.png
 Name: Essential Utilities
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
 
@@ -142,7 +142,7 @@ Section: Utilities
 Description: Preference bundle with essential commands
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.essentialutilities
-Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/EU.png
+Icon: https://codeymoore.github.io/repo/assets/Images/EUIcon.png
 Name: Essential Utilities
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
 
@@ -161,7 +161,7 @@ Section: Utilities
 Description: A preference bundle with essential commands
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.essentialutilities
-Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/EUIcon.PNG
+Icon: https://codeymoore.github.io/repo/assets/Images/EUIcon.png
 Name: Essential Utilities
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
 
@@ -180,7 +180,7 @@ Section: Utilities
 Description: A preference bundle with essential commands
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.essentialutilities
-Icon: https://codeymoore.github.io/assets/Images/EUIcon.png
+Icon: https://codeymoore.github.io/repo/assets/Images/EUIcon.png
 Name: Essential Utilities
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
 
@@ -341,7 +341,7 @@ Section: Tweaks
 Description: A free version of RecordMusic Plus
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.recordnplay
-Icon: file:///Library/PreferenceBundles/rnprefs.bundle/RNP@3x.png
+Icon: https://codeymoore.github.io/repo/assets/Images/RNPIcon.png
 Name: RecordnPlay
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.recordnplay/depiction.json
 
@@ -360,7 +360,7 @@ Section: Tweaks
 Description: A free version of RecordMusic Plus
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.recordnplay
-Icon: file:///Library/PreferenceBundles/rnprefs.bundle/RNP@3x.png
+Icon: https://codeymoore.github.io/repo/assets/Images/RNPIcon.png
 Name: RecordnPlay
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.recordnplay/depiction.json
 
@@ -379,7 +379,7 @@ Section: Tweaks
 Description: A free version of RecordMusic Plus
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.recordnplay
-Icon: file:///Library/PreferenceBundles/rnprefs.bundle/RNP@3x.png
+Icon: https://codeymoore.github.io/repo/assets/Images/RNPIcon.png
 Name: RecordnPlay
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.recordnplay/depiction.json
 
@@ -416,7 +416,7 @@ Section: Tweaks
 Description: Disables Reddit's NSFW restrictions
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.sfwr3ddit
-Icon: https://codeymoore.github.io/assets/Images/SFWIcon.png
+Icon: https://codeymoore.github.io/repo/assets/Images/SFWRIcon.png
 Name: SFWR3ddit
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.sfwr3ddit/depiction.json
 
@@ -435,7 +435,7 @@ Section: Tweaks
 Description: Disables Reddit's NSFW restrictions
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.sfwr3ddit
-Icon: https://codeymoore.github.io/assets/Images/SFWIcon.png
+Icon: https://codeymoore.github.io/repo/assets/Images/SFWRIcon.png
 Name: SFWR3ddit
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.sfwr3ddit/depiction.json
 
