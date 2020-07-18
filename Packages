@@ -180,7 +180,7 @@ Section: Utilities
 Description: A preference bundle with essential commands
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.essentialutilities
-Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/EUIcon@3x.png
+Icon: https://codeymoore.github.io/assets/Images/EUIcon.png
 Name: Essential Utilities
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
 
@@ -416,7 +416,7 @@ Section: Tweaks
 Description: Disables Reddit's NSFW restrictions
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.sfwr3ddit
-Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/SFWIcon.png
+Icon: https://codeymoore.github.io/assets/Images/SFWIcon.png
 Name: SFWR3ddit
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.sfwr3ddit/depiction.json
 
@@ -435,7 +435,7 @@ Section: Tweaks
 Description: Disables Reddit's NSFW restrictions
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.sfwr3ddit
-Icon: file:///Library/PreferenceBundles/SFWR3dditPrefs.bundle/SFWRIcon.png
+Icon: https://codeymoore.github.io/assets/Images/SFWIcon.png
 Name: SFWR3ddit
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.sfwr3ddit/depiction.json
 
@@ -494,4 +494,3 @@ Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.zinitevinoads
 Name: ZiniTeviNoAds
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.zinitevinoads/depiction.json
-
