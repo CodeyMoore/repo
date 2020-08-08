@@ -446,10 +446,10 @@ Maintainer: Codey Moore
 Installed-Size: 280
 Pre-Depends: firmware (>= 13.0)
 Filename: ./debs/com.codeymoore.videoaudiobydefault_1.0_iphoneos-arm.deb
-Size: 7636
-MD5sum: 2b4183f7af4a54f9b476347e08356e2a
-SHA1: 51e075884e9654cef388c6ab3e15f9532f1847ae
-SHA256: bce8b175a0b43fb4d9603632db51118748bf0ca81f9e3383565f7a2efcb6ce2a
+Size: 7576
+MD5sum: 8fb0f212b1dad4bc9c7d811bea7a5b52
+SHA1: fed05d3d6571dd11f8c6c2aa3f5d1ad3bc5f19cb
+SHA256: 0504f0e6fda74bbdc5c1d01202403d70d7c11c809a006468be076bffb6e2daed
 Section: Tweaks
 Description: Auto plays video audio in Photos app
 Author: Codey Moore
