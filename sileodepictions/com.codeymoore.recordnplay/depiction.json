@@ -80,7 +80,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Fixed icon in package managers.\n\n Tidy some preference bundle stuff up.\n\n Added instruction for if the tweak isn't working.\n\n",
+					"markdown": "Fixed icon in package managers.\n\n Tidied some preference bundle stuff up.\n\n Added instruction for if the tweak isn't working.\n\n",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
