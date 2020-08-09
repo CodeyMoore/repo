@@ -409,15 +409,15 @@ Maintainer: Codey Moore
 Installed-Size: 296
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 12.0)
 Filename: ./debs/com.codeymoore.recordnplay_1.2_iphoneos-arm.deb
-Size: 16990
-MD5sum: 6b696fc8f208e0c40760daacd4ece417
-SHA1: 065ab5bb996a7c1634e679080bfbd2d088fede78
-SHA256: 83e202e886c8f29523d0651920f2f5eadd90944693bd10a21487fd408a027b47
+Size: 16976
+MD5sum: 35a8e729f8dafa1dbb44e0d9988043d9
+SHA1: 5fb3daa619f9db0ebceaaa6e9e1d851202cfa6aa
+SHA256: e1c4030de826caeb5a1aa0ab4e45ceff1af0adab06c6938be0c7747fe9c13774
 Section: Tweaks
 Description: A free version of RecordMusic Plus
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.recordnplay
-Icon: https://codeymoore.github.io/repo/assets/Images/EUIcon.png
+Icon: https://codeymoore.github.io/repo/assets/Images/RNPIcon.png
 Name: RecordnPlay
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.recordnplay/depiction.json
 
@@ -484,15 +484,15 @@ Maintainer: Codey Moore
 Installed-Size: 300
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Filename: ./debs/com.codeymoore.sfwr3ddit_1.3_iphoneos-arm.deb
-Size: 24074
-MD5sum: 5e143a6521da83db1ecd531dc8c68b84
-SHA1: a4e332cc9fe5ede4434f2139419c730bbbe5dde7
-SHA256: 5e1753a4615f96c1ac414d49d1211ffdadc70f967ae4f692b92269e7aba74d25
+Size: 24086
+MD5sum: 526b8e247b153b6de4d468be71e941de
+SHA1: f4a24c168f680592327cfc2f920bb25f30500086
+SHA256: 40c8fa806afe4f7fe48b02edb3aa32ef6051e06fea741131b158dd330bb879b8
 Section: Tweaks
 Description: Disables Reddit's NSFW restrictions
 Author: Codey Moore
 Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.sfwr3ddit
-Icon: https://codeymoore.github.io/repo/assets/Images/SFWIcon.png
+Icon: https://codeymoore.github.io/repo/assets/Images/SFWRIcon.png
 Name: SFWR3ddit
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.sfwr3ddit/depiction.json
 
