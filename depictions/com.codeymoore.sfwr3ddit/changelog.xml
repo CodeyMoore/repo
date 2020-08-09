@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.3</version>
+		<change>Fixed icon in package managers</change>
+		<change>Tidy some preference bundle stuff up</change>
+	</changes>
+	<changes>
 		<version>1.2</version>
 		<change>Added the option to enable the new ui</change>
 		<change>Fixed a few typos</change>

@@ -40,12 +40,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.4.5",
+					"text": "1.4.6",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released Date",
-					"text": "13th June 2020",
+					"text": "9th August 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -84,6 +84,17 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.4.6",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Fixed icon in package managers.\n\n Tidy some preference bundle stuff up.\n\n",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.4.5",
 					"useBoldText": true,

@@ -1,7 +1,7 @@
 <package>
 	<id>com.codeymoore.videoaudiobydefault</id>
 	<name>VideoAudioByDefault</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -17,7 +17,7 @@
 		<description>Simple tweak that will auto play video audio in the Photos app.</description>
 	</descriptionlist>
 	<changelog>
-		<change>Initial Release.</change>
+	<change>Fixed preference bundle</change>
 	</changelog>
 	<links>
 	</links>

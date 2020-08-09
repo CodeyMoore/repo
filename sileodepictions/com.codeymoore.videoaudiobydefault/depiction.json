@@ -29,7 +29,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "1.1",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -78,6 +78,17 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Fixed preference bundle.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.0",
 					"useBoldText": true,

@@ -1,11 +1,11 @@
 <package>
 	<id>com.codeymoore.essentialutilities</id>
 	<name>Essential Utilities</name>
-	<version>1.4.5</version>
+	<version>1.4.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0.0</miniOS>
-			<maxiOS>13.5</maxiOS>
+			<maxiOS>14</maxiOS>
 			<otherVersions>Not yet tested</otherVersions>
 		</firmware>
 	</compatibility>
@@ -23,8 +23,8 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added Safe Mode button.</change>
-		<change>Rearranged buttons.</change>
+		<change>Fixed icon in package managers</change>
+		<change>Tidy some preference bundle stuff up</change>
 	</changelog>
 	<links>
 	</links>

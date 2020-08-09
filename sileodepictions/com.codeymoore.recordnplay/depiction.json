@@ -29,12 +29,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.1",
+					"text": "1.2",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Release Date",
-					"text": "20th February 2020",
+					"text": "9th August 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -73,6 +73,22 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Fixed icon in package managers.\n\n Tidy some preference bundle stuff up.\n\n Added instruction for if the tweak isn't working.\n\n",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Release Date - 9th August 2020</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.1",
 					"useBoldText": true,
