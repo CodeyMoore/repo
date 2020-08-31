@@ -1,37 +1,8 @@
-Architectures: iphoneos-arm
-Codename: ios
-Components: main
-Date: Mon, 31 Aug 2020 10:12:53 +0000
-Description: Rip Lil Peep
-Label: Codey Moore's Repo
 Origin: CodeyMooreDev
+Label: Codey Moore's APT Repo
 Suite: stable
 Version: 1.0
-MD5Sum:
- 59a03d9d2b0179b7302de6c3307bc89c            16538 Packages
- 882d4f954c73e425a3035ceff1870b1c             4674 Packages.bz2
- edd9e1c822b1978fc3633577ab241c3b             4801 Packages.gz
- 95c49b8bacbe4f54576ac9adb0cf068d             4420 Packages.xz
- 1475fb188e543df9a4cd9699d6a1ca04             4391 Packages.zst
- b5c504ba33449cae55529bc87d617cc1              198 Release
-SHA1:
- 34c94db166010fa14ba71a6410156b377ee56bc1            16538 Packages
- a4fbc37c73b782d64a16b7d40b2f90402cf21dbc             4674 Packages.bz2
- cb5ee38938d1789251590d10863b76bb80da8af4             4801 Packages.gz
- 143eca25d34499e8f72d56a15fd94154fb46e90d             4420 Packages.xz
- 591c844ca26c22d4a14eac888556b5cdf444a9ff             4391 Packages.zst
- 643629a97dc3aae5a6e68f71d5cd2e67a45d2ec0              198 Release
-SHA256:
- 9869536af9a25c266b7da61b8c798410c2dc302dc278cd5994b1a3102e38f7ba            16538 Packages
- 84c0e2c0e9941b435262421c4940802a9378f53b09bfbdc819549462ea516603             4674 Packages.bz2
- e5d675ad13a8cb0f853257f512b6615734654148a49d0de9decb23c64cd52ad6             4801 Packages.gz
- 134ec28470cbdebb64106a071abda9c6ca4991b2a525a8baa9c6624247fe357a             4420 Packages.xz
- 1c5f39af7b771f69251819427b7b51402891c4b75d9c28513aec82876353bbe8             4391 Packages.zst
- d9348ff4d1b49a7788cab7a5bc0d0d063082f72e9ae1424bbfd1cd380751d15a              198 Release
-SHA512:
- 2fa39dfad4d5d2afa3836933782d4dc4ea7fa20a625701ee3228a75533c2bfcaae876735db93825850df53d1013a0a1d318bd75d7e2aca5b964a74ac5aa620a9            16538 Packages
- 4407e8872c508063d9138ebd1d9ba87c7ec12ae56dc7b8adbf342dcee6e31f2a055baae6415ebf6856dc46a0313bf1b8734d92e1d0b84c4281f16247eded6b0e             4674 Packages.bz2
- 3f17392bf73cf695042852246dbf2af8f0639275b6c60c43aa5e71db68a905a043f67b6b58321556d669eb56e4fcb6135276d237a34b4dd751af6922a4f5a30a             4801 Packages.gz
- 333a6d63e72a6700e931fbacfec30880eb687c36f547f7abfeb7d44a27e37d2ca0ed1d0e2976c791f1cc97f8f72c6c0d3fd006aba908aa05260e1c0de72c9beb             4420 Packages.xz
- 3e8152400840fceacc578f9ea63a8a60eaa6775d3b132d81fbd45a0e9cdf056c3a0e8cb7ad1a396888ef00424e77fb1289fbed512599abca45bed14a5fd9a6a0             4391 Packages.zst
- 3e035bcafcaaae00c6f330d00899b7e4f6838017f4ee83deef6927f5bee2394446ba18683e95dfebb12e53cb428d21be0d0f44658ea76f9edc0eb9fdd51c206d              198 Release
+Codename: Rip Lil Peep
+Architectures: iphoneos-arm
+Components: main
+Description: Codey Moore's APT Repo
