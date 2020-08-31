@@ -4,16 +4,10 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://codeymoore.github.io/repo/assets/Banners/EssentialUtilsHeader.png",
-        "title": "Essential Utilities",
-        "package": "com.codeymoore.essentialutilities",
+        "url": "https://raw.githubusercontent.com/syns/repo.me/master/assets/Banners/RepoHeader.png",
+        "title": "Sample Package",
+        "package": "me.syns.samplepackage",
         "hideShadow": false
-    },
-    {
-        "url": "https://codeymoore.github.io/repo/assets/Banners/IGLikesEnablerHeader.png",
-        "title": "IGLikesEnabler",
-        "package": "com.codeymoore.iglikesenabler",
-        "hideShadow": false
-    },
+    }
   ]
 }

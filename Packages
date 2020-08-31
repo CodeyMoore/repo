@@ -1,348 +1,367 @@
 Package: com.codeymoore.apollosfw
-Version: 1.0-1
 Architecture: iphoneos-arm
+Version: 1.0-1
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.codeymoore.apollosfw_1.0-1_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.apollosfw_1.0-1_iphoneos-arm.deb
 Size: 2462
 MD5sum: 9ef8237f487bc559f7fc769f13902c93
 SHA1: bfa2f4ecd47c3caa125b5221aa54f5b45ad2d7bc
 SHA256: 3deaf8a3d1a06b3321b4130e2cd716c0bff4b9032defb9c18697ef5b004faf6b
-Section: Tweaks
+SHA512: 4e56d8bfe1f170efc69e87787db94a470a027e5c3698e4bbbb290256774f380154516c5024422388564b89bb9905bd5d29d478ab24f5bbf2eefdc027ccd41ccd
 Description: Makes Apollo safe for work ;)
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.apollosfw
 Name: ApolloSFW
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.apollosfw/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.apollosfw
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.apollosfw/depiction.json
+Author: Codey Moore
 
 Package: com.codeymoore.darkcloud
-Version: 1.0
 Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.codeymoore.darkcloud_1.0_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.darkcloud_1.0_iphoneos-arm.deb
 Size: 2776
 MD5sum: 484a772e582501a217e12c682f001d61
 SHA1: 74a5d4a4bc4a0d6110ffe05f9210dff0bcbf8734
 SHA256: a6a43812f30d27940bad52108f12533b17703a5985d63a44c81cfc1cbab1631e
-Section: Tweaks
+SHA512: f20450e61b356ee296de75a42050c66ec1723659a4d46ab9a9ac09e3b37040787de703a72800fede4a5a8a58fa0ac1b941e8ea199ae0dbe752a0af17d366ec89
 Description: Enables Soundclouds built in dark mode (plus dev menu)
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.darkcloud
 Name: DarkCloud
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.darkcloud/
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.darkcloud
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.darkcloud/
+Author: Codey Moore
 
 Package: com.codeymoore.darkcloud
-Version: 1.1
 Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.codeymoore.darkcloud_1.1_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.darkcloud_1.1_iphoneos-arm.deb
 Size: 3212
 MD5sum: fb16542e7f7b855845b79967aec080f0
 SHA1: 0df5015263e2780754c63726414890e3995926f8
 SHA256: bfde51cdded7a986d56864842772e0bd63f9bbd7aa4b25cfe3f8d95fc87f031b
-Section: Tweaks
+SHA512: 6bac7771e1ce470d26e4b6ffd87d60d29454aec9cbd240d87d582f2554cbe3221effc6409367eb655da7541936be4013fe4668a8dae06ff233babdb2a0475fa6
 Description: Removes ads on Soundcloud and enables dev menu
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.darkcloud
 Name: DarkCloud
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.darkcloud/
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.darkcloud
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.darkcloud/
+Author: Codey Moore
 
 Package: com.codeymoore.einstein
-Version: 1.1
 Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.codeymoore.einstein_1.1_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.einstein_1.1_iphoneos-arm.deb
 Size: 3002
 MD5sum: 033d230f820991b6428426e00f4e4d21
 SHA1: ef7e1b267d0c6c12314864adf46a51852f724452
 SHA256: f47876ce99f29bdfefc3a84f0b208a478057a4135ebd0a5446fc4ff1e50d4bc2
-Section: Tweaks
+SHA512: 55bd4ca6ee5affdad389babe1796b7f5506bda336f0e181093b73cf809ab1eb1895dba9ae5c0e95e9ee2ad4116ac26b9de26d2b6dee8f364c0252347d6285324
 Description: Disables the Genius feature in Spotify.
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.einstein
 Name: Einstein
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.einstein/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.einstein
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.einstein/depiction.json
+Author: Codey Moore
 
 Package: com.codeymoore.essentialutilities
-Version: 1.4.5
 Architecture: iphoneos-arm
+Version: 1.4.5
+Section: Utilities
 Maintainer: Codey Moore
 Installed-Size: 192
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 8.0.0)
-Filename: ./debs/com.codeymoore.essentialutilities_1.4.5_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.essentialutilities_1.4.5_iphoneos-arm.deb
 Size: 40776
 MD5sum: 8d15df8060c59e968f60b3bfb95f8bdc
 SHA1: 91ebe97bce92ce1b6a8990b65eecfe2d19a63a7a
 SHA256: 2ac1040ea77c2e59b9d7ed347361a394d81234c4935a329912579d36522fddf8
-Section: Utilities
+SHA512: 232c42b402999eeb1f879c2064c3796da18480e388fbcf3c65836d684fba62c02b64a5044c57f9627c9174e0c309dcf97d1e9485080a7275e71e7d2a133b7c25
 Description: A preference bundle with essential commands
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.essentialutilities
-Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/EUIcon@3x.png
 Name: Essential Utilities
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.essentialutilities
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
+Icon: file:///Library/PreferenceBundles/EssentialUtilities.bundle/EUIcon@3x.png
+Author: Codey Moore
 
 Package: com.codeymoore.essentialutilities
-Version: 1.4.6
 Architecture: iphoneos-arm
+Version: 1.4.6
+Section: Utilities
 Maintainer: Codey Moore
 Installed-Size: 168
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 8.0)
-Filename: ./debs/com.codeymoore.essentialutilities_1.4.6_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.essentialutilities_1.4.6_iphoneos-arm.deb
 Size: 22212
 MD5sum: 16babb165c10952f0761a5a22691cea5
 SHA1: 35bab682cccd06eec44570d716721c1d5ad446ed
 SHA256: 71b0f000028f2514519c0d880673dcb4ba0c0070325b6fefdd8383af74d8d809
-Section: Utilities
+SHA512: bb7cc34cb4badb0f03515caf97d25f0102a8cc1775c736acbcd94c53931ab1b14b856b863c1ae2bb5db3870ae2afd11f471ef41a835451aafcda3f31f3dc591a
 Description: A preference bundle with essential commands
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.essentialutilities
-Icon: https://codeymoore.github.io/repo/assets/Images/EUIcon.png
 Name: Essential Utilities
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.essentialutilities
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.essentialutilities/depiction.json
+Icon: https://codeymoore.github.io/repo/assets/Images/EUIcon.png
+Author: Codey Moore
 
 Package: com.codeymoore.iglikesenabler
-Version: 1.0
 Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.codeymoore.iglikesenabler_1.0_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.iglikesenabler_1.0_iphoneos-arm.deb
 Size: 2478
 MD5sum: 3604e58dc3cbc2f7737a5c86b3d9b39b
 SHA1: 060a3bab2ea6dca4a06bec0f9ab0b2fc22458fc3
 SHA256: b454ef6c77ebf392f9056c15735e9e87f0f7ef786822ed7dceb850b564baed7b
-Section: Tweaks
+SHA512: 7277d749e60ff46180a71b2bb43902ad7070d53372a687c1724623df678bff8765072f27ee1645429b3a4c8f014eeb0c3d259df9fbc51db8488544b953aca3de
 Description: A FREE alternative for IGShowLike
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.iglikesenabler
 Name: IGLikesEnabler
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.iglikesenabler/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.iglikesenabler
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.iglikesenabler/depiction.json
+Author: Codey Moore
 
 Package: com.codeymoore.jj1553.airpods12eqe
-Version: 1.0
 Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
 Maintainer: Codey Moore
 Depends: mobilesubstrate
-Filename: ./debs/com.codeymoore.jj1553.airpods12eqe.deb
+Filename: ./debians/com.codeymoore.jj1553.airpods12eqe.deb
 Size: 2304
 MD5sum: f813692f8d45a5439db830327e0e43b1
 SHA1: a5d84815e53836e9a3458a90f41ae292bd190953
 SHA256: 4292b4f37195d197df6bc801a6e62761be1a187c8af9bce528b929566a918cd6
-Section: Tweaks
+SHA512: 284d2cad1718e4dee4587bc04ab729893d7fbd852825ad8ca17e5ca97196f2258aff9a86a6f46970770acd4821fbdcf1402aa5e219201ad2f51b2c8bcdf7e612
 Description: EQE presets. Toned bass, Increase highs and Mids.
-Author: u/JJ1553
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.jj1553.airpods12eqe
 Name: JJ1553's AirPods 1/2 EQE Presets
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.jj1553.airpods12eqe/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.jj1553.airpods12eqe
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.jj1553.airpods12eqe/depiction.json
+Author: u/JJ1553
 
 Package: com.codeymoore.jj1553.airpodseqe
-Version: 1.0-1
 Architecture: iphoneos-arm
+Version: 1.0-1
+Section: Tweaks
 Maintainer: Codey Moore
 Depends: mobilesubstrate
-Filename: ./debs/com.codeymoore.jj1553.airpodseqe.deb
+Filename: ./debians/com.codeymoore.jj1553.airpodseqe.deb
 Size: 1416
 MD5sum: 211643a995cbdfb71d2f007adcafaee2
 SHA1: 32f07d9b463bcbfd5e055c8f26773f666eae773a
 SHA256: edbb0952f6de48c1c36bc2949a6c76bc39167fd4b36034db80f1f1b2c2e760af
-Section: Tweaks
+SHA512: c1c307bce27ee45c6412ca6863dd775e46510fc39f675d1d5e40a2a1488fe465c765e6e3a0a0b2a14e6d165935a033c3a75021b8f5743078c76528de824229af
 Description: EQE presets. Increase bass, decrease highs.
-Author: u/JJ1553
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.jj1553.airpodseqe
 Name: JJ1553's AirPods Pro EQE Presets
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.jj1553.airpodseqe/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.jj1553.airpodseqe
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.jj1553.airpodseqe/depiction.json
+Author: u/JJ1553
 
 Package: com.codeymoore.optussportnojb
-Version: 1.0
 Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/com.codeymoore.optussportnojb_1.0_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.optussportnojb_1.0_iphoneos-arm.deb
 Size: 3530
 MD5sum: b74b12c6c994d09bec8b664c3747553b
 SHA1: 3daa11caf06512221a727ad96c7dcbb3fb8c1726
 SHA256: f140de01b0e2b4864e1754aa73186ae10ec4b8b0a9ef0f97bb5b3aee9543711b
-Section: Tweaks
+SHA512: 15b3609d7e6a9496973aa20dd88e712ec4c2e205f73d06e1e866c3f8a9fbbd9216ba0d839dc2aacb8afc9327caa57258e463473b0db52d89188abb64eb62c23f
 Description: Disables Jailbreak Detection. Nice try Optus ;)
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.optussportnojb
 Name: OptusSportNoJB
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.optussportnojb/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.optussportnojb
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.optussportnojb/depiction.json
+Author: Codey Moore
 
 Package: com.codeymoore.recordnplay
-Version: 1.1
 Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 332
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 12.0.0)
-Filename: ./debs/com.codeymoore.recordnplay_1.1_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.recordnplay_1.1_iphoneos-arm.deb
 Size: 42670
 MD5sum: 9d8d91824e500b82efc8d15dd63c72c3
 SHA1: c9c8bd59efbb48b67472a07409f462abb4bb3d91
 SHA256: 580f98a812f14309905815995d339e797ec92d7e0254e31ea1092b5081cfa20a
-Section: Tweaks
+SHA512: 29461c7051c8cef07186574d6272fe2a01204fd9d9e6092dbc3089702d916ecd11b67237000f9591a0dd7d3572e391e7c4b37718068dc40893b4e20168761b66
 Description: A free version of RecordMusic Plus
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.recordnplay
-Icon: file:///Library/PreferenceBundles/rnprefs.bundle/RNP@3x.png
 Name: RecordnPlay
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.recordnplay/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.recordnplay
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.recordnplay/depiction.json
+Icon: file:///Library/PreferenceBundles/rnprefs.bundle/RNP@3x.png
+Author: Codey Moore
 
 Package: com.codeymoore.recordnplay
-Version: 1.2
 Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 296
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 12.0)
-Filename: ./debs/com.codeymoore.recordnplay_1.2_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.recordnplay_1.2_iphoneos-arm.deb
 Size: 16976
 MD5sum: 35a8e729f8dafa1dbb44e0d9988043d9
 SHA1: 5fb3daa619f9db0ebceaaa6e9e1d851202cfa6aa
 SHA256: e1c4030de826caeb5a1aa0ab4e45ceff1af0adab06c6938be0c7747fe9c13774
-Section: Tweaks
+SHA512: 1c7f74055962f1d16e3f6652dfaddb8e2df00b04c73a27d62243b0b790648bb36c2fa7361465692bc8c0ee9d11e30e9c4dc08de6759e558dab00698ccf37f84f
 Description: A free version of RecordMusic Plus
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.recordnplay
-Icon: https://codeymoore.github.io/repo/assets/Images/RNPIcon.png
 Name: RecordnPlay
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.recordnplay/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.recordnplay
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.recordnplay/depiction.json
+Icon: https://codeymoore.github.io/repo/assets/Images/RNPIcon.png
+Author: Codey Moore
 
 Package: com.codeymoore.sfwr3ddit
-Version: 1.2
 Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 300
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: ./debs/com.codeymoore.sfwr3ddit_1.2_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.sfwr3ddit_1.2_iphoneos-arm.deb
 Size: 24098
 MD5sum: d193043bade79cac142e8abc9ad2e585
 SHA1: 3be141d7d329ed761b572e08ef0f6a81d13ab7bf
 SHA256: a72a61ec2ced23a7bd5ca7aebe146a6a6cb2c51fa4fda7cf565018f116f0b639
-Section: Tweaks
+SHA512: 02a3bbc7d07dad74c0ee1a4aa2616a681fd6435fcee4132f7dbbef6464f59cf2cd5f940370a0203bacb941532bc1c52c9b343741ef1cca52269222b0ae83fab6
 Description: Disables Reddit's NSFW restrictions
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.sfwr3ddit
-Icon: https://codeymoore.github.io/repo/assets/Images/SFWIcon.png
 Name: SFWR3ddit
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.sfwr3ddit/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.sfwr3ddit
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.sfwr3ddit/depiction.json
+Icon: https://codeymoore.github.io/repo/assets/Images/SFWIcon.png
+Author: Codey Moore
 
 Package: com.codeymoore.sfwr3ddit
-Version: 1.3
 Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 300
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: ./debs/com.codeymoore.sfwr3ddit_1.3_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.sfwr3ddit_1.3_iphoneos-arm.deb
 Size: 24086
 MD5sum: 526b8e247b153b6de4d468be71e941de
 SHA1: f4a24c168f680592327cfc2f920bb25f30500086
 SHA256: 40c8fa806afe4f7fe48b02edb3aa32ef6051e06fea741131b158dd330bb879b8
-Section: Tweaks
+SHA512: 21053b827c64408e840f3b5a03d58c574ac8657593160baa939812838cf6c8d6577b13b2e23706e1780ffe56d8f2ab4c46244873c4db3187fc696810b68bd7c0
 Description: Disables Reddit's NSFW restrictions
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.sfwr3ddit
-Icon: https://codeymoore.github.io/repo/assets/Images/SFWRIcon.png
 Name: SFWR3ddit
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.sfwr3ddit/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.sfwr3ddit
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.sfwr3ddit/depiction.json
+Icon: https://codeymoore.github.io/repo/assets/Images/SFWRIcon.png
+Author: Codey Moore
 
 Package: com.codeymoore.videoaudiobydefault
-Version: 1.0
 Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 280
 Pre-Depends: firmware (>= 13.0)
-Filename: ./debs/com.codeymoore.videoaudiobydefault_1.0_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.videoaudiobydefault_1.0_iphoneos-arm.deb
 Size: 7576
 MD5sum: 8fb0f212b1dad4bc9c7d811bea7a5b52
 SHA1: fed05d3d6571dd11f8c6c2aa3f5d1ad3bc5f19cb
 SHA256: 0504f0e6fda74bbdc5c1d01202403d70d7c11c809a006468be076bffb6e2daed
-Section: Tweaks
+SHA512: 0c8f324e23558f8a912d13a479e37cf5d13c9637f0485975c0a4fb28213eaa3dd5472e3c0bb6916fdd67fc700a82bf52624d1fef6b8b6d42e18b4f0728e93241
 Description: Auto plays video audio in Photos app
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.videoaudiobydefault
 Name: VideoAudioByDefault
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.videoaudiobydefault/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.videoaudiobydefault
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.videoaudiobydefault/depiction.json
+Author: Codey Moore
 
 Package: com.codeymoore.videoaudiobydefault
-Version: 1.1
 Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 280
 Pre-Depends: firmware (>= 13.0)
-Filename: ./debs/com.codeymoore.videoaudiobydefault_1.1_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.videoaudiobydefault_1.1_iphoneos-arm.deb
 Size: 7586
 MD5sum: 029d5fb05400f91d93c18327d8be16e2
 SHA1: 5efc85ee05fd2ff1b8bbb188b42bac294b0d4647
 SHA256: 325884c0660f7ec43eed36303638a8de4c3d155e03db7d2319f1fd1a104adad9
-Section: Tweaks
+SHA512: a5db6d392cb6f83c2d573b17f5dda6a2471ee58b704b67182ce40b9d36c275d2bf481e7d55202305be205aa9cb7c272f8b10d82ee2c6a1fad54021a866c01b75
 Description: Auto plays video audio in Photos app
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.videoaudiobydefault
 Name: VideoAudioByDefault
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.videoaudiobydefault/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.videoaudiobydefault
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.videoaudiobydefault/depiction.json
+Author: Codey Moore
 
 Package: com.codeymoore.xanify
-Version: 1.3-1
 Architecture: iphoneos-arm
+Version: 1.3-1
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 340
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: ./debs/com.codeymoore.xanify_1.3-1_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.xanify_1.3-1_iphoneos-arm.deb
 Size: 48182
 MD5sum: 2f7fed161c45a49cb367978a90caca74
 SHA1: d47a11929a0c11c1d36f21bc89dc62b31667d4bf
 SHA256: f30ca57adb34e7ca73ef9049ab220becaf36265dd8677c8892bd67defc5383bf
-Section: Tweaks
+SHA512: ac51e9740b367aab528c8c126ee11ba0a178014aeb5ef58e4487285a0295f8e766b2f833e86625f12671caa2cc9a7ea6e8a9c96922f20ed78e6dfd2aa489b6c9
 Description: Small collection of Spotify tweaks.
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.xanify
 Name: Xanify
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.xanify
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.xanify/depiction.json
+Author: Codey Moore
 Replace: com.hackyouriphone.xanify
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.xanify/depiction.json
 
 Package: com.codeymoore.xanify
-Version: 1.3-2
 Architecture: iphoneos-arm
+Version: 1.3-2
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 340
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: ./debs/com.codeymoore.xanify_1.3-2_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.xanify_1.3-2_iphoneos-arm.deb
 Size: 48702
 MD5sum: ec1738de8418d51b8db86cbfb3eeff8a
 SHA1: 8f8d1cebe1ab781b5ef60f957c54ec705933a9a4
 SHA256: b5590d4df3c2e34166a364175b91856b513cd1f706220d07dda34036a1d93a02
-Section: Tweaks
+SHA512: 74be347cb8eede2f56b49ce613f5b9e19862a4f64fe8a2aecb6cfe9be56b4ca0b8519357133ef0f32d5c3c2c817592c4a76fc2b2c15cf8eafd87f3445f53db57
 Description: Small collection of Spotify tweaks.
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.xanify
 Name: Xanify
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.xanify
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.xanify/depiction.json
+Author: Codey Moore
 Replace: com.hackyouriphone.xanify
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.xanify/depiction.json
 
 Package: com.codeymoore.zinitevinoads
-Version: 1.0
 Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
 Maintainer: Codey Moore
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.codeymoore.zinitevinoads_1.0_iphoneos-arm.deb
+Filename: ./debians/com.codeymoore.zinitevinoads_1.0_iphoneos-arm.deb
 Size: 2466
 MD5sum: ea284220cc08ddc896bace357680de82
 SHA1: e78cc91dc1d3c170e96e20e4bf98aa4cb4e0dc96
 SHA256: 6b5f1b994537020162e3b40988754f018e651e2404e91c66847bee23c43d9974
-Section: Tweaks
+SHA512: e2cc0a39d1acec76540d83901e79d04fc5dd10a0a984fd52733a7b3bfe07c0fef4c5e6bb1f02b5c139fe7a74243f68e4d118f5b17403c18ac28edc8e0ee087b1
 Description: Removes ads on ZiniTevi
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.zinitevinoads
 Name: ZiniTeviNoAds
-Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.zinitevinoads/depiction.json
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.zinitevinoads
+SileoDepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.zinitevinoads/depiction.json
+Author: Codey Moore
 
