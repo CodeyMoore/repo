@@ -10,4 +10,4 @@
 		}
 		return b;
 	})(window.location.search.substr(1).split('&'))
-})(jQuery);
+})(jQuery);	

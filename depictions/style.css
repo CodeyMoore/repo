@@ -6,7 +6,7 @@
     list-style-type: none;
     padding: 17px 15px;
     display: block;
-    color: #2482ff !important;
+    color: #337ab7 !important;
     text-align: left;
 }
 
@@ -16,11 +16,11 @@
 }
 
 html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
-    background-color: #f30303;
+    background-color: #fff;
 }
 
 html.can-touch .link-item:active{ /* disable hover effect when input is touch */
-    background-color: #5a4545;
+    background-color: #f5f5f5;
 }
 
 .fa {
@@ -28,55 +28,3 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     margin-left: 5px;
     margin-right: 10px;
 }
-
-div.jumbotron {
-    color: white;
-    background-color: #303030;
-}
-
-body {
-  background-color: black;
-
-}
-
-div {
-    background-color: black;
-
-}
-
-li.list-group-item{
-    color: white;
-    background-color: #303030;
-    padding-top: 17px;
-}
-
-a.link-item.list-group-item {
-    background-color: #303030;
-}
-
-h5 {
-  color: white;
-
-}
-
-.thumbnail {
-  display: block;
-  padding: 15px;
-  margin-bottom: 20px;
-  line-height: 1.42857143;
-  background-color: #303030;
-  border: 15px solid #303030;
-  border-radius: 4px;
-  -webkit-transition: border .2s ease-in-out;
-  -o-transition: border .2s ease-in-out;
-  transition: border .2s ease-in-out;
-}
-
-.alert-danger {
-    color: #a94442;
-    background-color: #f2dede;
-    border-color: #ebccd1;
-}
-
-.list-group {
-    margin-bottom: 35px;

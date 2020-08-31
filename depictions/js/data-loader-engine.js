@@ -2,13 +2,13 @@ function data_loader_engine(contentBlocks,xml) {
 
 	/* Loop through each if the contentBlocks */
 	$.each(contentBlocks, function (key,contentInfo){
-
+		
 		console.log('Processing '+key);
 		console.log('  type= '+contentInfo.type);
-
+		
 		// go out if key element does not exits
 		if (!($(key).length)) {return}
-
+		
 		switch(contentInfo.type) {
 			case "text":
 				var content = $(xml).find(contentInfo.source).text();
@@ -31,11 +31,11 @@ function data_loader_engine(contentBlocks,xml) {
 					.attr("href",url)
 					.text(contentInfo.text)
 				 );
-				break;
+				break;				
 			case "list":
 				var list = $(xml).find(contentInfo.source);
-
-
+				
+				
 				if (list.size()==0) {
 					if (contentInfo.emptyListCallback) {
 						contentInfo.emptyListCallback($(key))
@@ -46,7 +46,7 @@ function data_loader_engine(contentBlocks,xml) {
 					}
 					$.each(list, function(index,value){
 						var item = $(value).text()
-
+						
 						if (!!contentInfo.reverseRender) {
 							$(key).prepend( $(contentInfo.paragraphElement).html("<p>"+item+"</p>") )
 						} else {
