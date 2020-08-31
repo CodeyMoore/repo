@@ -1,7 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.0-1</version>
-		<change>Initial Release</change>
-		<change>Arm64e (A12/A12x) support should be added</change>
-	</changes>
-</changelog>

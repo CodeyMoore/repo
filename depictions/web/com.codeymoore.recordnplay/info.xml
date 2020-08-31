@@ -1,0 +1,28 @@
+<package>
+	<id>com.codeymoore.recordnplay</id>
+	<name>RecordnPlay</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0.0</miniOS>
+			<maxiOS>14</maxiOS>
+			<otherVersions>Not yet tested</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Cydia Substrate/Substitute</package>
+		<package>Cephei</package>
+	</dependencies>
+	<shortDescription>A FREE alternative for RecordMusic Plus.</shortDescription>
+	<descriptionlist>
+		<description>A FREE alternative for RecordMusic Plus.</description>
+		<description>A simple tweak that allows users to play music while screenrecording.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Fixed icon in package managers</change>
+		<change>Tidied some preference bundle stuff up</change>
+		<change>Added instruction for if the tweak isn't working</change>
+	</changelog>
+	<links>
+	</links>
+</package>
