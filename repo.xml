@@ -6,14 +6,9 @@
             <iconclass>fab fa-twitter</iconclass>
         </link>
         <link>
-            <name> Add me on Snapchat</name>
+            <name> Follow me on Snapchat</name>
             <url>https://www.snapchat.com/add/Codey_Moore</url>
             <iconclass>fas fa-ghost</iconclass>
-        </link>
-        <link>
-            <name> Want this depiction template?</name>
-            <url>https://github.com/syns/repo.me</url>
-            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
         </link>
     </footerlinks>
 </repo>
