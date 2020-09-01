@@ -1,0 +1,25 @@
+<package>
+	<id>com.codeymoore.zinitevinoads</id>
+	<name>ZiniTeviNoAds</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>Not yet tested</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>ZiniTevi (From the ZiniTevi Website)</package>
+		<package>Cydia Substrate/Substitute</package>
+	</dependencies>
+	<shortDescription>Removes ads in the ZiniTevi app</shortDescription>
+	<descriptionlist>
+		<description>Removes ads in the ZiniTevi app</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+	</links>
+</package>

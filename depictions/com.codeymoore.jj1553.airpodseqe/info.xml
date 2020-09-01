@@ -1,0 +1,27 @@
+<package>
+	<id>com.codeymoore.jj1553.airpodseqe</id>
+	<name>JJ1553's AirPods Pro EQE Presets</name>
+	<version>1.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>13.5</maxiOS>
+			<otherVersions>Not yet tested</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>EQE (BigBoss Repo)</package>
+		<package>Cydia Substrate/Substitute</package>
+	</dependencies>
+	<shortDescription>EQE presets. Increase bass, decrease highs.</shortDescription>
+	<descriptionlist>
+		<description>Increase your bass and decrease the highs.</description>
+		<description>All credit goes to u/JJ1553 for making these presets.</description>
+		<description>Packaged by me (@CodeyMooreDev).</description>
+	</descriptionlist>
+	<changelog>
+		<change>Removed .DS_Store (Hopefully).</change>
+	</changelog>
+	<links>
+	</links>
+</package>

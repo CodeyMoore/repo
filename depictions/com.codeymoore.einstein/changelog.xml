@@ -1,0 +1,11 @@
+<changelog>
+	<changes>
+		<version>1.1</version>
+		<change>Updated to work on latest version of Spotify</change>
+		<change>Arm64e (A12/A12x) support should be added</change>
+	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>

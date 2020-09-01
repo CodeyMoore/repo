@@ -1,0 +1,32 @@
+<package>
+	<id>com.codeymoore.xanify</id>
+	<name>Xanify</name>
+	<version>1.3-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>Not yet tested</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Spotify (From the AppStore)</package>
+		<package>Cydia Substrate/Substitute</package>
+		<package>Cephei</package>
+	</dependencies>
+	<shortDescription>A small collection of Spotify tweaks</shortDescription>
+	<descriptionlist>
+		<description>A work-in-progress Spotify tweak</description>
+		<description>More features will be added over time</description>
+	</descriptionlist>
+		<screenshots>
+		<screenshot>
+			<image>Xanify1.jpeg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fixed Genius/BehindTheLyrics hiding option</change>
+	</changelog>
+	<links>
+	</links>
+</package>

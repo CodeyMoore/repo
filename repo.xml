@@ -1,0 +1,14 @@
+<repo>
+    <footerlinks>
+        <link>
+            <name> Follow me on Twitter</name>
+            <url>https://twitter.com/CodeyMooreDev</url>
+            <iconclass>fab fa-twitter</iconclass>
+        </link>
+        <link>
+            <name> Follow me on Snapchat</name>
+            <url>https://www.snapchat.com/add/Codey_Moore</url>
+            <iconclass>fas fa-ghost</iconclass>
+        </link>
+    </footerlinks>
+</repo>

@@ -1,0 +1,10 @@
+<changelog>
+	<changes>
+		<version>1.1</version>
+		<change>Rewrite</change>
+	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>
