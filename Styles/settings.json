@@ -1,11 +1,24 @@
 {
-    "name": "Codey Moore's Repo",
+    "name": "Codey Moores Repo",
     "description": "Rip Lil Peep",
     "tint": "#FF000",
-    "cname": "codeymoore.github.io/repo",
-    "maintainer": {
-        "name": "Codey Moore",
-        "email": "codeymooredev@gmail.com"
+    "cname": "codeymoore.github.io/repo/docs",
+    "maintainer":
+    {
+    "name": "Codey Moore",
+    "email": "codeymooredev@gmail.com"
     },
-    "automatic_git": "false"
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/CodeyMooreDev"
+        },
+        {
+            "name": "Website",
+            "url": "https://codeymoore.github.io/repo/"
+        }
+    ],
+    "automatic_git": "false",
+    "footer": "{{repo_name}} Powered by Silica {{silica_version}}",
+    "enable_gpg": "false"
 }
