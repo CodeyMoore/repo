@@ -254,6 +254,24 @@ Icon: https://codeymoore.github.io/repo/assets/Images/SFWRIcon.png
 Name: SFWR3ddit
 Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.sfwr3ddit/depiction.json
 
+Package: com.codeymoore.spotifylibrary
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Codey Moore
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.codeymoore.spotifylibrary_1.0.0_iphoneos-arm.deb
+Size: 2874
+MD5sum: 74b0aad97bfd8b386f0e8a9e6bce31ad
+SHA1: fe9cd2371754116fee70e3318262e95429e3ffe7
+SHA256: 0a9a9836ce46a1972aed67c457c3081aabbea57066c41eb310e4b8907b31694d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/repo/depictions/?p=com.codeymoore.spotifylibrary
+Name: SpotifyLibrary
+Sileodepiction: https://codeymoore.github.io/repo/sileodepictions/com.codeymoore.spotifylibrary/depiction.json
+
 Package: com.codeymoore.videoaudiobydefault
 Version: 1.0
 Architecture: iphoneos-arm
