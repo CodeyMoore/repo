@@ -1,0 +1,32 @@
+<package>
+	<id>com.codeymoore.spotifylibrary</id>
+	<name>SpotifyLibrary</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0.0</miniOS>
+			<maxiOS>14.0</maxiOS>
+			<otherVersions>Not yet tested</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Substrate/Substitute/libhooker</package>
+		<package>Cephei</package>
+	</dependencies>
+	<shortDescription>A simple tweak to enable Library X in Spotify.</shortDescription>
+	<descriptionlist>
+		<description>No options to enable. Just install and enjoy.</description>
+		<description>A simple tweal to enable Spotify's new Library X feature.</description>
+		<description>Essentially its a redesigned library tab.</description>
+	</descriptionlist>
+		<screenshots>
+		<screenshot>
+			<image>SpotifyLibrary1.jpeg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+	</links>
+</package>
