@@ -2,10 +2,22 @@
     "name": "Codey Moore Repo",
     "description": "RIP Lil Peep",
     "tint": "#FF0000",
-    "cname": "codeymoore.github.io/repo/",
+    "cname": "codeymoore.github.io/repo",
     "maintainer": {
         "name": "Codey Moore",
         "email": "codeymooredev@gmail.com"
     },
-    "automatic_git": "false"
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/CodeyMooreDev"
+        },
+        {
+            "name": "Website",
+            "url": "https://codeymoore.github.io/repo/"
+        }
+    ],
+    "automatic_git": "false",
+    "footer": " Powered by Silica ",
+    "enable_gpg": "false"
 }
