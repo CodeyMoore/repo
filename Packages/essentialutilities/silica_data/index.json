@@ -1,1 +1,37 @@
-{"bundle_id": "com.codeymoore.essentialutilities", "name": "Essential Utilities (iOS 11+)", "version": "1.4.7", "tagline": "A preference bundle with essential commands", "homepage": "https://shuga.co/", "developer": {"name": "Codey Moore", "email": "codeymooredev@gmail.com"}, "maintainer": {"name": "Codey Moore", "email": "codeymooredev@gmail.com"}, "section": "Utilities", "works_min": "11.0.0", "works_max": "14.0", "featured": "true", "dependencies": "mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0.0)"}
+{
+    "bundle_id": "com.codeymoore.essential",
+    "name": "Essential Utilities",
+    "version": "1.4.7",
+    "tagline": "A preference bundle with essential commands",
+    "homepage": "https://codeymoore.github.io/repo/",
+    "developer": {
+        "name": "Codey Moore",
+        "email": "codeymooredev@gmail.com"
+    },
+    "maintainer": {
+        "name": "Codey Moore",
+        "email": "codeymooredev@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/CodeyMooreDev"
+        },
+        {
+            "name": "Website",
+            "url": "https://codeymoore.github.io/repo/"
+        }
+    ],
+    "section": "Utilities",
+    "dependencies": "mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0.0)",
+    "tint": "#FF000",
+    "works_min": "11.0.0",
+    "works_max": "14.0",
+    "featured": "true",
+    "changelog": [
+        {
+            "version": "1.4.7",
+            "changes": "Added reset UICache -a for certain jailbreaks."
+        }
+    ]
+}
