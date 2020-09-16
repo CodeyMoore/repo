@@ -1,0 +1,12 @@
+Origin: Codey Moore Repo
+Label: Codey Moore Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: RIP Lil Peep
+
+SHA256:
+ 045d25dd5113d955500ab484dd8b91dfe6f9e612c439d0f6dc12fb48b8862daa 612 Packages.bz2
+ f197b14d24fdaea79761edd18a098c2101906a26efe56dc27ea737c1f942eda4 608 Packages.xz
