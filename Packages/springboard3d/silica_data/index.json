@@ -1,0 +1,37 @@
+{
+    "bundle_id": "jp.akusio.springboard3d",
+    "name": "Springboard3D",
+    "version": "0.0.1",
+    "tagline": "Next-gen Springboard!",
+    "homepage": "https://codeymoore.github.io/repo/",
+    "developer": {
+        "name": "Akusio_RR",
+        "email": "null"
+    },
+    "maintainer": {
+        "name": "Codey Moore",
+        "email": "codeymooredev@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/CodeyMooreDev"
+        },
+        {
+            "name": "Website",
+            "url": "https://codeymoore.github.io/repo/"
+        }
+    ],
+    "section": "Tweaks",
+    "dependencies": "mobilesubstrate, firmware (>= 12.0)",
+    "tint": "#FF000",
+    "works_min": "12.0.0",
+    "works_max": "14.0",
+    "featured": "false",
+    "changelog": [
+        {
+            "version": "1.1",
+            "changes": "Initial Release."
+        }
+    ]
+}
