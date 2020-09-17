@@ -1,0 +1,41 @@
+{
+    "bundle_id": "com.codeymoore.spotifylibrary",
+    "name": "SpotifyLibraryX",
+    "version": "1.4.7",
+    "tagline": "Enable Spotify's new Library X!",
+    "homepage": "https://codeymoore.github.io/repo/",
+    "developer": {
+        "name": "Codey Moore",
+        "email": "codeymooredev@gmail.com"
+    },
+    "maintainer": {
+        "name": "Codey Moore",
+        "email": "codeymooredev@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/CodeyMooreDev"
+        },
+        {
+            "name": "Website",
+            "url": "https://codeymoore.github.io/repo/"
+        }
+    ],
+    "section": "Tweaks",
+    "dependencies": "mobilesubstrate, firmware (>= 11.0.0)",
+    "tint": "#FF000",
+    "works_min": "11.0.0",
+    "works_max": "14.0",
+    "featured": "true",
+    "changelog": [
+        {
+            "version": "1.0.1",
+            "changes": "No changes to code.\n Changed name from SpotifyLibrary to SpotifyLibraryX."
+        },
+        {
+            "version": "1.0.0",
+            "changes": "Initial Release."
+        }
+    ]
+}
