@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.spotifylibrary",
     "name": "SpotifyLibraryX",
-    "version": "1.4.7",
+    "version": "1.0.1",
     "tagline": "Enable Spotify's new Library X!",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
