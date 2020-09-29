@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.videoaudiobydefault",
     "name": "VideoAudioByDefault",
-    "version": "1.1",
+    "version": "1.1-1",
     "tagline": "Auto plays video audio in Photos app!",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -32,6 +32,10 @@
         {
             "version": "1.1",
             "changes": "Initial Release.\n\n Fixed preference bundle."
+        },
+        {
+            "version": "1.1-1",
+            "changes": "Updated PayPal link."
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.essentialutilities",
     "name": "Essential Utilities (iOS 11-13)",
-    "version": "1.4.7",
+    "version": "1.4.7-1",
     "tagline": "A preference bundle with essential commands",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -32,6 +32,10 @@
         {
             "version": "1.4.7",
             "changes": "Added reset UICache -a for certain jailbreaks."
+        },
+        {
+            "version": "1.4.7-1",
+            "changes": "Updated PayPal link."
         }
     ]
 }

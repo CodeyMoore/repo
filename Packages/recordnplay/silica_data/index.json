@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.recordnplay",
     "name": "RecordnPlay",
-    "version": "1.2-1",
+    "version": "1.2-2",
     "tagline": "A FREE alternative for RecordMusic Plus!",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -32,6 +32,10 @@
         {
             "version": "1.2-1",
             "changes": "No changes to code.\n\n Changed Twitter link."
+        },
+        {
+            "version": "1.2-2",
+            "changes": "Updated PayPal link."
         }
     ]
 }
