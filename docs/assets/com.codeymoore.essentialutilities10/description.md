@@ -1,5 +1,5 @@
 ### A preference bundle with essential commands
-Are you on iOS 11 or newer? check out (Essential Utilities (iOS 11-13) )[https://codeymoore.github.io/repo/depiction/web/com.codeymoore.essentialutilities.html]
+Are you on iOS 11 or newer? check out [Essential Utilities (iOS 11-13)](https://codeymoore.github.io/repo/depiction/web/com.codeymoore.essentialutilities.html)
 
 
 Essentially this package is the same as Essential Utilities but specifically built for iOS 10 and below

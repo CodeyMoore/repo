@@ -1,5 +1,5 @@
 ### A preference bundle with essential commands
-Are you on iOS 10 or below? check out (Essential Utilities (iOS 6-10) )[https://codeymoore.github.io/repo/depiction/web/com.codeymoore.essentialutilities10.html]
+Are you on iOS 10 or below? check out [Essential Utilities (iOS 6-10)](https://codeymoore.github.io/repo/depiction/web/com.codeymoore.essentialutilities10.html)
 
 
 Tested iOS'
