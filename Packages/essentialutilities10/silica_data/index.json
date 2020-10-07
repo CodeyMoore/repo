@@ -1,6 +1,6 @@
 {
-    "bundle_id": "com.codeymoore.essentialutilities",
-    "name": "Essential Utilities (iOS 11-13)",
+    "bundle_id": "com.codeymoore.essentialutilities10",
+    "name": "Essential Utilities (iOS 6-10)",
     "version": "1.4.8",
     "tagline": "A preference bundle with essential commands",
     "homepage": "https://codeymoore.github.io/repo/",
@@ -23,19 +23,16 @@
         }
     ],
     "section": "Utilities",
-    "dependencies": "mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0.0), firmware (<= 14.3)",
+    "dependencies": "mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 5.0.0), firmware (<= 10.3.4)",
+    "conflicts": "com.codeymoore.essentialutilities",
     "tint": "#FF000",
-    "works_min": "11.0.0",
-    "works_max": "14.0",
+    "works_min": "5.0.0",
+    "works_max": "10.3.4",
     "featured": "true",
     "changelog": [
         {
-            "version": "1.4.7-1",
-            "changes": "Updated PayPal link."
-        },
-        {
             "version": "1.4.8",
-            "changes": "Added conflict with Essential Utilities 6-10."
+            "changes": "Initial release."
         }
     ]
 }
