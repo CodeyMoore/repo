@@ -23,10 +23,10 @@
         }
     ],
     "section": "Utilities",
-    "dependencies": "mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 5.0.0), firmware (<= 10.3.4)",
+    "dependencies": "mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 6.0.0), firmware (<= 10.3.4)",
     "conflicts": "com.codeymoore.essentialutilities",
     "tint": "#FF000",
-    "works_min": "5.0.0",
+    "works_min": "6.0.0",
     "works_max": "10.3.4",
     "featured": "true",
     "changelog": [
