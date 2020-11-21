@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.fleetusdeletus",
     "name": "FleetusDeletus",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "tagline": "FLEETUS DELETUS!",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -32,6 +32,10 @@
         {
             "version": "1.0.0",
             "changes": "Initial Release."
+        },
+        {
+            "version": "1.0.1",
+            "changes": "Fixed grey line."
         }
     ]
 }
