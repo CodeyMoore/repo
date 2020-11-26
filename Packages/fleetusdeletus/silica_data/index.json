@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.fleetusdeletus",
     "name": "FleetusDeletus",
-    "version": "1.0.1",
+    "version": "1.0.1-1",
     "tagline": "FLEETUS DELETUS!",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -36,6 +36,10 @@
         {
             "version": "1.0.1",
             "changes": "Fixed grey line."
+        },
+        {
+            "version": "1.0.1-1",
+            "changes": "Finally added a preference bundle icon.\n\n Added instructions on how to fix tweak if its not working."
         }
     ]
 }

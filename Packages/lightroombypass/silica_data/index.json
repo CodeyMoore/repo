@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.lightroombypass",
     "name": "LightroomBypass",
-    "version": "1.0.1",
+    "version": "1.0.1-1",
     "tagline": "Bypasses Lightroom login",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -36,6 +36,10 @@
         {
             "version": "1.0.1",
             "changes": "It would help if I typo checked my code, sorry aha."
+        },
+        {
+            "version": "1.0.1-1",
+            "changes": "Finally added a preference bundle icon."
         }
     ]
 }
