@@ -28,11 +28,11 @@
     "tint": "#FF000",
     "works_min": "6.0.0",
     "works_max": "10.3.4",
-    "featured": "true",
+    "featured": "false",
     "changelog": [
         {
             "version": "1.4.8",
-            "changes": "Initial release."
+            "changes": "Initial release for iOS 6 - 10.3.4."
         }
     ]
 }
