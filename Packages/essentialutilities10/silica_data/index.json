@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.essentialutilities10",
     "name": "Essential Utilities (iOS 6-10)",
-    "version": "1.4.8",
+    "version": "1.5.0",
     "tagline": "A preference bundle with essential commands",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -33,6 +33,10 @@
         {
             "version": "1.4.8",
             "changes": "Initial release for iOS 6 - 10.3.4."
+        },
+        {
+            "version": "1.5.0",
+            "changes": "Added 'Restart Bluetoothd' and 'Restart BTServer (iOS 6 Bluetooth)' buttons.\n\n Also fixed this weird alignment issue with the buttons on iOS 6."
         }
     ]
 }

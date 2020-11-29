@@ -13,6 +13,8 @@ Tested on iOS 5 but was unable to load the preference bundle
 A simple preference bundle thats gives users the able to -
 - Enter Safe Mode
 - Reset UICache
+- Restart Bluetoothd
+- Restart BTServer (iOS 6 Bluetooth)
 - Restart SpringBoard
 - Restart BackBoardd
 - Restart MediaServerd

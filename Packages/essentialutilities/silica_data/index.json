@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.essentialutilities",
     "name": "Essential Utilities (iOS 11-13)",
-    "version": "1.4.8",
+    "version": "1.5.0",
     "tagline": "A preference bundle with essential commands",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -36,6 +36,10 @@
         {
             "version": "1.4.8",
             "changes": "Added conflict with Essential Utilities 6-10."
+        },
+        {
+            "version": "1.5.0",
+            "changes": "Added 'Restart Bluetoothd' button."
         }
     ]
 }
