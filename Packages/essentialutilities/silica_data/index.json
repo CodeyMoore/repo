@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.essentialutilities",
-    "name": "Essential Utilities (iOS 11-13)",
-    "version": "1.5.0",
+    "name": "Essential Utilities (iOS 11-14)",
+    "version": "1.5.1",
     "tagline": "A preference bundle with essential commands",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -23,10 +23,10 @@
         }
     ],
     "section": "Utilities",
-    "dependencies": "mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0.0), firmware (<= 14.3)",
+    "dependencies": "ws.hbang.common (>= 1.11), firmware (>= 11.0.0), firmware (<= 14.3), com.smokin1337.ldrestarthelper",
     "tint": "#FF000",
     "works_min": "11.0.0",
-    "works_max": "14.0",
+    "works_max": "14.3",
     "featured": "true",
     "changelog": [
         {
@@ -40,6 +40,10 @@
         {
             "version": "1.5.0",
             "changes": "Added 'Restart Bluetoothd' button."
+        },
+        {
+            "version": "1.5.1",
+            "changes": "Added 'ldrestart' button."
         }
     ]
 }

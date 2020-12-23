@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.lightroombypass",
     "name": "LightroomBypass",
-    "version": "1.0.1-1",
+    "version": "1.0.2",
     "tagline": "Bypasses Lightroom login",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -40,6 +40,10 @@
         {
             "version": "1.0.1-1",
             "changes": "Finally added a preference bundle icon."
+        },
+        {
+            "version": "1.0.2",
+            "changes": "Added support for Lightroom on iPad."
         }
     ]
 }

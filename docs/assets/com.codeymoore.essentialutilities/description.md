@@ -8,12 +8,13 @@ Most of iOS 12 and 13
 
 iOS 12.4.7 and 13.5 are the iOS I've always tested on  
 
-It "should" work iOS 14.0 as well but I'm unable to test  
+Tested on iPadOS 14.2  
   
 
   
 A simple preference bundle thats gives users the able to -
 - SBReload
+- ldrestart
 - Enter Safe Mode
 - Reset UICache
 - Restart Bluetoothd
