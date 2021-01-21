@@ -27,7 +27,7 @@
     "tint": "#FF000",
     "works_min": "7.0.0",
     "works_max": "14.3",
-    "featured": "true",
+    "featured": "false",
     "changelog": [
         {
             "version": "1.0.0",
