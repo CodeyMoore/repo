@@ -1,0 +1,16 @@
+Package: com.codeymoore.tvosessentials
+Version: 1.0-6
+Architecture: appletvos-arm64
+Maintainer: Codey Moore
+Installed-Size: 100
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0)
+Filename: ./debs/com.codeymoore.tvosessentials_1.0-6_appletvos-arm64.deb
+Size: 24434
+MD5sum: db835ad7bdc768706e63ec274934ec89
+SHA1: d56f700d8467388a4d99400390e3e633aeb0eec7
+SHA256: 11d1e4093b8848ba456f1a0aa105b6651407ce111fc0b50bb9f892b671c270cf
+Section: Tweaks
+Description: Essential Utilities ported to tvOS
+Author: Codey Moore
+Name: tvOSEssentials
+
