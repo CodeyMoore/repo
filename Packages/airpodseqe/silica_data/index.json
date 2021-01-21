@@ -1,0 +1,37 @@
+{
+    "bundle_id": "com.codeymoore.jj1553.airpodseqe",
+    "name": "JJ1553's AirPods 1/2 EQE Presets",
+    "version": "1.0.0",
+    "tagline": "Toned bass, Increase highs and Mids!",
+    "homepage": "https://codeymoore.github.io/repo/",
+    "developer": {
+        "name": "u/JJ1553",
+        "email": "null"
+    },
+    "maintainer": {
+        "name": "Codey Moore",
+        "email": "codeymooredev@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/CodeyMooreDev"
+        },
+        {
+            "name": "Website",
+            "url": "https://codeymoore.github.io/repo/"
+        }
+    ],
+    "section": "Tweaks",
+    "dependencies": "mobilesubstrate",
+    "tint": "#FF000",
+    "works_min": "7.0.0",
+    "works_max": "14.3",
+    "featured": "true",
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "changes": "Initial Release."
+        }
+    ]
+}
