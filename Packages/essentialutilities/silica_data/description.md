@@ -3,20 +3,15 @@ Are you on iOS 10 or below? check out [Essential Utilities (iOS 6-10)](https://c
   
   
 Tested iOS'  
-
-Most of iOS 12 and 13  
-
-iOS 12.4.7 and 13.5 are the iOS I've always tested on  
-
-Tested on iPadOS 14.2  
+- iOS 14.3 (Taurine)
+- iPadOS 14.4 (Checkra1n)
   
-
   
 A simple preference bundle thats gives users the able to -
 - SBReload
 - ldrestart
 - Enter Safe Mode
-- Reset UICache
+- Reset UICache & UICache --all
 - Restart Bluetoothd
 - Restart SpringBoard
 - Restart BackBoardd

@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.cpuxcrack",
     "name": "CPU-X Crack",
-    "version": "1.0",
+    "version": "1.1",
     "tagline": "Premium for CPU-X app!",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -26,12 +26,16 @@
     "dependencies": "firmware (>= 8.0.0)",
     "tint": "#FF000",
     "works_min": "8.0.0",
-    "works_max": "14.0",
+    "works_max": "14.5",
     "featured": "false",
     "changelog": [
         {
             "version": "1.0",
             "changes": "Initial Release."
+        },
+        {
+            "version": "1.1",
+            "changes": "Added proper support for arm64e."
         }
     ]
 }

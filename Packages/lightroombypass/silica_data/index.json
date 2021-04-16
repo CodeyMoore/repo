@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.lightroombypass",
     "name": "LightroomBypass",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "tagline": "Bypasses Lightroom login",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -26,7 +26,7 @@
     "dependencies": "mobilesubstrate, firmware (>= 12.0.0), ws.hbang.common (>= 1.11)",
     "tint": "#FF000",
     "works_min": "12.0.0",
-    "works_max": "14.3",
+    "works_max": "14.5",
     "featured": "true",
     "changelog": [
         {
@@ -44,6 +44,10 @@
         {
             "version": "1.0.2",
             "changes": "Added support for Lightroom on iPad."
+        },
+        {
+            "version": "1.0.3",
+            "changes": "Added proper support for arm64e."
         }
     ]
 }

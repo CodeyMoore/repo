@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.fleetusdeletus",
     "name": "FleetusDeletus",
-    "version": "1.0.1-1",
+    "version": "1.1",
     "tagline": "FLEETUS DELETUS!",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -26,7 +26,7 @@
     "dependencies": "mobilesubstrate, ws.hbang.common (>= 1.11)",
     "tint": "#FF000",
     "works_min": "12.0.0",
-    "works_max": "14.3",
+    "works_max": "14.5",
     "featured": "false",
     "changelog": [
         {
@@ -40,6 +40,10 @@
         {
             "version": "1.0.1-1",
             "changes": "Finally added a preference bundle icon.\n\n Added instructions on how to fix tweak if its not working."
+        },
+        {
+            "version": "1.1",
+            "changes": "Added proper support for arm64e."
         }
     ]
 }

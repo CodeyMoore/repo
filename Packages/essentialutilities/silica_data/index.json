@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.essentialutilities",
     "name": "Essential Utilities (iOS 11-14)",
-    "version": "1.5.1",
+    "version": "1.5.1-1",
     "tagline": "A preference bundle with essential commands",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -44,6 +44,10 @@
         {
             "version": "1.5.1",
             "changes": "Added 'ldrestart' button."
+        },
+        {
+            "version": "1.5.1-1",
+            "changes": "Added proper support for armv7 and arm64e."
         }
     ]
 }

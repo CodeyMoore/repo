@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.iglikesenabler",
     "name": "IGLikesEnabler",
-    "version": "1.0",
+    "version": "1.1",
     "tagline": "A FREE alternative for IGShowLike!",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -32,6 +32,10 @@
         {
             "version": "1.0.0",
             "changes": "Initial Release."
+        },
+        {
+            "version": "1.1",
+            "changes": "Added support for armv7 and arm64e."
         }
     ]
 }
