@@ -26,7 +26,7 @@
     "dependencies": "ws.hbang.common (>= 1.11), firmware (>= 11.0.0), com.smokin1337.ldrestarthelper",
     "tint": "#FF000",
     "works_min": "11.0.0",
-    "works_max": "14.5",
+    "works_max": "14.8",
     "featured": "true",
     "changelog": [
         {

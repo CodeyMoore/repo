@@ -26,7 +26,7 @@
     "dependencies": "mobilesubstrate, firmware (>= 12.0.0)",
     "tint": "#FF000",
     "works_min": "12.0.0",
-    "works_max": "14.0",
+    "works_max": "14.8",
     "featured": "true",
     "changelog": [
         {

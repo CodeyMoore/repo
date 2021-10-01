@@ -26,7 +26,7 @@
     "dependencies": "firmware (>= 8.0.0)",
     "tint": "#FF000",
     "works_min": "8.0.0",
-    "works_max": "14.5",
+    "works_max": "14.8",
     "featured": "false",
     "changelog": [
         {
