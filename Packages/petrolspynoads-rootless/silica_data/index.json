@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.codeymoore.petrolspynoads-rootless",
     "name": "PetrolSpyNoAds",
-    "version": "1.0",
+    "version": "1.0-rootless",
     "tagline": "Removes ads from PetrolSpy",
     "homepage": "https://codeymoore.github.io/repo/",
     "developer": {
@@ -30,7 +30,7 @@
     "featured": "false",
     "changelog": [
         {
-            "version": "1.0",
+            "version": "1.0-rootless",
             "changes": "Initial Release."
         }
     ]
