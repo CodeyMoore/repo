@@ -3,10 +3,10 @@ Label: Codey Moore's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: RIP Lil Peep
 
 SHA256:
- 31b2de145e5119f15a6b501c5008cfd8241c91fa4816981f35073cd41119a9a6 3343 Packages.bz2
- 29606a61bd4a372d4361e7cd3e0c96c117ca4c32a381b08e2b0eda468ecd0aaf 3184 Packages.xz
+ b1bdf2e024cfb1c556da5bca0f50b520acd5d15b4ecb3559dc2afe122dcfb58d 3472 Packages.bz2
+ 21a2d0db3caa57faa21eb79a9d99984120f951fa3670766c92b18806306a51a7 3340 Packages.xz

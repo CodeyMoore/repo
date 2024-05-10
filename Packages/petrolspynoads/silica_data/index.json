@@ -1,0 +1,37 @@
+{
+    "bundle_id": "com.codeymoore.petrolspynoads",
+    "name": "PetrolSpyNoAds",
+    "version": "1.0",
+    "tagline": "Removes ads from PetrolSpy",
+    "homepage": "https://codeymoore.github.io/repo/",
+    "developer": {
+        "name": "Codey Moore",
+        "email": "codeymooredev@gmail.com"
+    },
+    "maintainer": {
+        "name": "Codey Moore",
+        "email": "codeymooredev@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/CodeyMooreDev"
+        },
+        {
+            "name": "Website",
+            "url": "https://codeymoore.github.io/repo/"
+        }
+    ],
+    "section": "Tweaks",
+    "dependencies": "firmware (>= 11.0.0)",
+    "tint": "#FF000",
+    "works_min": "11.0.0",
+    "works_max": "18.0",
+    "featured": "false",
+    "changelog": [
+        {
+            "version": "1.0",
+            "changes": "Initial Release."
+        }
+    ]
+}
