@@ -33,7 +33,7 @@ class DebianPackager(object):
         release_file += "Suite: stable\n"
         release_file += "Version: 1.0\n"
         release_file += "Codename: ios\n"
-        release_file += "Architectures: iphoneos-arm\n"
+        release_file += "Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e\n"
         release_file += "Components: main\n"
         release_file += "Description: " + repo_settings['description'].replace("\n\n", "\n .\n ").replace("\n", "\n ") + "\n"
 
